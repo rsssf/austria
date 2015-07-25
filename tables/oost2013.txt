@@ -1,0 +1,784 @@
+<!--
+   source: http://www.rsssf.com/tableso/oost2013.html
+   html to text conversion on 2015-07-25 16:40:58 +0200
+  -->
+
+
+
+## Austria 2012/13
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Bundesliga
+
+ÖFB Cup
+
+1. Liga
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Bundesliga
+
+
+Final Table:
+
+ 1.FK Austria Wien              36  25  9  4  84-31  82  Champions
+ 2.RB Salzburg                  36  22 11  3  91-39  77
+ 3.SK Rapid Wien                36  16  9 11  57-39  57
+ 4.SK Sturm Graz                36  13  9 14  49-56  48
+ 5.Wolfsberger AC               36  12 11 13  53-56  47
+ 6.SV Ried                      36  13  7 16  60-59  46
+ 7.SC Wiener Neustadt           36   9  9 18  32-60  36
+ 8.FC Wacker Innsbruck          36  11  3 22  41-75  36
+ 9.FC Admira Wacker Mödling     36   9  8 19  47-68  35
+-------------------------------------------------------
+10.SV Mattersburg               36   9  8 19  36-67  35  Relegated
+
+NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
+
+Round 1
+[Jul 21]
+Rapid            4-0 Innsbruck
+Sturm            0-2 Salzburg
+Mattersburg      2-0 Wiener Neustadt
+[Jul 22]
+Admira Wacker    0-2 Ried
+[Jul 25]
+Wolfsberg        0-1 Austria
+
+Round 2
+[Jul 28]
+Austria          0-1 Sturm
+Salzburg         3-2 Mattersburg
+Wiener Neustadt  0-1 Rapid
+[Jul 29]
+Innsbruck        1-2 Admira Wacker
+Ried             0-2 Wolfsberg
+
+Round 3
+[Aug 4]
+Mattersburg      3-1 Sturm
+Wolfsberg        0-2 Salzburg
+[Aug 5]
+Admira Wacker    4-0 Wiener Neustadt
+Rapid            0-3 Austria
+Ried             2-0 Innsbruck
+
+Round 4
+[Aug 11]
+Innsbruck        2-1 Mattersburg
+Sturm            4-1 Wolfsberg
+[Aug 12]
+Austria          1-0 Admira Wacker
+Salzburg         0-2 Rapid
+Wiener Neustadt  2-3 Ried
+
+Round 5
+[Aug 18]
+Admira Wacker    4-4 Salzburg
+Innsbruck        2-3 Wiener Neustadt
+Rapid            3-0 Sturm
+Wolfsberg        0-1 Mattersburg
+[Aug 19]
+Ried             0-1 Austria
+
+Round 6
+[Aug 25]
+Austria          2-0 Innsbruck
+Salzburg         1-1 Wiener Neustadt
+Sturm            3-2 Admira Wacker
+Mattersburg      2-1 Ried
+[Aug 26]
+Wolfsberg        1-0 Rapid
+
+Round 7
+[Sep 1]
+Admira Wacker    1-1 Wolfsberg
+Innsbruck        0-4 Salzburg
+Wiener Neustadt  0-2 Austria
+Ried             0-1 Sturm
+[Sep 2]
+Rapid            3-0 Mattersburg
+
+Round 8
+[Sep 15]
+Rapid            0-0 Admira Wacker
+Salzburg         1-1 Ried
+Sturm            3-0 Innsbruck
+Wolfsberg        6-0 Wiener Neustadt
+[Sep 16]
+Mattersburg      2-4 Austria
+
+Round 9
+[Sep 22]
+Austria          0-1 Salzburg
+Admira Wacker    5-1 Mattersburg
+Innsbruck        0-1 Wolfsberg
+Wiener Neustadt  1-1 Sturm
+[Sep 23]
+Ried             0-2 Rapid
+
+Round 10
+[Sep 29]
+Austria          1-1 Wolfsberg
+Innsbruck        0-2 Rapid
+Wiener Neustadt  0-0 Mattersburg
+Ried             1-1 Admira Wacker
+[Sep 30]
+Salzburg         3-2 Sturm
+
+Round 11
+[Oct 6]
+Admira Wacker    4-1 Innsbruck
+Mattersburg      1-3 Salzburg
+Wolfsberg        2-5 Ried
+[Oct 7]
+Rapid            1-1 Wiener Neustadt
+Sturm            1-1 Austria
+
+Round 12
+[Oct 20]
+Innsbruck        1-0 Ried
+Salzburg         4-1 Wolfsberg
+Wiener Neustadt  2-1 Admira Wacker
+Sturm            0-0 Mattersburg
+[Oct 21]
+Austria          2-0 Rapid
+
+Round 13
+[Oct 27]
+Admira Wacker    4-6 Austria
+Mattersburg      1-2 Innsbruck
+Ried             3-1 Wiener Neustadt
+[Oct 28]
+Rapid            2-0 Salzburg
+[Nov 27]
+Wolfsberg        1-1 Sturm
+
+Round 14
+[Nov 3]
+Salzburg         5-0 Admira Wacker
+Wiener Neustadt  0-1 Innsbruck
+Sturm            2-1 Rapid
+Mattersburg      1-1 Wolfsberg
+[Nov 4]
+Austria          6-1 Ried
+
+Round 15
+[Nov 10]
+Admira Wacker    1-2 Sturm
+Innsbruck        0-3 Austria
+Ried             6-1 Mattersburg
+[Nov 11]
+Rapid            0-2 Wolfsberg
+Wiener Neustadt  0-3 Salzburg
+
+Round 16
+[Nov 17]
+Austria          3-0 Wiener Neustadt
+Sturm            3-1 Ried
+Mattersburg      0-3 Rapid
+Wolfsberg        1-1 Admira Wacker
+[Nov 18]
+Salzburg         2-0 Innsbruck
+
+Round 17
+[Nov 24]
+Austria          3-1 Mattersburg
+Innsbruck        awd Sturm            [awarded 0-3; abandoned at 0-1 in 90+1']
+Wiener Neustadt  2-1 Wolfsberg
+Ried             3-1 Salzburg
+[Nov 25]
+Admira Wacker    0-2 Rapid
+
+Round 18
+[Dec 1]
+Rapid            4-3 Ried
+Sturm            3-1 Wiener Neustadt
+Mattersburg      3-0 Admira Wacker
+Wolfsberg        2-2 Innsbruck
+[Dec 2]
+Salzburg         0-0 Austria
+
+Round 19
+[Dec 8]
+Admira Wacker    0-3 Ried
+Sturm            1-1 Salzburg
+Mattersburg      1-0 Wiener Neustadt
+Wolfsberg        3-6 Austria
+[Dec 9]
+Rapid            2-1 Innsbruck
+
+Round 20
+[Dec 15]
+Innsbruck        3-1 Admira Wacker
+Salzburg         7-0 Mattersburg
+Wiener Neustadt  1-0 Rapid
+[Dec 16]
+Austria          3-1 Sturm
+[Feb 20]
+Ried             1-1 Wolfsberg
+
+Round 21
+[Feb 16]
+Admira Wacker    1-2 Wiener Neustadt
+Mattersburg      0-0 Sturm
+Ried             3-0 Innsbruck
+[Feb 17]
+Rapid            1-2 Austria
+[Mar 6]
+Wolfsberg        1-1 Salzburg
+
+Round 22
+[Feb 23]
+Austria          4-0 Admira Wacker
+Innsbruck        2-0 Mattersburg
+Wiener Neustadt  0-0 Ried
+Sturm            1-3 Wolfsberg
+[Feb 24]
+Salzburg         3-3 Rapid
+
+Round 23
+[Feb 27]
+Ried             1-3 Austria
+Rapid            1-1 Sturm
+Innsbruck        1-0 Wiener Neustadt
+[Mar 13]
+Admira Wacker    1-1 Salzburg
+Wolfsberg        1-0 Mattersburg
+
+Round 24
+[Mar 2]
+Austria          4-0 Innsbruck
+Salzburg         3-1 Wiener Neustadt
+Sturm            1-2 Admira Wacker
+Mattersburg      1-0 Ried
+[Mar 3]
+Wolfsberg        2-1 Rapid
+
+Round 25
+[Mar 9]
+Admira Wacker    0-1 Wolfsberg
+Rapid            2-2 Mattersburg
+Wiener Neustadt  0-0 Austria
+Ried             1-2 Sturm
+[Mar 10]
+Innsbruck        2-3 Salzburg
+
+Round 26
+[Mar 16]
+Rapid            1-1 Admira Wacker
+Salzburg         2-2 Ried
+Sturm            3-2 Innsbruck
+Wolfsberg        1-1 Wiener Neustadt
+[Mar 17]
+Mattersburg      0-4 Austria
+
+Round 27
+[Mar 30]
+Admira Wacker    1-0 Mattersburg
+Innsbruck        2-3 Wolfsberg
+Wiener Neustadt  1-0 Sturm
+Ried             3-2 Rapid
+[Mar 31]
+Austria          1-1 Salzburg
+
+Round 28
+[Apr 6]
+Austria          0-4 Wolfsberg
+Innsbruck        1-1 Rapid
+Wiener Neustadt  0-0 Mattersburg
+Ried             4-1 Admira Wacker
+[Apr 7]
+Salzburg         3-0 Sturm
+
+Round 29
+[Apr 13]
+Admira Wacker    4-3 Innsbruck
+Rapid            2-0 Wiener Neustadt
+Mattersburg      1-2 Salzburg
+Wolfsberg        1-3 Ried
+[Apr 14]
+Sturm            1-1 Austria
+
+Round 30
+[Apr 20]
+Innsbruck        2-0 Ried
+Salzburg         6-2 Wolfsberg
+Wiener Neustadt  3-0 Admira Wacker
+Sturm            2-2 Mattersburg
+[Apr 621]
+Austria          2-2 Rapid
+
+Round 31
+[Apr 27]
+Rapid            1-3 Salzburg
+Mattersburg      1-2 Innsbruck
+Ried             2-1 Wiener Neustadt
+Wolfsberg        3-0 Sturm
+[Apr 28]
+Admira Wacker    0-2 Austria
+
+Round 32
+[May 4]
+Austria          3-1 Ried
+Salzburg         2-1 Admira Wacker
+Wiener Neustadt  2-2 Innsbruck
+Mattersburg      3-1 Wolfsberg
+[May 5]
+Sturm            1-3 Rapid
+
+Round 33
+[May 11]
+Admira Wacker    3-0 Sturm
+Innsbruck        0-3 Austria
+Rapid            0-0 Wolfsberg
+Ried             1-1 Mattersburg
+[May 12]
+Wiener Neustadt  0-6 Salzburg
+
+Round 34
+[May 18]
+Austria          3-1 Wiener Neustadt
+Salzburg         3-1 Innsbruck
+Mattersburg      2-0 Rapid
+Wolfsberg        0-0 Admira Wacker
+[May 19]
+Sturm            3-1 Ried
+
+Round 35 [May 22]
+Wiener Neustadt  2-0 Wolfsberg
+Austria          4-0 Mattersburg
+Admira Wacker    0-2 Rapid
+Ried             2-2 Salzburg
+Innsbruck        2-1 Sturm
+
+Round 36 [May 26]
+Rapid            3-0 Ried
+Salzburg         3-0 Austria
+Sturm            0-3 Wiener Neustadt
+Mattersburg      0-1 Admira Wacker
+Wolfsberg        2-3 Innsbruck
+
+Final Table:
+
+ 1.FK Austria Wien              36  25  9  4  84-31  82  Champions
+ 2.RB Salzburg                  36  22 11  3  91-39  77
+ 3.SK Rapid Wien                36  16  9 11  57-39  57
+ 4.SK Sturm Graz                36  13  9 14  49-56  48
+ 5.Wolfsberger AC               36  12 11 13  53-56  47
+ 6.SV Ried                      36  13  7 16  60-59  46
+ 7.SC Wiener Neustadt           36   9  9 18  32-60  36
+ 8.FC Wacker Innsbruck          36  11  3 22  41-75  36
+ 9.FC Admira Wacker Mödling     36   9  8 19  47-68  35
+-------------------------------------------------------
+10.SV Mattersburg               36   9  8 19  36-67  35  Relegated
+
+NB: promoted side Wolfsberger AC/SK St. Andrä were renamed Wolfsberger AC
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### ÖFB Cup
+
+
+1/8 Finals
+[Oct 30]
+Linzer ASK       2-2 SV Mattersburg   [aet, 9-8 pen]
+Wiener Viktoria  0-1 SV Ried
+Sturm Graz       1-2 Wacker Innsbruck
+FC Pasching      2-1 Austria Klagenfurt
+FC Lustenau      1-2 Wolfsberger AC
+[Oct 31]
+SC Kalsdorf      1-3 RB Salzburg
+Rapid Wien       4-2 SCR Altach       [aet]
+Villacher SV     0-4 Austria Wien
+
+Quarterfinals
+[Apr 16]
+Rapid Wien       0-1 FC Pasching
+Wacker Innsbruck 0-3 RB Salzburg
+[Apr 17]
+Wolfsberger AC   1-2 Austria Wien
+SV Ried          2-1 Linzer ASK       [aet]
+
+Semifinals
+[May 7]
+RB Salzburg      1-2 FC Pasching
+[May 8]
+SV Ried          1-3 Austria Wien
+
+Final [May 30, Ernst Happel Stadion, Wien]
+FC Pasching      1-0 Austria Wien
+  [Sobkova 47]
+
+NB: FC Pasching play in the Regionalliga Mitte and are the first third level club
+    to win the Austrian cup; in the last three rounds, they eliminated the national
+    top-3 of Rapid, Salzburg and Austria, all away from home.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### 1. Liga (Second Level)
+
+
+Final Table:
+
+ 1.SV Grödig                    36  23  6  7  71-30  75  Promoted
+-------------------------------------------------------
+ 2.SC Rheindorf Altach          36  19  8  9  57-39  65
+ 3.SC Austria Lustenau          36  18  7 11  60-39  61
+ 4.SKN Sankt Pölten             36  14 12 10  65-60  54
+ 5.Kapfenberger SV              36  14 11 11  56-50  53
+ 6.SV Horn                      36  13  7 16  50-55  46
+ 7.First Vienna FC 1894         36  13  7 16  48-64  46
+ 8.FC Lustenau                  36  10  8 18  44-66  38  Relegated
+ 9.TSV Hartberg                 36   8  9 19  35-54  33
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.FC Blau-Weiss Linz           36   5 11 20  38-67  26  Relegation Playoff
+
+NB: FC Lustenau relegated due to break of license conditions
+
+Round 1 [Jul 20]
+Austria L        5-0 Kapfenberg
+BW Linz          2-2 Hartberg
+St. Pölten       5-2 Vienna
+Grödig           3-0 FC Lustenau
+Horn             3-4 Altach
+
+Round 2 [Jul 27]
+FC Lustenau      1-1 St. Pölten
+Vienna           0-0 BW Linz
+Kapfenberg       3-3 Horn
+Altach           0-1 Grödig
+Hartberg         0-1 Austria L
+
+Round 3 [Aug 3]
+Austria L        2-0 Altach
+BW Linz          0-1 FC Lustenau
+St. Pölten       3-0 Kapfenberg
+Grödig           0-2 Horn
+Hartberg         1-0 Vienna
+
+Round 4
+[Aug 6]
+Kapfenberg       2-2 BW Linz
+[Aug 7]
+FC Lustenau      0-1 Hartberg
+Vienna           1-3 Grödig
+Altach           1-4 St. Pölten
+Horn             0-3 Austria L
+
+Round 5 [Aug 10]
+Austria L        2-2 Grödig
+BW Linz          0-2 Altach
+Vienna           2-4 FC Lustenau
+St. Pölten       2-1 Horn
+Hartberg         1-1 Kapfenberg
+
+Round 6 [Aug 17]
+Austria L        3-0 St. Pölten
+Kapfenberg       3-3 Vienna
+Altach           3-0 FC Lustenau
+Grödig           0-0 Hartberg
+Horn             1-1 BW Linz
+
+Round 7 [Aug 24]
+BW Linz          2-4 Austria L
+FC Lustenau      2-0 Kapfenberg
+Vienna           2-1 Altach
+St. Pölten       0-3 Grödig
+Hartberg         0-2 Horn
+
+Round 8 [Aug 31]
+Austria L        1-1 FC Lustenau
+Altach           4-1 Hartberg
+St. Pölten       4-1 BW Linz
+Grödig           0-1 Kapfenberg
+Horn             1-0 Vienna
+
+Round 9 [Sep 14]
+BW Linz          1-3 Grödig
+FC Lustenau      1-2 Horn
+Vienna           0-5 Austria L
+Kapfenberg       1-1 Altach
+Hartberg         3-1 St. Pölten
+
+Round 10 [Sep 21]
+FC Lustenau      1-1 Grödig
+Vienna           1-5 St. Pölten
+Kapfenberg       0-0 Austria L
+Altach           3-0 Horn
+Hartberg         1-3 BW Linz
+
+Round 11 [Sep 28]
+Austria L        3-1 Hartberg
+BW Linz          0-1 Vienna
+St. Pölten       2-1 FC Lustenau
+Grödig           1-0 Altach
+Horn             2-0 Kapfenberg
+
+Round 12 [Oct 5]
+FC Lustenau      4-0 BW Linz
+Vienna           2-0 Hartberg
+Kapfenberg       0-0 St. Pölten
+Altach           1-2 Austria L
+Horn             0-3 Grödig
+
+Round 13 [Oct 19]
+Austria L        4-1 Horn
+BW Linz          0-3 Kapfenberg
+St. Pölten       3-2 Altach
+Grödig           2-0 Vienna
+Hartberg         1-2 FC Lustenau
+
+Round 14 [Oct 26]
+FC Lustenau      2-1 Vienna
+Kapfenberg       1-2 Hartberg
+Altach           1-1 BW Linz
+Grödig           1-0 Austria L
+Horn             2-1 St. Pölten
+
+Round 15 [Nov 2]
+BW Linz          3-0 Horn
+Vienna           3-1 Kapfenberg
+St. Pölten       2-1 Austria L
+Hartberg         3-0 Grödig
+FC Lustenau      0-1 Altach
+
+Round 16 [Nov 9]
+Austria L        2-1 BW Linz
+Kapfenberg       2-4 FC Lustenau
+Altach           3-0 Vienna
+Grödig           3-4 St. Pölten
+Horn             0-0 Hartberg
+
+Round 17 [Nov 16]
+FC Lustenau      0-1 Austria L
+Kapfenberg       2-0 Grödig
+Vienna           3-0 Horn
+BW Linz          2-2 St. Pölten
+Hartberg         0-0 Altach
+
+Round 18 [Nov 23]
+Austria L        3-0 Vienna
+Altach           2-1 Kapfenberg
+St. Pölten       4-1 Hartberg
+Grödig           3-0 BW Linz
+Horn             2-2 FC Lustenau
+
+Round 19 [Nov 30]
+Austria L        2-0 Kapfenberg
+BW Linz          0-1 Hartberg
+St. Pölten       2-2 Vienna
+Grödig           4-1 FC Lustenau
+Horn             0-1 Altach
+
+Round 20
+[Feb 26]
+FC Lustenau      3-1 St. Pölten
+[Mar 18]
+Vienna           1-1 BW Linz
+Altach           1-0 Grödig
+[Mar 28]
+Hartberg         0-0 Austria L
+[Apr 23]
+Kapfenberg       2-1 Horn
+
+Round 21
+[Mar 1]
+Austria L        2-2 Altach
+BW Linz          1-1 FC Lustenau
+St. Pölten       1-7 Kapfenberg
+Hartberg         0-2 Vienna
+[Mar 29]
+Grödig           2-1 Horn
+
+Round 22 [Mar 8]
+FC Lustenau      1-0 Hartberg
+Vienna           1-2 Grödig
+Kapfenberg       1-0 BW Linz
+Altach           2-1 St. Pölten
+Horn             5-0 Austria L
+
+Round 23
+[Mar 11]
+Hartberg         1-3 Kapfenberg
+[Mar 12]
+Austria L        1-2 Grödig
+BW Linz          1-1 Altach
+Vienna           1-0 FC Lustenau
+St. Pölten       1-1 Horn
+
+Round 24 [Mar 15]
+Austria L        2-2 St. Pölten
+Kapfenberg       3-0 Vienna
+Altach           0-0 FC Lustenau
+Grödig           3-0 Hartberg
+Horn             2-0 BW Linz
+
+Round 25
+[Apr 1]
+St. Pölten       1-2 Grödig
+[Apr 2]
+BW Linz          3-0 Austria L
+FC Lustenau      1-3 Kapfenberg
+Vienna           3-0 Altach
+[May 6]
+Hartberg         0-3 Horn
+
+Round 26 [Apr 25]
+Austria L        1-0 FC Lustenau
+Altach           2-0 Hartberg
+St. Pölten       2-1 BW Linz
+Grödig           0-1 Kapfenberg
+Horn             2-3 Vienna
+
+Round 27
+[Apr 8]
+Kapfenberg       2-2 Altach
+[Apr 9]
+BW Linz          0-3 Grödig
+FC Lustenau      1-1 Horn
+Vienna           0-0 Austria L
+Hartberg         0-0 St. Pölten
+
+Round 28
+[Apr 12]
+FC Lustenau      0-5 Grödig
+Vienna           2-2 St. Pölten
+Kapfenberg       2-1 Austria L
+Altach           2-0 Horn
+[Apr 15]
+Hartberg         2-2 BW Linz
+
+Round 29 [Apr 19]
+Austria L        1-3 Hartberg
+BW Linz          2-3 Vienna
+St. Pölten       2-2 FC Lustenau
+Grödig           3-1 Altach
+Horn             0-3 Kapfenberg
+
+Round 30 [Apr 26]
+FC Lustenau      4-3 BW Linz
+Vienna           1-1 Hartberg
+Kapfenberg       1-1 St. Pölten
+Altach           2-0 Austria L
+Horn             1-1 Grödig
+
+Round 31
+[Apr 29]
+Austria L        0-1 Horn
+[Apr 30]
+BW Linz          1-1 Kapfenberg
+St. Pölten       1-1 Altach
+Grödig           3-0 Vienna
+Hartberg         6-1 FC Lustenau
+
+Round 32 [May 3]
+FC Lustenau      1-2 Vienna
+Kapfenberg       2-1 Hartberg
+Altach           2-1 BW Linz
+Grödig           2-1 Austria L
+Horn             2-0 St. Pölten
+
+Round 33 [May 10]
+BW Linz          2-1 Horn
+FC Lustenau      1-2 Altach
+Vienna           2-1 Kapfenberg
+St. Pölten       2-1 Austria L
+Hartberg         0-2 Grödig
+
+Round 34 [May 17]
+Austria L        1-0 BW Linz
+Kapfenberg       2-0 FC Lustenau
+Altach           3-1 Vienna
+Grödig           2-2 St. Pölten
+Horn             2-1 Hartberg
+
+Round 35
+[May 21]
+Kapfenberg       1-1 Grödig
+Hartberg         1-2 Altach
+BW Linz          1-0 St. Pölten
+FC Lustenau      1-4 Austria L
+Vienna           abd Horn             [abandoned at 1-1 in 32' due to thgunderstrom]
+[May 22]
+Vienna           3-1 Horn             [replay]
+
+Round 36 [May 24]
+Austria L        1-0 Vienna
+Altach           2-0 Kapfenberg
+St. Pölten       1-0 Hartberg
+Grödig           5-0 BW Linz
+Horn             4-0 FC Lustenau
+
+Final Table:
+
+ 1.SV Grödig                    36  23  6  7  71-30  75  Promoted
+-------------------------------------------------------
+ 2.SC Rheindorf Altach          36  19  8  9  57-39  65
+ 3.SC Austria Lustenau          36  18  7 11  60-39  61
+ 4.SKN Sankt Pölten             36  14 12 10  65-60  54
+ 5.Kapfenberger SV              36  14 11 11  56-50  53
+ 6.SV Horn                      36  13  7 16  50-55  46
+ 7.First Vienna FC 1894         36  13  7 16  48-64  46
+ 8.FC Lustenau                  36  10  8 18  44-66  38  Relegated
+ 9.TSV Hartberg                 36   8  9 19  35-54  33
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10.FC Blau-Weiss Linz           36   5 11 20  38-67  26  Relegation Playoff
+
+NB: FC Lustenau relegated due to break of license conditions
+
+**Promotion/Relegation Playoff**
+
+Participants:
+FC Blau-Weiss Linz (1.Liga)
+FC Liefering (winners Regionalliga West; formerly RB Salzburg II)
+Linzer ASK (winners Regionalliga Mitte)
+SC/ESV Parndorf (winners Regionalliga Ost)
+
+First Legs [Jun 3]
+Liefering        2-0 Linzer ASK
+Parndorf         2-1 BW Linz
+
+Second Legs
+[Jun 6]
+Linzer ASK       0-3 Liefering
+[Jun 7]
+BW Linz          0-1 Parndorf
+
+Promoted: Liefering and Parndorf
+Relegated: BW Linz
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+2011/12.
+
+2013/14.
+
+list of final tables.
+
+list of champions.
+
+list of cup finals.
+
+list of super cup finals.
+
+list of foundation dates.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+Rec.Sport.Soccer Statistics Foundation
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+
+Last updated: 31 Jul 2014
+
+
+**(C) Copyright Hans Schöggl, Karel Stokkermans
+and RSSSF 2012/14**
+
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.
