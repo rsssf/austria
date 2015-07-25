@@ -1,0 +1,144 @@
+<!--
+   source: http://www.rsssf.com/tableso/oost2016.html
+   html to text conversion on 2015-07-25 19:37:26 +0200
+  -->
+
+
+
+## Austria 2015/16
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Bundesliga
+
+ÖFB Cup
+
+1. Liga
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Bundesliga
+
+
+Round 1
+[Jul 25]
+Mattersburg       -  Salzburg
+Rapid             -  Ried
+Sturm             -  Admira Wacker
+Grödig            -  Altach
+[Jul 26]
+Wolfsberg         -  Austria
+
+Table:
+
+ 1.RB Salzburg                   0   0  0  0   0- 0   0
+ 2.SK Rapid Wien                 0   0  0  0   0- 0   0
+ 3.SC Rheindorf Altach           0   0  0  0   0- 0   0
+ 4.SK Sturm Graz                 0   0  0  0   0- 0   0
+ 5.Wolfsberger AC                0   0  0  0   0- 0   0
+ 6.SV Ried                       0   0  0  0   0- 0   0
+ 7.FK Austria Wien               0   0  0  0   0- 0   0
+ 8.SV Grödig                     0   0  0  0   0- 0   0
+ 9.FC Admira Wacker Mödling      0   0  0  0   0- 0   0
+-------------------------------------------------------
+10.SV Mattersburg                0   0  0  0   0- 0   0
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### ÖFB Cup
+
+
+Round 1
+[Jul 17]
+SC Weiz                     1-5 SK Rapid Wien
+First Vienna FC             0-1 SC Wiener Neustadt
+VST Völkermarkt             2-2 FC Lendorf                  [aet, 5-6 pen]
+FC Blau-Weiß Linz           1-1 FC Wacker Innsbruck         [aet, 4-5 pen]
+SV Wallern                  2-1 SK Vorwärts Steyr
+SV Allerheiligen            0-3 Kapfenberger SV
+SV Lafnitz                  1-2 SC Rheindorf Altach
+SV Innsbruck               0-15 SV Ried/Innkreis
+SV Oberwart                 0-3 FK Austria Wien
+SKU Amstetten               3-2 ASK Kottingbrunn            [aet]
+SV Horn                     2-0 SC Ritzing
+1. SC Sollenau              0-3 SV Mattersburg
+Kremser SC                  6-1 SC Trausdorf
+SC/ESV Parndorf             2-7 Linzer ASK
+[Jul 18]
+Union Gmunden               1-0 SV Grödig
+ASK Ebreichsdorf            4-0 FC Penzing Wien
+SV Leobendorf               0-0 Wiener SK                   [aet, 4-3 pen]
+FC Golling                  0-6 Floridsdorfer AC (Wien)
+TSV Neumarkt/Wallersee      0-3 FC Hard
+SC Deutschlandsberg         0-7 FC Red Bull Salzburg
+Schwarz-Weiß Bregenz        0-1 FC Wels
+ATSV Stadl-Paura            1-5 WSG Swarovski Wattens
+USC Eugendorf               2-4 SV Austria Salzburg         [aet]
+TSV St. Johann/Pongau       4-0 FC Kitzbühel
+FC Dornbirn                 0-2 SKN St. Pölten
+FC Höchst                   1-2 SV Seekirchen
+SV Schwechat                1-1 FC Admira Wacker Mödling    [aet, 2-4 pen]
+TSV Hartberg                0-6 SK Sturm Graz
+[Jul 19]
+Annabichler SV (Klagenfurt) 1-4 FC Stadlau
+SV Reichenau                1-4 SK Austria Klagenfurt
+FC Piberstein Lankowitz     3-1 SC Austria Lustenau
+ASKÖ Köttmannsdorf          0-6 Wolfsberger AC
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### 1. Liga (Second Level)
+
+
+Table:
+
+ 1.SC Wiener Neustadt            0   0  0  0   0- 0   0
+-------------------------------------------------------
+ 2.FC Liefering                  0   0  0  0   0- 0   0  [*]
+ 3.LASK Linz                     0   0  0  0   0- 0   0
+ 4.Kapfenberger SV               0   0  0  0   0- 0   0
+ 5.SKN Sankt Pölten              0   0  0  0   0- 0   0
+ 6.FC Wacker Innsbruck           0   0  0  0   0- 0   0
+ 7.SC Austria Lustenau           0   0  0  0   0- 0   0
+ 8.Floridsdorfer AC              0   0  0  0   0- 0   0
+-------------------------------------------------------
+ 9.SV Austria Salzburg           0   0  0  0   0- 0   0
+10.SK Austria Klagenfurt         0   0  0  0   0- 0   0
+
+[*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+2014/15.
+
+list of final tables.
+
+list of champions.
+
+list of cup finals.
+
+list of super cup finals.
+
+list of foundation dates.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+Rec.Sport.Soccer Statistics Foundation
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+
+Last updated: 23 Jul 2015
+
+
+**(C) Copyright Hans Schöggl, Karel Stokkermans
+and RSSSF 2015**
+
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.
