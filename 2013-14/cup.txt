@@ -1,31 +1,31 @@
-#### ÖFB Cup
+## Ã–FB Cup
 
 Round 1
 [Jul 13]
-SAK Klagenfurt              3-1 Union Vöcklamarkt
+SAK Klagenfurt              3-1 Union VÃ¶cklamarkt
 ATSV Ober-Grafendorf        2-5 SKU Amstetten
-FC Blau-Weiß Linz           1-5 SV Mattersburg
-FAC Team für Wien           3-1 FC Kufstein
+FC Blau-WeiÃŸ Linz           1-5 SV Mattersburg
+FAC Team fÃ¼r Wien           3-1 FC Kufstein
 SC Leopoldsdorf/Marchfeld   1-2 SC/ESV Parndorf             [aet]
-SV Wals-Grünau              1-2 SKN St. Pölten
-SV Seekirchen               0-2 FC Admira Wacker Mödling
+SV Wals-GrÃ¼nau              1-2 SKN St. PÃ¶lten
+SV Seekirchen               0-2 FC Admira Wacker MÃ¶dling
 SV Lafnitz                  0-4 SC Rheindorf Altach
 DSV Leoben                  2-3 Kapfenberger SV
-Schwarz-Weiß Bregenz        0-4 SV Ried/Innkreis
+Schwarz-WeiÃŸ Bregenz        0-4 SV Ried/Innkreis
 FC Dornbirn                 1-2 First Vienna FC
 SV Oberwart                 0-3 FK Austria Wien
 SV Schwechat                0-3 SC Kalsdorf
 1. SC Sollenau              1-1 Wiener SK                   [aet, 4-3 pen]
 [Jul 14]
 SC Pinkafeld                4-2 TSV Neumarkt                [aet]
-ASK Bad Vöslau              2-3 TSV Hartberg
-SV Austria Salzburg         1-1 SV Grödig                   [aet, 6-5 pen]
-SV Dornbirn                 1-0 FC Kitzbühel
+ASK Bad VÃ¶slau              2-3 TSV Hartberg
+SV Austria Salzburg         1-1 SV GrÃ¶dig                   [aet, 6-5 pen]
+SV Dornbirn                 1-0 FC KitzbÃ¼hel
 SK Austria Klagenfurt       3-2 SC Wiener Viktoria
-ASV Daßburg                 0-3 SC Wiener Neustadt
+ASV DaÃŸburg                 0-3 SC Wiener Neustadt
 FC St. Veit                 1-5 FC Piberstein Lankowitz
 Villacher SV                5-5 WSG Swarovski Wattens       [aet, 5-4 pen]
-SC Retz                     2-2 SK Vorwärts Steyr           [aet, 2-4 pen]
+SC Retz                     2-2 SK VorwÃ¤rts Steyr           [aet, 2-4 pen]
 SC Schwaz                   0-3 Wolfsberger AC
 FC Hard                     1-3 SV Horn
 TSV St. Johann/Pongau       0-5 FC Pasching
@@ -40,13 +40,13 @@ Union St. Florian           0-9 FC Red Bull Salzburg
 Round 2
 [Sep 23]
 SAK Klagenfurt              4-2 TSV Hartberg                [aet]
-Linzer ASK                  3-4 SKN St. Pölten
+Linzer ASK                  3-4 SKN St. PÃ¶lten
 Villacher SV                0-3 Kapfenberger SV
 [Sep 24]
 SV Austria Salzburg         1-1 SV Mattersburg              [aet, 2-4 pen]
 SC Kalsdorf                 2-1 FC Austria Wien
 SK Austria Klagenfurt       0-2 SC/ESV Parndorf
-SK Vorwärts Steyr           1-2 SC Austria Lustenau
+SK VorwÃ¤rts Steyr           1-2 SC Austria Lustenau
 SKU Amstetten               2-1 SC Rheindorf Altach
 1. SC Sollenau              0-4 First Vienna FC
 SC Mannsdorf                4-6 SV Horn                     [aet]
@@ -56,35 +56,35 @@ SV Dornbirn                 0-2 SV Ried/Innkreis
 SK Sturm Graz               3-0 SC Wiener Neustadt          [aet]
 SC Pinkafeld                1-4 Wolfsberger AC
 FC Pibersteion Lankowitz    1-1 FC Red Bull Salzburg        [aet, 5-6 pen]
-FAC Team für Wien           0-0 FC Admira Wacker Mödling    [aet, 5-6 pen]
+FAC Team fÃ¼r Wien           0-0 FC Admira Wacker MÃ¶dling    [aet, 5-6 pen]
 
 Round 3
 [Oct 28]
-SC Kalsdorf                 0-4 SKN St. Pölten
+SC Kalsdorf                 0-4 SKN St. PÃ¶lten
 SV Horn                     5-4 SC/ESV Parndorf
 [Oct 29]
 SKU Amstetten               2-0 SV Mattersburg
 FC Pasching                 2-4 Wolfsberger AC              [aet]
 SAK Klagenfurt              0-1 SV Ried/Innkreis
-FC Admira Wacker Mödling    3-1 First Vienna FC
+FC Admira Wacker MÃ¶dling    3-1 First Vienna FC
 [Oct 30]
 SC Austria Lustenau         0-4 SK Sturm Graz
 Kapfenberger SV             1-7 FC Red Bull Salzburg
 
 Quarterfinals
 [Apr 8]
-FC Admira Wacker Mödling    0-1 SK Sturm Graz
+FC Admira Wacker MÃ¶dling    0-1 SK Sturm Graz
 [Apr 15]
 SV Horn                     2-0 SKU Amstetten
-SV Ried/Innkreis            1-2 SKN St. Pölten
+SV Ried/Innkreis            1-2 SKN St. PÃ¶lten
 [Apr 16]
 Wolfsberger AC              0-6 FC Red Bull Salzburg
 
 Semifinals [May 7]
 SV Horn                     0-7 FC Red Bull Salzburg
-SKN St. Pölten              1-0 SK Sturm Graz               [aet]
+SKN St. PÃ¶lten              1-0 SK Sturm Graz               [aet]
 
 Final [May 18, Klagenfurt]
-FC Red Bull Salzburg        4-2 SKN St. Pölten
+FC Red Bull Salzburg        4-2 SKN St. PÃ¶lten
   [Klein 35, Kampl 41, Soriano 63, 67; Jano 39, Noel 70]
 

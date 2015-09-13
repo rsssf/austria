@@ -4,12 +4,12 @@
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
 Austria (Österreich)
 
-_Last Update: 2015-07-25 20:13:20 +0200_
+_Last Update: 2015-09-13 14:08:14 +0200_
 
 | Season | League, Cup | Rounds |
 |:------ | :---------- | -----: |
-| 2015-16 | [1-bundesliga.txt](2015-16/1-bundesliga.txt) | 1 |
-| 2015-16 | [cup.txt](2015-16/cup.txt) | 1 |
+| 2015-16 | [1-bundesliga.txt](2015-16/1-bundesliga.txt) | 2 |
+| 2015-16 | [cup.txt](2015-16/cup.txt) | 2 |
 | 2014-15 | [1-bundesliga.txt](2014-15/1-bundesliga.txt) | 36 |
 | 2014-15 | [cup.txt](2014-15/cup.txt) | 6 |
 | 2013-14 | [1-bundesliga.txt](2013-14/1-bundesliga.txt) | 36 |

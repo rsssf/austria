@@ -1,8 +1,8 @@
-#### ÖFB Cup
+## Ã–FB Cup
 
 1/8 Finals
 [Oct 25]
-Wacker Innsbruck    0-1 SV Grödig
+Wacker Innsbruck    0-1 SV GrÃ¶dig
 RB Salzburg II      3-1 BW Linz
 Austria Lustenau    4-1 FC Lustenau
 Rapid Wien II       0-2 TSV Hartberg
@@ -10,11 +10,11 @@ Rapid Wien II       0-2 TSV Hartberg
 SVG Reichenau       0-2 Austria Wien
 RB Salzburg         2-1 Linzer ASK
 Rapid Wien          1-2 SV Ried             [aet]
-Sturm Graz          3-1 Admira Wacker Mödling
+Sturm Graz          3-1 Admira Wacker MÃ¶dling
 
 Quarterfinals
 [Apr 10]
-SV Grödig           2-3 SV Ried
+SV GrÃ¶dig           2-3 SV Ried
 Austria Lustenau    1-2 Austria Wien
 [Apr 11]
 RB Salzburg         4-1 RB Salzburg II
@@ -28,5 +28,5 @@ SV Ried             2-0 Austria Wien
 
 Final [May 20]
 RB Salzburg         3-0 SV Ried
-  [Leonardo 10pen, Schiemer 14, Hierländer 90+1]
+  [Leonardo 10pen, Schiemer 14, HierlÃ¤nder 90+1]
 

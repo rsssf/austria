@@ -1,11 +1,20 @@
-#### Bundesliga
+## Bundesliga
 
 Round 1
 [Jul 25]
-Mattersburg       -  Salzburg
-Rapid             -  Ried
-Sturm             -  Admira Wacker
-Gr�dig            -  Altach
+Mattersburg      2-1 Salzburg
+Rapid            3-0 Ried
+Sturm            1-1 Admira Wacker
+Grödig           2-1 Altach
 [Jul 26]
-Wolfsberg         -  Austria
+Wolfsberg        0-2 Austria
+
+Round 2
+[Aug 1]
+Salzburg         1-2 Rapid
+Admira Wacker    2-1 Mattersburg
+[Aug 2]
+Austria          3-1 Altach
+Ried             0-0 Wolfsberg
+Sturm            1-1 Grödig
 
