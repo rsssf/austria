@@ -1,6 +1,5 @@
 <!--
-   source: http://www.rsssf.com/tableso/oost2016.html
-   html to text conversion on 2015-07-25 19:37:26 +0200
+   source: http://rsssf.com/tableso/oost2016.html
   -->
 
 
@@ -8,53 +7,73 @@
 ## Austria 2015/16
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Bundesliga
-
-�FB Cup
-
-1. Liga
+‹Bundesliga›
+‹ÖFB Cup›
+‹1. Liga›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #### Bundesliga
 
 
+Table:
+
+ 1.FK Austria Wien               2   2  0  0   5- 1   6
+ 2.SK Rapid Wien                 2   2  0  0   5- 1   6
+ 3.FC Admira Wacker Mödling      2   1  1  0   3- 2   4
+ 4.SV Grödig                     2   1  1  0   3- 2   4
+ 5.SV Mattersburg                2   1  0  1   3- 3   3
+ 6.SK Sturm Graz                 2   0  2  0   2- 2   2
+ 7.Wolfsberger AC                2   0  1  1   0- 2   1
+ 8.SV Ried                       2   0  1  1   0- 3   1
+ 9.RB Salzburg                   2   0  0  2   2- 4   0
+-------------------------------------------------------
+10.SC Rheindorf Altach           2   0  0  2   2- 5   0
+
 Round 1
 [Jul 25]
-Mattersburg       -  Salzburg
-Rapid             -  Ried
-Sturm             -  Admira Wacker
-Gr�dig            -  Altach
+Mattersburg      2-1 Salzburg
+Rapid            3-0 Ried
+Sturm            1-1 Admira Wacker
+Grödig           2-1 Altach
 [Jul 26]
-Wolfsberg         -  Austria
+Wolfsberg        0-2 Austria
+
+Round 2
+[Aug 1]
+Salzburg         1-2 Rapid
+Admira Wacker    2-1 Mattersburg
+[Aug 2]
+Austria          3-1 Altach
+Ried             0-0 Wolfsberg
+Sturm            1-1 Grödig
 
 Table:
 
- 1.RB Salzburg                   0   0  0  0   0- 0   0
- 2.SK Rapid Wien                 0   0  0  0   0- 0   0
- 3.SC Rheindorf Altach           0   0  0  0   0- 0   0
- 4.SK Sturm Graz                 0   0  0  0   0- 0   0
- 5.Wolfsberger AC                0   0  0  0   0- 0   0
- 6.SV Ried                       0   0  0  0   0- 0   0
- 7.FK Austria Wien               0   0  0  0   0- 0   0
- 8.SV Gr�dig                     0   0  0  0   0- 0   0
- 9.FC Admira Wacker M�dling      0   0  0  0   0- 0   0
+ 1.FK Austria Wien               2   2  0  0   5- 1   6
+ 2.SK Rapid Wien                 2   2  0  0   5- 1   6
+ 3.FC Admira Wacker Mödling      2   1  1  0   3- 2   4
+ 4.SV Grödig                     2   1  1  0   3- 2   4
+ 5.SV Mattersburg                2   1  0  1   3- 3   3
+ 6.SK Sturm Graz                 2   0  2  0   2- 2   2
+ 7.Wolfsberger AC                2   0  1  1   0- 2   1
+ 8.SV Ried                       2   0  1  1   0- 3   1
+ 9.RB Salzburg                   2   0  0  2   2- 4   0
 -------------------------------------------------------
-10.SV Mattersburg                0   0  0  0   0- 0   0
-
+10.SC Rheindorf Altach           2   0  0  2   2- 5   0
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### �FB Cup
+#### ÖFB Cup
 
 
 Round 1
 [Jul 17]
 SC Weiz                     1-5 SK Rapid Wien
 First Vienna FC             0-1 SC Wiener Neustadt
-VST V�lkermarkt             2-2 FC Lendorf                  [aet, 5-6 pen]
-FC Blau-Wei� Linz           1-1 FC Wacker Innsbruck         [aet, 4-5 pen]
-SV Wallern                  2-1 SK Vorw�rts Steyr
+VST Völkermarkt             2-2 FC Lendorf                  [aet, 5-6 pen]
+FC Blau-Weiß Linz           1-1 FC Wacker Innsbruck         [aet, 4-5 pen]
+SV Wallern                  2-1 SK Vorwärts Steyr
 SV Allerheiligen            0-3 Kapfenberger SV
 SV Lafnitz                  1-2 SC Rheindorf Altach
 SV Innsbruck               0-15 SV Ried/Innkreis
@@ -65,25 +84,43 @@ SV Horn                     2-0 SC Ritzing
 Kremser SC                  6-1 SC Trausdorf
 SC/ESV Parndorf             2-7 Linzer ASK
 [Jul 18]
-Union Gmunden               1-0 SV Gr�dig
+Union Gurten                1-0 SV Grödig
 ASK Ebreichsdorf            4-0 FC Penzing Wien
 SV Leobendorf               0-0 Wiener SK                   [aet, 4-3 pen]
 FC Golling                  0-6 Floridsdorfer AC (Wien)
 TSV Neumarkt/Wallersee      0-3 FC Hard
 SC Deutschlandsberg         0-7 FC Red Bull Salzburg
-Schwarz-Wei� Bregenz        0-1 FC Wels
+Schwarz-Weiß Bregenz        0-1 FC Wels
 ATSV Stadl-Paura            1-5 WSG Swarovski Wattens
 USC Eugendorf               2-4 SV Austria Salzburg         [aet]
-TSV St. Johann/Pongau       4-0 FC Kitzb�hel
-FC Dornbirn                 0-2 SKN St. P�lten
-FC H�chst                   1-2 SV Seekirchen
-SV Schwechat                1-1 FC Admira Wacker M�dling    [aet, 2-4 pen]
+TSV St. Johann/Pongau       4-0 FC Kitzbühel
+FC Dornbirn                 0-2 SKN St. Pölten
+FC Höchst                   1-2 SV Seekirchen
+SV Schwechat                1-1 FC Admira Wacker Mödling    [aet, 2-4 pen]
 TSV Hartberg                0-6 SK Sturm Graz
 [Jul 19]
 Annabichler SV (Klagenfurt) 1-4 FC Stadlau
 SV Reichenau                1-4 SK Austria Klagenfurt
 FC Piberstein Lankowitz     3-1 SC Austria Lustenau
-ASK� K�ttmannsdorf          0-6 Wolfsberger AC
+ASKÖ Köttmannsdorf          0-6 Wolfsberger AC
+
+Round 2 [Aug 22]
+FC Stadlau Wien              -  SK Austria Klagenfurt
+Union Gurten                 -  SV Mattersburg
+Wiener SK                    -  SC Rheindorf Altach
+TSV St.Johann/Pongau         -  Linzer ASK
+SKU Amstetten                -  SK Rapid Wien
+SV Wallern                   -  FC Admira Wacker Mödling
+FC Piberstein Lankowitz      -  Floridsdorfer AC Wien
+WSG Swarovski Wattens        -  Kapfenberger SV
+FC Hard                      -  SKN St. Pölten
+SV Seekirchen                -  SK Sturm Graz
+FC Lendorf                   -  SV Austria Salzburg
+SV Horn                      -  FC Red Bull Salzburg
+FC Wels                      -  FK Austria Wien
+Kremser SC                   -  FC Wacker Innsbruck
+ASK Ebreichsdorf             -  SC Wiener Neustadt
+SV Ried/Innkreis             -  Wolfsberger AC
 
 
 
@@ -92,53 +129,51 @@ ASK� K�ttmannsdorf          0-6 Wolfsberger AC
 #### 1. Liga (Second Level)
 
 
-Table:
+Table (Aug 5):
 
- 1.SC Wiener Neustadt            0   0  0  0   0- 0   0
+ 1.SK Austria Klagenfurt         3   2  1  0   6- 1   7
 -------------------------------------------------------
- 2.FC Liefering                  0   0  0  0   0- 0   0  [*]
- 3.LASK Linz                     0   0  0  0   0- 0   0
- 4.Kapfenberger SV               0   0  0  0   0- 0   0
- 5.SKN Sankt P�lten              0   0  0  0   0- 0   0
- 6.FC Wacker Innsbruck           0   0  0  0   0- 0   0
- 7.SC Austria Lustenau           0   0  0  0   0- 0   0
- 8.Floridsdorfer AC              0   0  0  0   0- 0   0
+ 2.Kapfenberger SV               3   2  1  0   6- 2   7
+ 3.LASK Linz                     3   2  1  0   4- 2   7
+ 4.SV Austria Salzburg           3   1  2  0   6- 3   5
+ 5.FC Wacker Innsbruck           3   1  1  1   6- 3   4
+ 6.SKN Sankt Pölten              3   1  1  1   4- 4   4
+ 7.SC Austria Lustenau           3   1  0  2   2- 2   3
+ 8.FC Liefering                  3   1  0  2   4-10   3  [*]
 -------------------------------------------------------
- 9.SV Austria Salzburg           0   0  0  0   0- 0   0
-10.SK Austria Klagenfurt         0   0  0  0   0- 0   0
+ 9.SC Wiener Neustadt            3   0  1  2   0- 5   1
+10.Floridsdorfer AC              3   0  0  3   2- 8   0
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2014/15.
+‹2014/15›.
 
-list of final tables.
+‹list of final tables›.
 
-list of champions.
+‹list of champions›.
 
-list of cup finals.
+‹list of cup finals›.
 
-list of super cup finals.
+‹list of super cup finals›.
 
-list of foundation dates.
+‹list of foundation dates›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
 
-Prepared and maintained by Hans Sch�ggl and Karel Stokkermans for the
-Rec.Sport.Soccer Statistics Foundation
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Hans Sch�ggl and Karel Stokkermans
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 6 Aug 2015
 
 
-Last updated: 23 Jul 2015
-
-
-**(C) Copyright Hans Sch�ggl, Karel Stokkermans
+**(C) Copyright Hans Schöggl, Karel Stokkermans
 and RSSSF 2015**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.
