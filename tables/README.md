@@ -3,7 +3,7 @@
 
 football.db RSSSF Archive Data Summary for Austria (Österreich)
 
-_Last Update: 2015-09-13 11:24:39 +0200_
+_Last Update: 2015-09-13 20:40:08 +0200_
 
 | Season | File   | Authors  | Last Updated | Lines (Chars) | Sections |
 | :----- | :----- | :------- | :----------- | ------------: | :------- |
