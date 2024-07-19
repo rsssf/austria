@@ -1,5 +1,5 @@
 <!--
-   source: http://rsssf.com/tableso/oost2016.html
+   source: https://rsssf.org/tableso/oost2016.html
   -->
 
 
@@ -7,27 +7,33 @@
 ## Austria 2015/16
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Bundesliga›
-‹ÖFB Cup›
-‹1. Liga›
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+‹1. Liga, see §1liga›
+‹Regionalliga, see §regliga›
+‹SFV (Salzburg) Cup, see §salzcup›
+‹Steirer Cup, see §steicup›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga
+#### Bundesliga  ‹§bund›
 
 
-Table:
+Final Table:
 
- 1.FK Austria Wien               2   2  0  0   5- 1   6
- 2.SK Rapid Wien                 2   2  0  0   5- 1   6
- 3.FC Admira Wacker Mödling      2   1  1  0   3- 2   4
- 4.SV Grödig                     2   1  1  0   3- 2   4
- 5.SV Mattersburg                2   1  0  1   3- 3   3
- 6.SK Sturm Graz                 2   0  2  0   2- 2   2
- 7.Wolfsberger AC                2   0  1  1   0- 2   1
- 8.SV Ried                       2   0  1  1   0- 3   1
- 9.RB Salzburg                   2   0  0  2   2- 4   0
+ 1.RB Salzburg                  36  21 11  4  71-33  74  [C]  Champions
+ 2.SK Rapid Wien                36  20  5 11  66-42  65
+ 3.FK Austria Wien              36  17  8 11  65-48  59
+ 4.FC Admira Wacker Mödling     36  13 11 12  45-51  50
+ 5.SK Sturm Graz                36  12 12 12  40-40  48
+ 6.Wolfsberger AC               36  11 10 15  33-36  43
+ 7.SV Ried                      36  11  9 16  36-52  42
+ 8.SC Rheindorf Altach          36  11  7 18  39-49  40
+ 9.SV Mattersburg               36  10  9 17  40-70  39  [P]
 -------------------------------------------------------
-10.SC Rheindorf Altach           2   0  0  2   2- 5   0
+10.SV Grödig                    36   9  8 19  42-56  35  Relegated
+
+NB: after the end of the season, Grödig announced they will not play at the second
+    level next season but withdraw to their regional league (Regionalliga West)
 
 Round 1
 [Jul 25]
@@ -47,24 +53,328 @@ Austria          3-1 Altach
 Ried             0-0 Wolfsberg
 Sturm            1-1 Grödig
 
-Table:
+Round 3
+[Aug 8]
+Grödig           2-2 Austria
+Admira Wacker    2-2 Salzburg
+Mattersburg      4-1 Ried
+[Aug 9]
+Altach           0-1 Sturm
+Rapid            2-1 Wolfsberg
 
- 1.FK Austria Wien               2   2  0  0   5- 1   6
- 2.SK Rapid Wien                 2   2  0  0   5- 1   6
- 3.FC Admira Wacker Mödling      2   1  1  0   3- 2   4
- 4.SV Grödig                     2   1  1  0   3- 2   4
- 5.SV Mattersburg                2   1  0  1   3- 3   3
- 6.SK Sturm Graz                 2   0  2  0   2- 2   2
- 7.Wolfsberger AC                2   0  1  1   0- 2   1
- 8.SV Ried                       2   0  1  1   0- 3   1
- 9.RB Salzburg                   2   0  0  2   2- 4   0
+Round 4
+[Aug 11]
+Ried             1-4 Salzburg
+[Aug 12]
+Austria          2-5 Rapid
+Altach           3-1 Mattersburg
+Grödig           2-3 Admira Wacker
+Wolfsberg        0-2 Sturm
+
+Round 5
+[Aug 15]
+Austria          5-1 Mattersburg
+Admira Wacker    3-1 Ried
+Salzburg         2-0 Altach
+Wolfsberg        3-2 Grödig
+[Aug 16]
+Sturm            2-2 Rapid
+
+Round 6
+[Aug 22]
+Rapid            3-0 Grödig
+Mattersburg      1-0 Wolfsberg
+Ried             1-0 Sturm
+[Aug 23]
+Salzburg         2-2 Austria
+Altach           1-2 Admira Wacker
+
+Round 7
+[Aug 29]
+Admira Wacker    0-1 Austria
+Rapid            2-4 Mattersburg
+Grödig           4-1 Ried
+[Aug 30]
+Sturm            2-3 Salzburg
+Wolfsberg        0-2 Altach
+
+Round 8
+[Sep 12]
+Altach           2-0 Rapid
+Austria          1-1 Ried
+Admira Wacker    1-0 Wolfsberg
+Salzburg         4-2 Grödig
+[Sep 13]
+Mattersburg      2-0 Sturm
+
+Round 9
+[Sep 19]
+Sturm            2-0 Austria
+Grödig           1-1 Mattersburg
+Ried             2-0 Altach
+Wolfsberg        1-1 Salzburg
+[Sep 20]
+Rapid            2-0 Admira Wacker
+
+Round 10
+[Sep 26]
+Ried             0-1 Rapid
+Austria          1-0 Wolfsberg
+Salzburg         4-2 Mattersburg
+Altach           1-0 Grödig
+[Sep 27]
+Admira Wacker    0-1 Sturm
+
+Round 11
+[Oct 3]
+Grödig           3-0 Sturm
+Altach           1-2 Austria
+Mattersburg      0-4 Admira Wacker
+Wolfsberg        1-1 Ried
+[Oct 4]
+Rapid            1-2 Salzburg
+
+Round 12
+[Oct 17]
+Salzburg         8-0 Admira Wacker
+Austria          2-1 Grödig
+Sturm            3-1 Altach
+Ried             0-1 Mattersburg
+[Oct 18]
+Wolfsberg        2-1 Rapid
+
+Round 13
+[Oct 24]
+Mattersburg      2-1 Altach
+Admira Wacker    0-0 Grödig
+Salzburg         2-1 Ried
+Sturm            2-0 Wolfsberg
+[Oct 25]
+Rapid            1-2 Austria
+
+Round 14
+[Oct 31]
+Rapid            2-1 Sturm
+Altach           1-0 Salzburg
+Grödig           1-0 Wolfsberg
+Ried             1-1 Admira Wacker
+[Nov 1]
+Mattersburg      1-2 Austria
+
+Round 15
+[Nov 7]
+Austria          1-1 Salzburg
+Admira Wacker    1-1 Altach
+Sturm            3-2 Ried
+Wolfsberg        2-1 Mattersburg
+[Nov 8]
+Grödig           2-1 Rapid
+
+Round 16
+[Nov 21]
+Austria          1-1 Admira Wacker
+Altach           2-1 Wolfsberg
+Mattersburg      1-6 Rapid
+Ried             1-0 Grödig
+[Nov 22]
+Salzburg         3-1 Sturm
+
+Round 17
+[Nov 28]
+Sturm            0-0 Mattersburg
+Grödig           1-1 Salzburg
+Wolfsberg        4-0 Admira Wacker
+[Nov 29]
+Ried             4-2 Austria
+Rapid            3-1 Altach
+
+Round 18
+[Dec 1]
+Salzburg         1-1 Wolfsberg
+[Dec 2]
+Admira Wacker    2-1 Rapid
+Altach           1-3 Ried
+Mattersburg      0-2 Grödig
+Austria          2-1 Sturm
+
+Round 19
+[Dec 5]
+Wolfsberg        2-0 Austria
+Rapid            2-1 Ried
+Sturm            1-1 Admira Wacker
+Grödig           0-3 Altach
+[Dec 6]
+Mattersburg      0-0 Salzburg
+
+Round 20
+[Dec 12]
+Austria          1-2 Altach
+Admira Wacker    1-1 Mattersburg
+Sturm            2-0 Grödig
+Ried             1-0 Wolfsberg
+[Dec 13]
+Salzburg         2-0 Rapid
+
+Round 21
+[Feb 6]
+Altach           2-2 Sturm
+Rapid            3-0 Wolfsberg
+Grödig           0-1 Austria
+Mattersburg      3-3 Ried
+[Feb 7]
+Admira Wacker    1-2 Salzburg
+
+Round 22
+[Feb 13]
+Ried             1-0 Salzburg
+Altach           1-2 Mattersburg
+Grödig           2-2 Admira Wacker
+Wolfsberg        0-0 Sturm
+[Feb 14]
+Austria          0-3 Rapid
+
+Round 23
+[Feb 20]
+Austria          2-2 Mattersburg
+Admira Wacker    0-0 Ried
+Salzburg         2-0 Altach
+Wolfsberg        2-0 Grödig
+[Feb 21]
+Sturm            0-2 Rapid
+
+Round 24
+[Feb 27]
+Ried             0-1 Sturm
+Altach           1-2 Admira Wacker
+Mattersburg      1-1 Wolfsberg
+[Feb 28]
+Rapid            3-2 Grödig
+Salzburg         4-1 Austria
+
+Round 25
+[Mar 1]
+Wolfsberg        1-0 Altach
+[Mar 2]
+Admira Wacker    0-3 Austria
+Rapid            3-0 Mattersburg
+Grödig           2-2 Ried
+Sturm            0-0 Salzburg
+
+Round 26
+[Mar 5]
+Salzburg         3-0 Grödig
+Austria          3-1 Ried
+Admira Wacker    0-2 Wolfsberg
+Mattersburg      1-0 Sturm
+[Mar 6]
+Altach           0-0 Rapid
+
+Round 27
+[Mar 12]
+Wolfsberg        1-1 Salzburg
+Rapid            0-4 Admira Wacker
+Grödig           0-1 Mattersburg
+Ried             0-2 Altach
+[Mar 13]
+Sturm            1-1 Austria
+
+Round 28
+[Mar 19]
+Austria          0-0 Wolfsberg
+Admira Wacker    1-0 Sturm
+Salzburg         2-1 Mattersburg
+Altach           1-0 Grödig
+[Mar 20]
+Ried             1-0 Rapid
+
+Round 29
+[Apr 2]
+Grödig           1-3 Sturm
+Altach           2-0 Austria
+Mattersburg      0-3 Admira Wacker
+Wolfsberg        1-0 Ried
+[Apr 3]
+Rapid            1-1 Salzburg
+
+Round 30
+[Apr 9]
+Sturm            4-1 Altach
+Austria          0-2 Grödig
+Ried             1-0 Mattersburg
+Wolfsberg        2-2 Rapid
+[Apr 10]
+Salzburg         1-0 Admira Wacker
+
+Round 31
+[Apr 16]
+Salzburg         2-1 Ried
+Admira Wacker    1-1 Grödig
+Sturm            1-0 Wolfsberg
+Mattersburg      0-0 Altach
+[Apr 17]
+Rapid            1-0 Austria
+
+Round 32
+[Apr 23]
+Mattersburg      0-9 Austria
+Altach           1-3 Salzburg
+Grödig           0-1 Wolfsberg
+Ried             1-0 Admira Wacker
+[Apr 24]
+Rapid            2-0 Sturm
+
+Round 33
+[Apr 30]
+Grödig           2-0 Rapid
+Admira Wacker    2-1 Altach
+Sturm            0-0 Ried
+Wolfsberg        2-0 Mattersburg
+[May 1]
+Austria          0-2 Salzburg
+
+Round 34
+[May 7]
+Austria          3-1 Admira Wacker
+Salzburg         1-1 Sturm
+Altach           1-1 Wolfsberg
+Ried             2-0 Grödig
+[May 8]
+Mattersburg      0-2 Rapid
+
+Round 35 [May 11]
+Rapid            1-1 Altach
+Sturm            1-1 Mattersburg
+Grödig           1-2 Salzburg
+Ried             0-5 Austria
+Wolfsberg        1-2 Admira Wacker
+
+Round 36 [May 15]
+Austria          3-0 Sturm
+Admira Wacker    1-3 Rapid
+Salzburg         1-0 Wolfsberg
+Altach           0-0 Ried
+Mattersburg      2-3 Grödig
+
+Final Table:
+
+ 1.RB Salzburg                  36  21 11  4  71-33  74  [C]  Champions
+ 2.SK Rapid Wien                36  20  5 11  66-42  65
+ 3.FK Austria Wien              36  17  8 11  65-48  59
+ 4.FC Admira Wacker Mödling     36  13 11 12  45-51  50
+ 5.SK Sturm Graz                36  12 12 12  40-40  48
+ 6.Wolfsberger AC               36  11 10 15  33-36  43
+ 7.SV Ried                      36  11  9 16  36-52  42
+ 8.SC Rheindorf Altach          36  11  7 18  39-49  40
+ 9.SV Mattersburg               36  10  9 17  40-70  39  [P]
 -------------------------------------------------------
-10.SC Rheindorf Altach           2   0  0  2   2- 5   0
+10.SV Grödig                    36   9  8 19  42-56  35  Relegated
 
+NB: after the end of the season, Grödig announced they will not play at the second
+    level next season but withdraw to their regional league (Regionalliga West)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup
+#### ÖFB Cup  ‹§cup›
 
 
 Round 1
@@ -89,7 +399,7 @@ ASK Ebreichsdorf            4-0 FC Penzing Wien
 SV Leobendorf               0-0 Wiener SK                   [aet, 4-3 pen]
 FC Golling                  0-6 Floridsdorfer AC (Wien)
 TSV Neumarkt/Wallersee      0-3 FC Hard
-SC Deutschlandsberg         0-7 FC Red Bull Salzburg
+Deutschlandsberger SC       0-7 FC Red Bull Salzburg
 Schwarz-Weiß Bregenz        0-1 FC Wels
 ATSV Stadl-Paura            1-5 WSG Swarovski Wattens
 USC Eugendorf               2-4 SV Austria Salzburg         [aet]
@@ -100,69 +410,276 @@ SV Schwechat                1-1 FC Admira Wacker Mödling    [aet, 2-4 pen]
 TSV Hartberg                0-6 SK Sturm Graz
 [Jul 19]
 Annabichler SV (Klagenfurt) 1-4 FC Stadlau
-SV Reichenau                1-4 SK Austria Klagenfurt
+SVG Reichenau               1-4 SK Austria Klagenfurt
 FC Piberstein Lankowitz     3-1 SC Austria Lustenau
 ASKÖ Köttmannsdorf          0-6 Wolfsberger AC
 
-Round 2 [Aug 22]
-FC Stadlau Wien              -  SK Austria Klagenfurt
-Union Gurten                 -  SV Mattersburg
-Wiener SK                    -  SC Rheindorf Altach
-TSV St.Johann/Pongau         -  Linzer ASK
-SKU Amstetten                -  SK Rapid Wien
-SV Wallern                   -  FC Admira Wacker Mödling
-FC Piberstein Lankowitz      -  Floridsdorfer AC Wien
-WSG Swarovski Wattens        -  Kapfenberger SV
-FC Hard                      -  SKN St. Pölten
-SV Seekirchen                -  SK Sturm Graz
-FC Lendorf                   -  SV Austria Salzburg
-SV Horn                      -  FC Red Bull Salzburg
-FC Wels                      -  FK Austria Wien
-Kremser SC                   -  FC Wacker Innsbruck
-ASK Ebreichsdorf             -  SC Wiener Neustadt
-SV Ried/Innkreis             -  Wolfsberger AC
+Round 2
+[Sep 22]
+FC Stadlau Wien             2-1 SK Austria Klagenfurt       [aet]
+Union Gurten                1-3 SV Mattersburg
+Wiener SK                   0-3 SC Rheindorf Altach
+TSV St.Johann/Pongau        1-1 Linzer ASK                  [aet, 4-5 pen]
+FC Piberstein Lankowitz     1-0 Floridsdorfer AC Wien
+WSG Swarovski Wattens       0-0 Kapfenberger SV             [aet, 6-5 pen]
+FC Hard                     1-4 SKN St. Pölten
+SV Seekirchen               0-7 SK Sturm Graz
+FC Lendorf                  0-5 SV Austria Salzburg
+SV Horn                     2-3 FC Red Bull Salzburg        [aet]
+Kremser SC                  3-5 FC Wacker Innsbruck         [aet]
+ASK Ebreichsdorf            3-1 SC Wiener Neustadt
+[Sep 23]
+SKU Amstetten               1-1 SK Rapid Wien               [aet, 3-4 pen]
+SV Wallern                  2-2 FC Admira Wacker Mödling    [aet, 2-4 pen]
+FC Wels                     0-2 FK Austria Wien
+SV Ried/Innkreis            0-0 Wolfsberger AC              [aet, 5-3 pen]
 
+Round 3
+[Oct 27]
+ASK Ebreichsdorf            2-3 SK Sturm Graz
+FC Stadlau Wien             0-4 SKN St. Pölten
+FC Piberstein Lankowitz     0-1 FC Admira Wacker Mödling
+FC Red Bull Salzburg        4-2 SV Ried/Innkreis
+FC Wacker Innsbruck         0-2 Linzer ASK
+[Oct 28]
+WSG Swarovski Wattens       0-2 SV Mattersburg
+SK Rapid Wien               5-1 SV Austria Salzburg
+[Nov 4]
+FK Austria Wien             2-1 SC Rheindorf Altach
 
+Quarterfinals
+[Feb 9]
+FK Austria Wien             1-0 Linzer ASK
+SV Mattersburg              1-2 SKN St. Pölten
+[Feb 10]
+SK Rapid Wien               0-1 FC Admira/Wacker Mödling
+SK Sturm Graz               0-1 FC Red Bull Salzburg
+
+Semifinals
+[Apr 19]
+FC Admira/Wacker Mödling    2-1 SKN St. Pölten
+[Apr 20]
+FC Red Bull Salzburg        5-2 FK Austria Wien
+
+Final [May 19, Klagenfurt]
+FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
+  [Soriano 7, 65, 86pen , Keita 28, Laimer 73]
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Liga (Second Level)
+#### 1. Liga (Second Level)  ‹§1liga›
 
 
-Table (Aug 5):
+Final Table:
 
- 1.SK Austria Klagenfurt         3   2  1  0   6- 1   7
+ 1.SKN Sankt Pölten             36  26  2  8  68-34  80  Promoted
 -------------------------------------------------------
- 2.Kapfenberger SV               3   2  1  0   6- 2   7
- 3.LASK Linz                     3   2  1  0   4- 2   7
- 4.SV Austria Salzburg           3   1  2  0   6- 3   5
- 5.FC Wacker Innsbruck           3   1  1  1   6- 3   4
- 6.SKN Sankt Pölten              3   1  1  1   4- 4   4
- 7.SC Austria Lustenau           3   1  0  2   2- 2   3
- 8.FC Liefering                  3   1  0  2   4-10   3  [*]
+ 2.LASK Linz                    36  22  6  8  65-35  72
+ 3.FC Wacker Innsbruck          36  17  8 11  61-47  59
+ 4.FC Liefering                 36  17  6 13  65-49  57  [*]
+ 5.SC Austria Lustenau          36  16  9 11  56-40  57
+ 6.Kapfenberger SV              36  14  8 14  63-62  50
+ 7.SC Wiener Neustadt           36  12  9 15  39-49  45  [R]
+ 8.SK Austria Klagenfurt        36   8 10 18  43-62  34  [P]  Denied License
 -------------------------------------------------------
- 9.SC Wiener Neustadt            3   0  1  2   0- 5   1
-10.Floridsdorfer AC              3   0  0  3   2- 8   0
+ 9.SV Austria Salzburg          36   7 11 18  45-73  26  [-6]  [P] Denied License
+10.Floridsdorfer AC             36   4  5 27  23-77  17
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
+**Promotion Playoff  ‹§2prorel›**
+
+NB: both SV Austria Salzburg (who opened insolvency proceedings during the season) and
+    SK Austria Klagenfurt (who were denied a second level license for next season in
+    spite of two appeals) are forcibly relegated; as in addition SV Grödig (relegated
+    from the first level) voluntarily return to the regional level, Floridsdorfer AC
+    remain at the second level and three clubs are promoted from the regional leagues:
+    SV Horn (Regionalliga Ost), FC Blau-Weiß Linz (Regionalliga Mitte) and WSG Wattens
+    (Regionalliga West); the playoff for one promotion place between FC Blau-Weiß Linz
+    and WSG Wattens will therefore not be played.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2014/15›.
+#### Regionalliga  ‹§regliga›
 
-‹list of final tables›.
 
-‹list of champions›.
+‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-‹list of cup finals›.
+**Regionalliga West  ‹§regwest›**
 
-‹list of super cup finals›.
+Final Table:
 
-‹list of foundation dates›.
+ 1.WSG Wattens                  30  24  3  3  81-18  75  ‹Promoted, see §2prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.USK Anif                     30  18  3  9  76-46  57  [P]
+ 3.TSV St. Johann/Pongau        30  16  7  7  59-32  55
+ 4.FC Dornbirn                  30  15  5 10  58-39  50
+ 5.SC Schwaz                    30  12 10  8  44-40  46
+ 6.USC Eugendorf                30  12  7 11  56-63  43
+ 7.FC Wacker Innsbruck Amateure 30  12  6 12  54-45  42
+ 8.FC Pinzgau Saalfelden        30  11  6 13  51-59  39
+ 9.SV Seekirchen                30  10  9 11  50-58  39
+10.SCR Altach Amateure          30  11  5 14  33-48  38
+11.FC Kufstein                  30  10  7 13  43-45  37
+12.FC Hard                      30   9  9 12  35-42  36
+-------------------------------------------------------
+13.TSV Neumarkt/Wallersee       30  11  3 16  43-61  36  Relegated
+14.SW Bregenz                   30   9  6 15  42-63  33  [P]  Relegated
+15.FC Kitzbühel                 30   9  5 16  53-59  32  Relegated
+16.SVG Reichenau                30   2  7 21  28-88  13  [P]  Relegated
+
+Promoted: SAK 1914 (Salzburg) [FC Bergheim declined promotion]
+          SV Wörgl (Tirol)
+          VfB Hohenems (Vorarlberg)
+
+**Regionalliga Mitte  ‹§regmitte›**
+
+Final Table:
+
+ 1.FC Blau-Weiß Linz            30  22  4  4  89-25  70  ‹Promoted, see §2prorel›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 2.TSV Hartberg                 30  18  6  6  64-38  60  [R]
+ 3.Union St. Florian            30  15  7  8  53-35  52
+ 4.SC Kalsdorf                  30  16  3 11  56-43  51
+ 5.SPG Pasching/LASK Juniors    30  15  5 10  59-46  50
+ 6.SV Lafnitz                   30  15  4 11  62-52  49
+ 7.ATSV Stadl-Paura             30  14  6 10  58-49  48  [P]
+ 8.USV Allerheiligen            30  14  6 10  50-43  48
+ 9.Deutschlandsberger SC        30  12  7 11  49-43  43  [P]
+10.Union Gurten                 30  11  7 12  51-44  40
+11.SK Sturm Graz Amateure       30   9 11 10  48-48  38
+12.SK Vorwärts Steyr            30   9  7 14  36-49  34
+13.SC Weiz                      30   6  8 16  33-66  26
+-------------------------------------------------------
+14.Wolfsberger AC Amateure      30   6  5 19  34-64  23  Relegated
+15.SV Wallern                   30   6  4 20  35-70  22  Relegated
+16.Annabichler SV               30   5  4 21  24-86  19  [P]  Relegated
+
+Promoted: ATSV Wolfsberg (Kärnten) [ATUS Ferlach declined promotion]
+          SV Grieskirchen (Oberösterreich)
+          FC Gleisdorf 09 (Steiermark)
+
+**Regionalliga Ost  ‹§regost›**
+
+Final Table:
+
+ 1.SV Horn                      30  21  6  3  80-28  69  [R]  Promoted
+-------------------------------------------------------
+ 2.First Vienna FC              30  20  7  3  63-21  67
+ 3.SC Ritzing                   30  14 10  6  58-30  52
+ 4.SK Union Amstetten           30  14 10  6  51-30  52
+ 5.ASK Ebreichsdorf             30  12  8 10  42-40  44  [P]
+ 6.FC Stadlau                   30  11 10  9  42-40  43  [P]
+ 7.SC/ESV Parndorf              30  11  9 10  58-46  42
+ 8.FK Austria Wien Amateure     30  10  9 11  45-39  39
+ 9.SKN St. Pölten Juniors       30  11  6 13  32-41  39
+10.Admira Juniors Mödling       30   9  9 12  47-55  36
+11.1.SC Sollenau                30   8  8 14  35-57  32  [*]  Withdrew
+12.SK Rapid II Wien             30   7 10 13  38-57  31
+13.SC Neusiedl/See              30   6 11 13  44-60  29
+14.Wiener Sportklub             30   7  8 15  37-54  29
+15.SV Schwechat                 30   7  5 18  33-64  26
+-------------------------------------------------------
+16.SV Oberwart                  30   5  8 17  29-72  23  [P]  Relegated
+
+[*] Sollenau sold their place for 2016/17 to Traiskirchen (formally,
+    1.SC Sollenau merged with FCM Traiskirchen into SG Traiskirchen).
+
+Promoted: SC Mannsdorf (Niederösterreich)
+
+NB: SV Eberau (Burgenland) declined promotion, and as no other club from the
+      Burgenlandliga was either eligible or willing to be promoted, SV Schwechat
+      escaped relegation;
+    Young Style SC (Wien) [formerly SC Wienerberg] also declined promotion,
+      but as they did so very late, they were not replaced, reducing the number
+      of clubs in the RL Ost to 15 for 2016/17.
+
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+#### SFV (Salzburg) Cup 2015/16  ‹§salzcup›
+
+
+1/8 Finals
+[Aug 25]
+SC Mühlbach/Pinzgau           0-3 Union Henndorf
+USC Faistenau                 1-1 ÖTSU Oberhofen                [aet, 5-3 pen]
+SC Bad Hofgastein             0-1 SV Seekirchen
+SV Kuchl                      1-2 TSV Neumarkt
+[Aug 26]
+FC Bergheim                   3-2 SV Straßwalchen
+SV Schwarzach                 1-5 USK Anif
+USK St. Koloman               2-0 UFC Altenmarkt
+TSU Bramberg                  0-3 SV Wals-Grünau
+
+Quarterfinals
+[Apr 12]
+FC Bergheim                   1-0 SV Wals-Grünau
+USK Anif                      2-0 SV Seekirchen
+[Apr 13]
+USC Faistenau                 2-2 TSV Neumarkt                  [aet, 4-5 pen]
+USK St. Koloman               0-1 Union Henndorf
+
+Semifinals
+[Apr 26]
+Union Henndorf                0-2 USK Anif
+[Apr 27]
+FC Bergheim                   3-2 TSV Neumarkt
+
+Final [May 25]
+USK Anif                      3-0 FC Bergheim
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Woche Cup 2015/16  ‹§steicup›
+
+
+1/8 Finals [Mar 28]
+SC Bruck/Mur                  0-2 SC Weiz
+SV Feldbach                   4-1 SK Fürstenfeld
+TuS St. Veit/Südsteiermark    2-5 SC Kalsdorf
+SV Unzmarkt                   3-2 FC Gratkorn                   [aet]
+SV Allerheiligen              1-2 SV Lafnitz
+FC Trofaiach                  3-2 SV Fohnsdorf
+TSV Pöllau                    3-0 FC Piberstein Lankowitz
+SV Rottenmann                 1-0 FC Großklein
+
+Quarterfinals
+[May 3]
+SC Weiz                       1-2 SV Lafnitz
+[May 4]
+SV Unzmarkt                   1-2 SV Feldbach
+TSV Pöllau                    6-0 SV Rottenmann
+[May 10]
+FC Trofaiach                  0-3 SC Kalsdorf
+
+Semifinals
+[May 16]
+SV Feldbach                   0-3 SV Lafnitz
+[May 24]
+TSV Pöllau                    2-3 SC Kalsdorf                   [aet]
+
+Final [Jun 3]
+SV Lafnitz                    2-0 SC Kalsdorf
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2014/15, see page oost2015›.
+
+‹2016/17, see page oost2017›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
 
 Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -170,10 +687,10 @@ Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 
 Authors: Hans Schöggl and Karel Stokkermans
 
-Last updated: 6 Aug 2015
+Last updated: 7 Mar 2023
 
 
 **(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2015**
+and RSSSF 2015/23**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

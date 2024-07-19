@@ -1,4 +1,4 @@
-## Bundesliga
+= Austria Bundesliga 2012/13
 
 Round 1
 [Jul 21]
@@ -271,7 +271,7 @@ Innsbruck        2-0 Ried
 Salzburg         6-2 Wolfsberg
 Wiener Neustadt  3-0 Admira Wacker
 Sturm            2-2 Mattersburg
-[Apr 621]
+[Apr 21]
 Austria          2-2 Rapid
 
 Round 31

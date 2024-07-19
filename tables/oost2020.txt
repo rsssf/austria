@@ -1,0 +1,692 @@
+<!--
+   source: https://rsssf.org/tableso/oost2020.html
+  -->
+
+
+
+## Austria 2019/20
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+‹2. Liga, see §1liga›
+‹SFV (Salzburg) Cup, see §salzcup›
+‹Steirer Cup, see §steicup›
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Bundesliga  ‹§bund›
+
+
+‹Regular Stage, see §reg› | ‹Playoff Stage, see §play›
+
+**Regular Stage  ‹§reg›**
+
+Final Table:
+
+ 1.LASK Linz                    22  17  3  2  50-20  54       ‹Championship Playoff, see §champ›
+ 2.RB Salzburg                  22  14  6  2  74-26  48  [C]  ‹Championship Playoff, see §champ›
+ 3.SK Rapid Wien                22  11  7  4  47-26  40       ‹Championship Playoff, see §champ›
+ 4.Wolfsberger AC               22  11  5  6  50-27  38       ‹Championship Playoff, see §champ›
+ 5.SK Sturm Graz                22   9  5  8  37-28  32       ‹Championship Playoff, see §champ›
+ 6.TSV Hartberg                 22   8  5  9  36-50  29       ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.FK Austria Wien              22   5 10  7  33-36  25       ‹Relegation Playoff, see §releg›
+ 8.SC Rheindorf Altach          22   7  3 12  34-44  24       ‹Relegation Playoff, see §releg›
+ 9.FC Admira Wacker Mödling     22   4  7 11  22-43  19       ‹Relegation Playoff, see §releg›
+10.Wattener SG Tirol            22   5  4 13  26-50  19  [P]  ‹Relegation Playoff, see §releg›  [*]
+11.SV Mattersburg               22   5  3 14  26-52  18       ‹Relegation Playoff, see §releg›
+12.SKN Sankt Pölten             22   3  8 11  21-54  17       ‹Relegation Playoff, see §releg›
+
+[*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
+
+Round 1
+[Jul 26]
+Rapid            0-2 Salzburg
+[Jul 27]
+Admira Wacker    0-3 Wolfsberg
+Wattens          3-1 Austria
+[Jul 28]
+LASK             2-0 Altach
+Sturm            3-0 Sankt Pölten
+Mattersburg      2-1 Hartberg
+
+Round 2
+[Aug 3]
+Austria          0-3 LASK
+Altach           3-2 Wattens
+Hartberg         4-1 Admira Wacker
+[Aug 4]
+Salzburg         4-1 Mattersburg
+Wolfsberg        0-1 Sturm
+Sankt Pölten     2-2 Rapid
+
+Round 3
+[Aug 10]
+Admira Wacker    0-1 LASK
+Rapid            2-1 Altach
+Salzburg         5-2 Wolfsberg
+[Aug 11]
+Mattersburg      1-5 Austria
+Hartberg         1-0 Sturm
+Wattens          1-1 Sankt Pölten
+
+Round 4
+[Aug 17]
+LASK             1-1 Wattens
+Wolfsberg        5-0 Mattersburg
+Sankt Pölten     0-6 Salzburg
+[Aug 18]
+Austria          1-1 Admira Wacker
+Altach           3-3 Hartberg
+Sturm            0-1 Rapid
+
+Round 5
+[Aug 24]
+Rapid            1-2 LASK
+Wolfsberg        5-2 Altach
+Mattersburg      0-1 Sankt Pölten
+[Aug 25]
+Salzburg         5-0 Admira Wacker
+Sturm            2-0 Wattens
+Hartberg         2-2 Austria
+
+Round 6
+[Aug 31]
+Admira Wacker    1-3 Mattersburg
+LASK             0-1 Wolfsberg
+Wattens          1-5 Salzburg
+[Sep 1]
+Austria          1-3 Rapid
+Altach           1-2 Sturm
+Sankt Pölten     1-3 Hartberg
+
+Round 7
+[Sep 14]
+Salzburg         7-2 Hartberg
+Sturm            0-2 LASK
+Mattersburg      0-2 Wattens
+[Sep 15]
+Altach           6-0 Sankt Pölten
+Rapid            5-0 Admira Wacker
+Wolfsberg        3-0 Austria
+
+Round 8
+[Sep 21]
+Admira Wacker    1-1 Sankt Pölten
+Mattersburg      3-3 Sturm
+Wattens          0-2 Rapid
+[Sep 22]
+Austria          2-0 Altach
+Hartberg         0-2 Wolfsberg
+LASK             2-2 Salzburg
+
+Round 9
+[Sep 28]
+Salzburg         4-1 Austria
+Wolfsberg        2-2 Wattens
+Sankt Pölten     0-3 LASK
+[Sep 29]
+Altach           0-2 Mattersburg
+Sturm            4-1 Admira Wacker
+Rapid            3-3 Hartberg
+
+Round 10
+[Oct 5]
+Admira Wacker    3-1 Wattens
+Salzburg         6-0 Altach
+Mattersburg      2-3 Rapid
+[Oct 6]
+Wolfsberg        4-0 Sankt Pölten
+Hartberg         1-2 LASK
+Austria          1-0 Sturm
+
+Round 11
+[Oct 19]
+Altach           1-4 Admira Wacker
+LASK             7-2 Mattersburg
+Sturm            1-1 Salzburg
+[Oct 20]
+Sankt Pölten     2-2 Austria
+Wattens          0-1 Hartberg
+Rapid            1-1 Wolfsberg
+
+Round 12
+[Oct 26]
+Austria          2-3 Wattens
+Sankt Pölten     0-4 Sturm
+Hartberg         3-1 Mattersburg
+[Oct 27]
+Altach           0-1 LASK
+Wolfsberg        2-2 Admira Wacker
+Salzburg         3-2 Rapid
+
+Round 13
+[Nov 2]
+Mattersburg      0-3 Salzburg
+Sturm            0-4 Wolfsberg
+Rapid            0-1 Sankt Pölten
+[Nov 3]
+Wattens          0-4 Altach
+Admira Wacker    0-1 Hartberg
+LASK             2-0 Austria
+
+Round 14
+[Nov 9]
+Altach           0-3 Rapid
+Sturm            3-1 Hartberg
+Sankt Pölten     5-1 Wattens
+[Nov 10]
+LASK             1-0 Admira Wacker
+Austria          2-1 Mattersburg
+Wolfsberg        0-3 Salzburg
+
+Round 15
+[Nov 23]
+Salzburg         2-2 Sankt Pölten
+Mattersburg      1-4 Wolfsberg
+Wattens          0-2 LASK
+[Nov 24]
+Admira Wacker    0-0 Austria
+Hartberg         2-1 Altach
+Rapid            1-1 Sturm
+
+Round 16
+[Nov 30]
+Sankt Pölten     0-0 Mattersburg
+Wattens          1-5 Sturm
+Austria          5-0 Hartberg
+[Dec 1]
+Altach           2-1 Wolfsberg
+Admira Wacker    1-1 Salzburg
+LASK             0-4 Rapid
+
+Round 17
+[Dec 7]
+Salzburg         5-1 Wattens
+Hartberg         3-2 Sankt Pölten
+Wolfsberg        1-3 LASK
+[Dec 8]
+Sturm            1-2 Altach
+Mattersburg      1-2 Admira Wacker
+Rapid            2-2 Austria
+
+Round 18
+[Dec 14]
+Hartberg         2-2 Salzburg
+Admira Wacker    0-3 Rapid
+Sankt Pölten     0-3 Altach
+[Dec 15]
+Austria          1-1 Wolfsberg
+Wattens          1-3 Mattersburg
+LASK             3-3 Sturm
+
+Round 19
+[Feb 14]
+Salzburg         2-3 LASK
+[Feb 15]
+Altach           2-2 Austria
+Wolfsberg        3-0 Hartberg
+[Feb 16]
+Sankt Pölten     2-2 Admira Wacker
+Sturm            1-2 Mattersburg
+Rapid            2-0 Wattens
+
+Round 20
+[Feb 22]
+Admira Wacker    0-2 Sturm
+Mattersburg      0-0 Altach
+Wattens          2-0 Wolfsberg
+[Feb 23]
+LASK             4-1 Sankt Pölten
+Hartberg         2-2 Rapid
+Austria          2-2 Salzburg
+
+Round 21
+[Mar 1]
+LASK             5-1 Hartberg
+Rapid            3-1 Mattersburg
+Sankt Pölten     0-4 Wolfsberg
+Sturm            1-1 Austria
+Wattens          1-1 Admira Wacker
+[Mar 2]
+Altach           3-2 Salzburg
+
+Round 22
+[Mar 7]
+Austria          0-0 Sankt Pölten
+Admira Wacker    2-0 Altach
+Wolfsberg        2-2 Rapid
+Hartberg         0-3 Wattens
+[Mar 8]
+Salzburg         2-0 Sturm
+Mattersburg      0-1 LASK
+
+Final Table:
+
+ 1.LASK Linz                    22  17  3  2  50-20  54       ‹Championship Playoff, see §champ›
+ 2.RB Salzburg                  22  14  6  2  74-26  48  [C]  ‹Championship Playoff, see §champ›
+ 3.SK Rapid Wien                22  11  7  4  47-26  40       ‹Championship Playoff, see §champ›
+ 4.Wolfsberger AC               22  11  5  6  50-27  38       ‹Championship Playoff, see §champ›
+ 5.SK Sturm Graz                22   9  5  8  37-28  32       ‹Championship Playoff, see §champ›
+ 6.TSV Hartberg                 22   8  5  9  36-50  29       ‹Championship Playoff, see §champ›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 7.FK Austria Wien              22   5 10  7  33-36  25       ‹Relegation Playoff, see §releg›
+ 8.SC Rheindorf Altach          22   7  3 12  34-44  24       ‹Relegation Playoff, see §releg›
+ 9.FC Admira Wacker Mödling     22   4  7 11  22-43  19       ‹Relegation Playoff, see §releg›
+10.Wattener SG Tirol            22   5  4 13  26-50  19  [P]  ‹Relegation Playoff, see §releg›  [*]
+11.SV Mattersburg               22   5  3 14  26-52  18       ‹Relegation Playoff, see §releg›
+12.SKN Sankt Pölten             22   3  8 11  21-54  17       ‹Relegation Playoff, see §releg›
+
+[*] WSG Wattens were renamed WSG Tirol and play home matches in Innsbruck
+
+**Playoff Stage  ‹§play›**
+
+‹Championship Playoff, see §champ› | ‹Relegation Playoff, see §releg›
+
+<u>Championship Playoff  ‹§champ›</u>
+
+Final Table:
+
+ 1.RB Salzburg                  32  22  8  2 110-34  50  [24]  [C]  Champions
+ 2.SK Rapid Wien                32  17  7  8  64-43  38  [20]
+ 3.Wolfsberger AC               32  15  9  8  69-43  35  [19]
+ 4.LASK Linz                    32  20  4  8  67-37  33  [27]  [-4]
+ 5.TSV Hartberg                 32  12  6 14  52-74  27  [14*]      ‹Europa League Playoff, see §eurpo›
+ 6.SK Sturm Graz                32  10  5 17  46-60  19  [16]
+
+NB: LASK were deducted 4 points for training as a group at a time this
+    was forbidden because of restrictions due to the Covid-19 pandemic
+    (an earlier 6-point deduction was reduced on appeal)
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+Round 23 [Jun 3]
+LASK             1-2 Hartberg
+Sturm            1-2 Wolfsberg
+Salzburg         2-0 Rapid
+
+Round 24 [Jun 7]
+Wolfsberg        3-3 LASK
+Hartberg         0-6 Salzburg
+Rapid            4-0 Sturm
+
+Round 25 [Jun 10]
+LASK             0-1 Rapid
+Wolfsberg        2-4 Hartberg
+Sturm            1-5 Salzburg
+
+Round 26 [Jun 14]
+Rapid            2-1 Wolfsberg
+Hartberg         1-2 Sturm
+Salzburg         3-1 LASK
+
+Round 27 [Jun 17]
+Wolfsberg        0-0 Salzburg
+Hartberg         0-1 Rapid
+LASK             4-0 Sturm
+
+Round 28 [Jun 21]
+Rapid            0-1 Hartberg
+Salzburg         2-2 Wolfsberg
+Sturm            0-2 LASK
+
+Round 29 [Jun 24]
+Wolfsberg        2-0 Sturm
+Hartberg         1-5 LASK
+Rapid            2-7 Salzburg
+
+Round 30 [Jun 28]
+LASK             0-1 Wolfsberg
+Salzburg         3-0 Hartberg
+Sturm            2-3 Rapid
+
+Round 31
+[Jul 1]
+Rapid            3-1 LASK
+Salzburg         5-2 Sturm
+[Jul 2]
+Hartberg         3-3 Wolfsberg
+
+Round 32 [Jul 5]
+LASK             0-3 Salzburg
+Wolfsberg        3-1 Rapid
+Sturm            1-4 Hartberg
+
+Final Table:
+
+ 1.RB Salzburg                  32  22  8  2 110-34  50  [24]  [C]  Champions
+ 2.SK Rapid Wien                32  17  7  8  64-43  38  [20]
+ 3.Wolfsberger AC               32  15  9  8  69-43  35  [19]
+ 4.LASK Linz                    32  20  4  8  67-37  33  [27]  [-4]
+ 5.TSV Hartberg                 32  12  6 14  52-74  27  [14*]      ‹Europa League Playoff, see §eurpo›
+ 6.SK Sturm Graz                32  10  5 17  46-60  19  [16]
+
+NB: LASK were deducted 4 points for training as a group at a time this
+    was forbidden because of restrictions due to the Covid-19 pandemic
+    (an earlier 6-point deduction was reduced on appeal)
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+**Europa League Playoff  ‹§eurpo›**
+
+Semifinal [Jul 8]
+Austria          1-0 Altach
+
+Final
+
+First Leg [Jul 11]
+Austria          2-3 Hartberg
+
+Second Leg [Jul 15]
+Hartberg         0-0 Austria
+
+<u>Relegation Playoff  ‹§releg›</u>
+
+Final Table:
+
+ 7.FK Austria Wien              32  12 11  9  49-47  34  [12*]      ‹Europa League Playoff, see §eurpo›
+ 8.SC Rheindorf Altach          32  10  8 14  45-53  26  [12]       ‹Europa League Playoff, see §eurpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.SKN Sankt Pölten             32   8 10 14  39-65  25  [ 8*]
+10.SV Mattersburg               32   8  6 18  39-64  21  [ 9]       Withdrew
+11.FC Admira Wacker Mödling     32   6 10 16  29-57  18  [ 9*]
+-------------------------------------------------------
+12.Wattener SG Tirol            32   6  8 18  34-66  16  [ 9*] [P]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+NB: on Aug 5, Mattersburg renounced on its Bundesliga license for financial
+    reasons, following a scandal involving the president and main sponsor of
+    the club, who is facing prosecution on embezzlement charges; because of
+    that, WSG Tirol remain at the first level; the SV Mattersburg will be
+    dissolved and its youth teams taken over by a newly founded club called
+    Mattersburger Sportverein 2020
+
+Round 23 [Jun 2]
+Mattersburg      1-1 Altach
+Wattens          0-5 Sankt Pölten
+Austria          1-0 Admira Wacker
+
+Round 24 [Jun 6]
+Altach           1-1 Wattens
+Sankt Pölten     1-1 Austria
+Admira Wacker    0-2 Mattersburg
+
+Round 25 [Jun 9]
+Sankt Pölten     0-3 Admira Wacker
+Wattens          1-1 Mattersburg
+Austria          0-2 Altach
+
+Round 26 [Jun 13]
+Altach           2-0 Sankt Pölten
+Admira Wacker    0-3 Wattens
+Mattersburg      1-4 Austria
+
+Round 27 [Jun 16]
+Admira Wacker    1-1 Altach
+Sankt Pölten     1-0 Mattersburg
+Austria          1-0 Wattens
+
+Round 28 [Jun 20]
+Altach           1-1 Admira Wacker
+Mattersburg      2-0 Sankt Pölten
+Wattens          1-2 Austria
+
+Round 29 [Jun 23]
+Altach           1-1 Mattersburg
+Admira Wacker    0-2 Austria
+Sankt Pölten     1-1 Wattens
+
+Round 30 [Jun 27]
+Austria          2-5 Sankt Pölten
+Mattersburg      1-2 Admira Wacker
+Wattens          0-1 Altach
+
+Round 31 [Jun 30]
+Altach           1-2 Austria
+Admira Wacker    0-3 Sankt Pölten
+Mattersburg      4-1 Wattens
+
+Round 32 [Jul 4]
+Austria          1-0 Mattersburg
+Sankt Pölten     2-0 Altach
+Wattens          0-0 Admira Wacker
+
+Final Table:
+
+ 7.FK Austria Wien              32  12 11  9  49-47  34  [12*]      ‹Europa League Playoff, see §eurpo›
+ 8.SC Rheindorf Altach          32  10  8 14  45-53  26  [12]       ‹Europa League Playoff, see §eurpo›
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 9.SKN Sankt Pölten             32   8 10 14  39-65  25  [ 8*]
+10.SV Mattersburg               32   8  6 18  39-64  21  [ 9]       Withdrew
+11.FC Admira Wacker Mödling     32   6 10 16  29-57  18  [ 9*]
+-------------------------------------------------------
+12.Wattener SG Tirol            32   6  8 18  34-66  16  [ 9*] [P]
+
+NB: teams carry over half their points from the regular stage (listed between
+    square brackets), rounded downwards (marked by * where applicable)
+
+NB: on Aug 5, Mattersburg renounced on its Bundesliga license for financial
+    reasons, following a scandal involving the president and main sponsor of
+    the club, who is facing prosecution on embezzlement charges; because of
+    that, WSG Tirol remain at the first level; the SV Mattersburg will be
+    dissolved and its youth teams taken over by a newly founded club called
+    Mattersburger Sportverein 2020
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### ÖFB Cup  ‹§cup›
+
+
+Round 1
+[Jul 19]
+FC Mauerwerk Wien               1-2 FC Marchfeld Mannsdorf/Großenzersdorf
+FC Gleisdorf 09                 4-0 ASV Draßburg
+ATSV Wolfsberg                  4-1 ASK Elektra Wien
+Union Gurten                    1-0 FC Zell/See
+SK Treibach                     1-2 WSG Swarovski Tirol Wattens
+FC Kitzbühel                    0-7 FC Wacker Innsbruck
+FC Langenegg                    1-4 SK Austria Klagenfurt
+SV Hall                         1-5 FC Juniors Oberösterreich
+ASK Ebreichsdorf                2-1 SV Lafnitz                      [aet]
+SV Seekirchen                   1-4 SKU Amstetten
+USK Anif                        1-4 SK Sturm Graz
+ASK-BSC Bruck/Leitha            0-4 SV Ried
+TuS Bad Gleichenberg            2-3 SK Vorwärts Steyr
+Wiener Sport-Club               2-6 FC Dornbirn
+SC/ESV Parndorf 1919            1-7 FC Red Bull Salzburg
+[Jul 20]
+SC Neusiedl/See 1919            1-6 GAK 1902 Graz
+SV Leobendorf                   0-5 FC Blau-Weiß Linz
+FC Kufstein                     1-6 SC Rheindorf Altach
+FC Wolfurt                      0-3 FAC Wien
+ATSV Stadl Paura                0-5 SC Austria Lustenau
+SAK Klagenfurt                  0-9 Wolfsberger AC
+SC Pinkafeld                   0-10 SV Mattersburg
+Sportunion Vöcklamarkt          2-6 LASK Linz
+USV Weindorf St. Anna/Aigen     1-0 SC Kalsdorf
+WSC Hertha Wels                 1-0 VfB Hohenems
+Union Edelweiß Linz             0-5 FC Admira Wacker Mödling
+SC Wiener Viktoria              2-2 TSV Hartberg                    [aet, 5-3 pen]
+SV Gloggnitz                    1-2 SKN St. Pölten
+FC Traiskirchen                 1-5 SV Horn
+SV ASKÖ Köttmannsdorf           0-9 FK Austria Wien
+[Jul 21]
+SV Union Allerheiligen          1-9 SK Rapid Wien
+SC Schwaz                       1-3 Kapfenberger SV 1919
+
+Round 2
+[Sep 24]
+SKN St. Pölten                  2-1 SV Mattersburg
+SC Austria Lustenau             2-1 FAC Wien                        [aet]
+GAK 1902 Graz                   1-2 FC Wacker Innsbruck
+USV Weindorf St. Anna/Aigen     2-0 FC Dornbirn
+ASK Ebreichsdorf                2-1 FC Admira Wacker Mödling
+Union Gurten                    2-0 SV Horn
+FC Marchfeld Mannsdorf/G.       1-2 Kapfenberger SV 1919
+FC Gleisdorf 09                 3-0 FC Juniors Oberösterreich
+SKU Amstetten                   4-1 FC Blau-Weiß Linz               [aet]
+[Sep 25]
+WSG Swarovski Tirol Wattens     5-2 FK Austria Wien
+SK Austria Klagenfurt           2-4 SK Sturm Graz                   [aet]
+SK Vorwärts Steyr               3-4 SV Ried
+ATSV Wolfsberg                  0-6 Wolfsberger AC
+SC Wiener Viktoria              1-4 LASK Linz
+WSC Hertha Wels                 1-4 SC Rheindorf Altach
+SK Rapid Wien                   1-2 FC Red Bull Salzburg            [aet]
+
+1/8 Finals
+[Oct 29]
+SKN St. Pölten                  1-0 SV Ried
+Union Gurten                    2-3 SC Austria Lustenau
+FC Gleisdorf 09                 1-4 WSG Swarovski Tirol Wattens     [aet]
+USV Weindorf St. Anna/Aigen     0-3 SKU Amstetten
+Kapfenberger SV 1919            0-2 SK Sturm Graz
+[Oct 30]
+ASK Ebreichsdorf                0-5 FC Red Bull Salzburg
+FC Wacker Innsbruck             1-0 Wolfsberger AC
+LASK Linz                       3-1 SC Rheindorf Altach
+
+Quarterfinals
+[Feb 7]
+SKN St. Pölten                  3-3 Wacker Innsbruck                [aet, 3-5 pen]
+[Feb 8]
+SC Austria Lustenau             2-2 WSG Swarovski Tirol Wattens     [aet, 5-4 pen]
+LASK Linz                       2-0 SK Sturm Graz
+[Feb 9]
+SKU Amstetten                   0-3 FC Red Bull Salzburg
+
+Semifinals
+[Mar 4]
+SC Austria Lustenau             1-0 Wacker Innsbruck
+[Mar 5]
+FC Red Bull Salzburg            1-0 LASK Linz
+
+Final [May 29, Wörtherseestadion, Klagenfurt]
+FC Red Bull Salzburg            5-0 SC Austria Lustenau
+  [Szoboszlai 10, Stumberger 21og, Okafor 30, Ashimeru 65, Koita 79]
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### 2. Liga (Second Level)  ‹§1liga›
+
+
+Final Table:
+
+ 1.SV Ried                      30  20  4  6  73-39  64       Promoted
+-------------------------------------------------------
+ 2.SK Austria Klagenfurt        30  19  7  4  65-36  64
+ 3.FC Liefering                 30  15  8  7  73-47  53
+ 4.Young Violets                30  14  6 10  62-44  48
+ 5.SK Union Amstetten           30  12  9  9  51-47  45
+ 6.FC Wacker Innsbruck          30  13  5 12  44-49  44  [R]
+ 7.SK Vorwärts Steyr            30  11  8 11  42-36  41
+ 8.SV Lafnitz                   30   9 12  9  42-42  39
+ 9.FC Juniors Oberösterreich    30  10  8 12  50-63  38
+10.FC Blau-Weiß Linz            30  10  7 13  51-57  37
+11.SC Austria Lustenau          30  10  5 15  57-58  35
+12.FC Dornbirn                  30   8 10 12  40-59  34  [P]
+13.SV Horn                      30   8  8 14  58-67  32
+14.Floridsdorfer AC             30   7 11 12  32-51  32
+15.GAK 1902                     30   7 10 13  40-50  31
+16.Kapfenberger SV              30   6  4 20  34-69  22  [P]
+
+NB: no relegation to third level or promotion from third level; the 16th
+    place freed by the withdrawal of Mattersburg will be filled by Rapid II
+    (a fourth youth team, after Liefering (Salzburg), Young Violets (Austria)
+    and Juniors Oberösterreich (LASK)).
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### SFV (Salzburg) Cup 2019/20  ‹§salzcup›
+
+
+1/8 Finals
+[Sep 10]
+UFV Thalgau                   3-3 TSV St. Johann                [aet, 8-9 pen]
+TSV Unken                     0-6 USV 1960 Berndorf
+USC Eugendorf                 0-0 FC Pinzgau Saalfelden         [aet, 1-4 pen]
+FC Zell/See                   4-0 SAK 1914
+[Sep 11]
+USK Obertrum                  0-9 USK Anif
+SV Konkordiahütte             0-3 UFC Altenmarkt
+SV Straßwalchen               1-4 SV Wals-Grünau
+SV Austria Salzburg           2-1 SV Kuchl
+
+Quarterfinals
+[Mar 31 - cancelled]
+TSV St. Johann                n/p SV Wals-Grünau
+[Apr 1 - cancelled]
+USK Anif                      n/p FC Pinzgau Saalfelden
+USV 1960 Berndorf             n/p UFC Altenmarkt
+FC Zell/See                   n/p SV Austria Salzburg
+
+Semifinals [Apr 22 - cancelled]
+
+Final [May 21 - cancelled]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Woche Cup 2019/20  ‹§steicup›
+
+
+1/8 Finals [Mar 7]
+FC Schladming                 2-3 SC St. Peter/Freienstein
+FC E-Werk Kindberg-Mürzhofen  5-0 DSV Leoben
+SV Frauental                  4-4 SV Allerheiligen              [aet, 4-3 pen]
+Deutschlandsberger SC         2-1 TUS Rein
+GASV Pölfing Brunn            1-4 ASK Voitsberg
+SC Weiz                       3-1 TUS Bad Gleichenberg
+SV Feldbach                   2-1 UFC Fehring
+[Mar 14]
+SV Kaindorf/Sulm              n/p TuS St. Peter/Ottersbach
+
+Quarterfinals
+[Apr 13 - cancelled]
+SC St. Peter/Freienstein       -  FC E-Werk Kindberg-Mürzhofen
+SV Frauental                   -  Deutschlandsberger SC
+SC Weiz                        -  SV Feldbach
+[tba - cancelled]
+ASK Voitsberg                  -  Kaindorf/St. Peter
+
+Semifinals [May 5 - cancelled]
+
+Final [May 21 - cancelled]
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2018/19, see page oost2019›.
+
+‹2020/21, see page oost2021›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
+
+Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
+‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Authors: Hans Schöggl and Karel Stokkermans
+
+Last updated: 7 Mar 2023
+
+
+**(C) Copyright Hans Schöggl, Karel Stokkermans
+and RSSSF 2019/23**
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the authors. All rights reserved.

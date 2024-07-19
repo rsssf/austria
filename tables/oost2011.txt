@@ -1,5 +1,5 @@
 <!--
-   source: http://rsssf.com/tableso/oost2011.html
+   source: https://rsssf.org/tableso/oost2011.html
   -->
 
 
@@ -7,12 +7,14 @@
 ## Austria 2010/11
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Bundesliga›
-‹ÖFB Cup›
-‹1. Liga›
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+‹1. Liga, see §1liga›
+‹SFV (Salzburg) Cup, see §salzcup›
+‹Steirer Cup, see §steicup›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga
+#### Bundesliga  ‹§bund›
 
 
 Final Table:
@@ -56,43 +58,147 @@ Rapid Wien-Austria Wien originally 0-2, awarded 0-3
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup
+#### ÖFB Cup  ‹§cup›
 
+
+Preliminary Round
+[Jul 23]
+SVG Bleiburg                0-2 SPG SC St. Stefan/SK Austria Klagenfurt
+[Jul 24]
+ASV Bad Aussee              awd USV Allerheiligen           [awarded 0-3]
+FC Höchst                   3-0 FC Hard
+SV Seekirchen               1-0 TSV St. Johann/Pongau
+[Jul 25]
+SK Sturm Graz II            2-0 SC Weiz
+[Jul 27]
+SV Austria Salzburg         2-0 TSV Neumarkt/Wallersee
+SVG Reichenau               3-0 SPG Axams/Götzens
+UFC SV Hallwang             2-3 FC Red Bull Salzburg II     [aet]
+SCR Altach II               2-4 FC Dornbirn                 [aet]
+SK Treibach                 0-1 SAK Klagenfurt
+SV Feldkirchen              3-1 FC Lendorf
+WSG Watttens                3-1 Union Innsbruck
+FC Wacker Innsbruck II      5-0 SC Schwaz
+[Jul 30]
+LASK Linz II                2-1 Union Dietach
+DSV Leoben                  2-3 SV Union Gleinstätten
+SV Stegersbach              2-1 ASKÖ Stinatz
+ASK Voitsberg               3-2 Grazer AK
+FC Blau-Weiß Linz           3-1 SV Bad Ischl
+FC Wels                     1-2 SPG SV Neuhofen/SV Ried II
+SK Rapid Wien II            5-0 Admira Technopool
+SVL Flavia Solva            0-6 SPG Austria Kapfenberg/Kapfenberger SV II
+Union Vöcklamarkt           2-1 FC Pasching
+1. SC Sollenau              2-1 UFC Purbach
+SV Langenrohr               0-4 SV Horn
+SC Zwettl                   0-2 SC Retz
+SKU Amstetten               4-1 FC Admira Wacker Mödling II
+SV Mattersburg II           1-0 SV Neuberg
+Wiener SK                   0-1 FK Austria Wien II
+Union St. Florian           1-3 SV Sierning
+[Jul 31]
+SC Wallern                  3-1 ASK Horitschon
+SV Gaflenz                  3-1 FC Mistelbach
+SV Würmla                   1-6 FC Waidhofen/Ybbs
+[Aug 1]
+1. Simmeringer SC Wien      3-4 Favoritner AC Wien          [aet]
+FAC Team für Wien           4-2 FC Stadlau Wien
+
+Round 1
+[Aug 12]
+SV Mattersburg Amateure     0-1 FK Austria Wien Amateure
+[Aug 13]
+SV Sierning                 2-3 TSV Hartberg
+FAC Team für Wien           1-2 Kapfenberger SV
+FC Wacker Innsbruck II      3-5 SV Grödig
+SC-ESV Parndorf             4-0 SV Feldkirchen
+SV Seekirchen               3-2 Post SV Wien
+USV Allerheiligen           2-3 FC Blau-Weiß Linz
+WSG Wattens                 1-2 First Vienna FC             [replay after abandonment on Aug 13 due to thunderstorm]
+1. SC Sollenau              4-2 Favoritner AC Wien
+SKU Amstetten               2-1 FC Admira Wacker Mödling
+SV Stegersbach              1-5 SV Mattersburg              [replay after abandonment on Aug 13 due to thunderstorm]
+FC Dornbirn                 1-0 SC Wiener-Neustadt
+ASK Voitsberg               7-1 USC Wallern
+FC Kufstein                 4-4 USK Anif                    [aet, 5-4 pen]
+SV Horn                     1-2 SK Sturm Graz
+[Aug 14]
+SPG Austria K'nberg/KSV II  3-1 LASK Linz II
+SC Retz                     2-2 FC Gratkorn                 [aet, 2-4 pen]
+SC Bregenz                  1-2 FC Lustenau
+SAK Klagenfurt              2-2 Wolfsberger AC/SK St. Andrä [aet, 2-4 pen]
+St. Stefan/Austria Kl'furt  1-2 LASK Linz
+SK Rapid Wien II            2-5 SK Rapid Wien
+SK Vorwärts Steyr           1-0 SKN St. Pölten
+SV Austria Salzburg         0-3 SC Austria Lustenau
+SV Gaflenz                  2-1 FC Illmitz
+SVG Reichenau               0-8 SCR Altach
+SKN St. Pölten II           1-4 FC Red Bull Salzburg
+TuS Paldau                  1-4 FC Waidhofen/Ybbs
+Union Vöcklamarkt           0-3 FC Wacker Innsbruck
+FC Höchst                   1-1 FC Red Bull Salzburg II     [aet, 4-3 pen]
+SV Union Gleinstätten       5-3 Villacher SV
+SV Neuhofen/SV Ried II      0-3 FK Austria Wien
+[Aug 15]
+SK Sturm Graz II            0-5 SV Ried
+
+Round 2
+[Sep 16]
+SKU Amstetten               0-2 SCR Altach
+[Sep 17]
+FC Waidhofen/Ybbs           0-4 SV Ried
+FC Kufstein                 0-3 SV Grödig
+SK Vorwärts Steyr           3-2 Wolfsberger AC/SK St. Andrä
+SV Seekirchen               2-6 TSV Hartberg
+1. SC Sollenau              2-4 LASK Linz
+Kapfenberger SV             3-1 FC Gratkorn
+FC Dornbirn                 1-2 SV Mattersburg
+[Sep 18]
+ASK Voitsberg               0-1 First Vienna FC
+Austria Kapfenberg/KSV II   0-3 FK Austria Wien
+SC-ESV Parndorf             1-2 SK Sturm Graz
+SV Gaflenz                  1-5 FC Wacker Innsbruck
+FC Höchst                   0-3 SC Austria Lustenau
+[Sep 19]
+FC Blau-Weiß Linz           3-1 FC Red Bull Salzburg
+FK Austria Wien II          1-1 SK Rapid Wien               [aet, 3-4 pen]
+[Sep 20]
+SV Union Gleinstätten       2-4 FC Lustenau
 
 1/8 Finals
 [Nov 9]
-Vienna              2-1 SCR Altach          [aet]
-Austria Lustenau    0-0 SV Grödig           [aet, 5-4 pen]
-Linzer ASK          0-1 SV Ried
-Kapfenberger SV     2-0 FC Lustenau         [aet]
+Vienna                      2-1 SCR Altach                  [aet]
+Austria Lustenau            0-0 SV Grödig                   [aet, 5-4 pen]
+Linzer ASK                  0-1 SV Ried
+Kapfenberger SV             2-0 FC Lustenau                 [aet]
 [Nov 10]
-BW Linz             0-1 SV Mattersburg
-Rapid               3-0 TSV Hartberg
-Austria Wien        2-1 Wacker Innsbruck    [aet]
-Vorwärts Steyr      0-1 Sturm Graz          [aet]
+BW Linz                     0-1 SV Mattersburg
+Rapid                       3-0 TSV Hartberg
+Austria Wien                2-1 Wacker Innsbruck            [aet]
+Vorwärts Steyr              0-1 Sturm Graz                  [aet]
 
 Quarterfinals
 [Apr 19]
-Austria Wien        0-4 Austria Lustenau
-Vienna              0-2 Kapfenberger SV
+Austria Wien                0-4 Austria Lustenau
+Vienna                      0-2 Kapfenberger SV
 [Apr 20]
-Rapid Wien          2-0 SV Mattersburg
-SV Ried             2-1 Sturm Graz
+Rapid Wien                  2-0 SV Mattersburg
+SV Ried                     2-1 Sturm Graz
 
 Semifinals
 [May 3]
-Kapfenberger SV     1-2 Austria Lustenau
+Kapfenberger SV             1-2 Austria Lustenau
 [May 4]
-SV Ried             2-1 Rapid Wien
+SV Ried                     2-1 Rapid Wien
 
 Final [May 29]
-SV Ried             2-0 Austria Lustenau
+SV Ried                     2-0 Austria Lustenau
   [Hammerer 41, 67]
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Liga (Second Level)
+#### 1. Liga (Second Level)  ‹§1liga›
 
 
 Final Table:
@@ -107,7 +213,7 @@ Final Table:
  7.FC Lustenau                  36  11  9 16  51-60  42
  8.TSV Hartberg                 36  10  9 17  44-60  39
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.First Vienna FC 1894         36   9  7 20  47-67  34  ‹Relegation Playoff›
+ 9.First Vienna FC 1894         36   9  7 20  47-67  34  ‹Relegation Playoff, see §prorel›
 -------------------------------------------------------
 10.FC Gratkorn                  36   9  6 21  47-82  33  Relegated
 
@@ -140,7 +246,7 @@ First Vienna         1-1  3-1  0-0  1-4  1-1  3-0  2-0  0-4  0-0
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Promotion/Relegation 2nd/3rd level
+#### Promotion/Relegation 2nd/3rd level  ‹§prorel›
 
 
 First Legs
@@ -153,27 +259,98 @@ Second Legs [Jun 11]
 Wattens          0-1 BW Linz          [aet, 3-4 pen]
 Parndorf         1-2 Vienna
 
-NB: FC Blau-Weiss Linz promoted
+NB: FC Blau-Weiß Linz promoted
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2009/10›.
+#### SFV (Salzburg) Cup 2010/11  ‹§salzcup›
 
-‹2011/12›.
 
-‹list of final tables›.
+1/8 Finals
+[Sep 7]
+UFC Altenmarkt                2-0 FC Zell/See
+[Sep 8]
+USC Faistenau                 1-1 SK Maishofen                  [aet, 3-5 pen]
+USV Fuschl                    3-1 SV Schwarzach
+USC Ramingstein              2-17 USK Anif
+TSU Bramberg                  3-2 FC Puch
+SV Grödig 1b                  5-2 USC Eugendorf
+USK St. Koloman               2-2 SV Anthering                  [aet, 5-3 pen]
+USV Köstendorf                0-3 FC Red Bull Amateure
 
-‹list of champions›.
+Quarterfinals
+[Apr 5]
+FC Red Bull Amateure          2-0 USK Anif
+[Apr 6]
+SK Maishofen                  2-2 TSU Bramberg                  [aet, 4-2 pen]
+[Apr 20]
+USV Fuschl                    1-1 UFC Altenmarkt                [aet, 6-5 pen]
+USK St. Koloman               0-2 SV Grödig 1b
 
-‹list of cup finals›.
+Semifinals
+[May 4]
+SK Maishofen                  0-1 SV Grödig 1b
+[May 10]
+USV Fuschl                    0-5 FC Red Bull Amateure
 
-‹list of super cup finals›.
+Final [May 31]
+FC Red Bull Amateure          6-3 SV Grödig 1b
 
-‹list of foundation dates›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+#### Woche Steirer Cup 2010/11  ‹§steicup›
+
+
+1/8 Finals
+[Mar 12]
+TuS Kraubath                  0-6 SV Bad Schwanberg
+[Apr 25]
+SV Frannach                   1-0 SC Liezen
+SV Gnas                       2-2 SV Thal                       [aet, 4-5 pen]
+FC Zeltweg                    1-4 SC Kalsdorf
+SC St. Margarethen/Rosental   0-3 SC Weiz
+USV Gabersdorf                3-4 SC Bruck/Mur
+[Apr 27]
+USV Mettersdorf               6-2 SV Hinterberg
+[May 10]
+SV Lafnitz                    1-0 Sturm Graz Amateure
+
+Quarterfinals
+[May 24]
+SV Thal                       1-5 SC Weiz
+[Jun 1]
+SV Frannach                   2-1 SC Bruck/Mur
+USV Mettersdorf               3-3 SV Bad Schwanberg             [aet, 4-2 pen]
+[Jun 7]
+SV Lafnitz                    5-4 SC Kalsdorf
+
+Semifinals [Jun 13]
+SV Lafnitz                    0-3 SC Weiz
+USV Mettersdorf               1-2 SV Frannach
+
+Final [Jun 23]
+SV Frannach                   1-4 SC Weiz
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2009/10, see page oost2010›.
+
+‹2011/12, see page oost2012›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
 
 Prepared and maintained by Hans Schöggl,
 Jan Schoenmakers and Karel Stokkermans for the
@@ -182,10 +359,10 @@ Jan Schoenmakers and Karel Stokkermans for the
 
 Authors: Hans Schöggl, Jan Schoenmakers and Karel Stokkermans
 
-Last updated: 13 Jun 2013
+Last updated: 7 Mar 2023
 
 
 **(C) Copyright Hans Schöggl, Jan Schoenmakers, Karel Stokkermans
-and RSSSF 2012/13**
+and RSSSF 2012/23**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

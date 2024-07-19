@@ -1,4 +1,4 @@
-## ÖFB Cup
+= Austria ÖFB Cup 2015/16
 
 Round 1
 [Jul 17]
@@ -22,7 +22,7 @@ ASK Ebreichsdorf            4-0 FC Penzing Wien
 SV Leobendorf               0-0 Wiener SK                   [aet, 4-3 pen]
 FC Golling                  0-6 Floridsdorfer AC (Wien)
 TSV Neumarkt/Wallersee      0-3 FC Hard
-SC Deutschlandsberg         0-7 FC Red Bull Salzburg
+Deutschlandsberger SC       0-7 FC Red Bull Salzburg
 Schwarz-Weiß Bregenz        0-1 FC Wels
 ATSV Stadl-Paura            1-5 WSG Swarovski Wattens
 USC Eugendorf               2-4 SV Austria Salzburg         [aet]
@@ -33,25 +33,58 @@ SV Schwechat                1-1 FC Admira Wacker Mödling    [aet, 2-4 pen]
 TSV Hartberg                0-6 SK Sturm Graz
 [Jul 19]
 Annabichler SV (Klagenfurt) 1-4 FC Stadlau
-SV Reichenau                1-4 SK Austria Klagenfurt
+SVG Reichenau               1-4 SK Austria Klagenfurt
 FC Piberstein Lankowitz     3-1 SC Austria Lustenau
 ASKÖ Köttmannsdorf          0-6 Wolfsberger AC
 
-Round 2 [Aug 22]
-FC Stadlau Wien              -  SK Austria Klagenfurt
-Union Gurten                 -  SV Mattersburg
-Wiener SK                    -  SC Rheindorf Altach
-TSV St.Johann/Pongau         -  Linzer ASK
-SKU Amstetten                -  SK Rapid Wien
-SV Wallern                   -  FC Admira Wacker Mödling
-FC Piberstein Lankowitz      -  Floridsdorfer AC Wien
-WSG Swarovski Wattens        -  Kapfenberger SV
-FC Hard                      -  SKN St. Pölten
-SV Seekirchen                -  SK Sturm Graz
-FC Lendorf                   -  SV Austria Salzburg
-SV Horn                      -  FC Red Bull Salzburg
-FC Wels                      -  FK Austria Wien
-Kremser SC                   -  FC Wacker Innsbruck
-ASK Ebreichsdorf             -  SC Wiener Neustadt
-SV Ried/Innkreis             -  Wolfsberger AC
+Round 2
+[Sep 22]
+FC Stadlau Wien             2-1 SK Austria Klagenfurt       [aet]
+Union Gurten                1-3 SV Mattersburg
+Wiener SK                   0-3 SC Rheindorf Altach
+TSV St.Johann/Pongau        1-1 Linzer ASK                  [aet, 4-5 pen]
+FC Piberstein Lankowitz     1-0 Floridsdorfer AC Wien
+WSG Swarovski Wattens       0-0 Kapfenberger SV             [aet, 6-5 pen]
+FC Hard                     1-4 SKN St. Pölten
+SV Seekirchen               0-7 SK Sturm Graz
+FC Lendorf                  0-5 SV Austria Salzburg
+SV Horn                     2-3 FC Red Bull Salzburg        [aet]
+Kremser SC                  3-5 FC Wacker Innsbruck         [aet]
+ASK Ebreichsdorf            3-1 SC Wiener Neustadt
+[Sep 23]
+SKU Amstetten               1-1 SK Rapid Wien               [aet, 3-4 pen]
+SV Wallern                  2-2 FC Admira Wacker Mödling    [aet, 2-4 pen]
+FC Wels                     0-2 FK Austria Wien
+SV Ried/Innkreis            0-0 Wolfsberger AC              [aet, 5-3 pen]
+
+Round 3
+[Oct 27]
+ASK Ebreichsdorf            2-3 SK Sturm Graz
+FC Stadlau Wien             0-4 SKN St. Pölten
+FC Piberstein Lankowitz     0-1 FC Admira Wacker Mödling
+FC Red Bull Salzburg        4-2 SV Ried/Innkreis
+FC Wacker Innsbruck         0-2 Linzer ASK
+[Oct 28]
+WSG Swarovski Wattens       0-2 SV Mattersburg
+SK Rapid Wien               5-1 SV Austria Salzburg
+[Nov 4]
+FK Austria Wien             2-1 SC Rheindorf Altach
+
+Quarterfinals
+[Feb 9]
+FK Austria Wien             1-0 Linzer ASK
+SV Mattersburg              1-2 SKN St. Pölten
+[Feb 10]
+SK Rapid Wien               0-1 FC Admira/Wacker Mödling
+SK Sturm Graz               0-1 FC Red Bull Salzburg
+
+Semifinals
+[Apr 19]
+FC Admira/Wacker Mödling    2-1 SKN St. Pölten
+[Apr 20]
+FC Red Bull Salzburg        5-2 FK Austria Wien
+
+Final [May 19, Klagenfurt]
+FC Red Bull Salzburg        5-0 FC Admira/Wacker Mödling
+  [Soriano 7, 65, 86pen , Keita 28, Laimer 73]
 

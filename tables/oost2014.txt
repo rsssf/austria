@@ -1,5 +1,5 @@
 <!--
-   source: http://rsssf.com/tableso/oost2014.html
+   source: https://rsssf.org/tableso/oost2014.html
   -->
 
 
@@ -7,13 +7,15 @@
 ## Austria 2013/14
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Bundesliga›
-‹ÖFB Cup›
-‹1. Liga›
-‹Regionalliga›
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+‹1. Liga, see §1liga›
+‹Regionalliga, see §regliga›
+‹SFV (Salzburg) Cup, see §salzcup›
+‹Steirer Cup, see §steicup›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga
+#### Bundesliga  ‹§bund›
 
 
 Final Table:
@@ -381,7 +383,7 @@ NB: Admira Wacker were refused a license for 2014/15 but successfully appealed
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup
+#### ÖFB Cup  ‹§cup›
 
 
 Round 1
@@ -415,7 +417,7 @@ FC Hard                     1-3 SV Horn
 TSV St. Johann/Pongau       0-5 FC Pasching
 SC Team Wiener Linien       0-5 SK Sturm Graz
 SC Mannsdorf                1-0 FC Gratkorn                 [aet]
-SC Stegersbach              0-2 SC Austria Lustenau
+SV Stegersbach              0-2 SC Austria Lustenau
 [Jul 15]
 Linzer ASK                  0-0 SK Rapid Wien               [aet, 5-4 pen]
 SV Allerheiligen            1-4 FC Wacker Innsbruck
@@ -439,7 +441,7 @@ FC Pasching                 2-1 FC Wacker Innsbruck
 SV Dornbirn                 0-2 SV Ried/Innkreis
 SK Sturm Graz               3-0 SC Wiener Neustadt          [aet]
 SC Pinkafeld                1-4 Wolfsberger AC
-FC Pibersteion Lankowitz    1-1 FC Red Bull Salzburg        [aet, 5-6 pen]
+FC Piberstein Lankowitz     1-1 FC Red Bull Salzburg        [aet, 5-6 pen]
 FAC Team für Wien           0-0 FC Admira Wacker Mödling    [aet, 5-6 pen]
 
 Round 3
@@ -474,7 +476,7 @@ FC Red Bull Salzburg        4-2 SKN St. Pölten
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Liga (Second Level)
+#### 1. Liga (Second Level)  ‹§1liga›
 
 
 Final Table:
@@ -489,7 +491,7 @@ Final Table:
  7.SV Horn                      36  12  8 16  52-70  44
  8.TSV Hartberg                 36  11 11 14  41-60  44
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.SC/ESV Parndorf              36  11  6 19  41-59  39  ‹Relegation Playoff›
+ 9.SC/ESV Parndorf              36  11  6 19  41-59  39  ‹Relegation Playoff, see §2prorel›
 -------------------------------------------------------
 10.First Vienna FC 1894         36   9  6 21  36-61  20  [-13]  Relegated
 
@@ -497,13 +499,13 @@ NB: Kapfenberg and Vienna were refused a license for 2014/15;
     Kapfenberg successfully appealed
 
 
-**Promotion/Relegation Playoff**
+**Promotion/Relegation Playoff  ‹§2prorel›**
 
 Participants:
 SC/ESV Parndorf (1.Liga)
-SV Austria Salzburg (winners ‹Regionalliga West›)
-Linzer ASK (winners ‹Regionalliga Mitte›)
-FAC Team für Wien (winners ‹Regionalliga Ost›)
+SV Austria Salzburg (winners ‹Regionalliga West, see §regwest›)
+Linzer ASK (winners ‹Regionalliga Mitte, see §regmitte›)
+FAC Team für Wien (winners ‹Regionalliga Ost, see §regost›)
 
 First Legs [Jun 2]
 FAC              2-2 Salzburg
@@ -517,16 +519,16 @@ NB: Parndorf relegated, LASK and FAC promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Regionalliga
+#### Regionalliga  ‹§regliga›
 
 
-‹Regionalliga West› | ‹Regionalliga Mitte› | ‹Regionalliga Ost›
+‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-**Regionalliga West**
+**Regionalliga West  ‹§regwest›**
 
 Final Table:
 
- 1.Austria Salzburg             30  25  4  1  96-15  79  ‹Promotion Playoff›
+ 1.Austria Salzburg             30  25  4  1  96-15  79  ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  2.WSG Wattens                  30  22  4  4  88-36  70
  3.TSV Neumarkt/Wallersee       30  16  5  9  67-41  53
@@ -547,17 +549,17 @@ Final Table:
 
 Promoted: FC Pinzgau Saalfelden (Salzburg), FC Kitzbühel (Tirol), FC Bizau (Vorarlberg)
 
-**Regionalliga Mitte**
+**Regionalliga Mitte  ‹§regmitte›**
 
 Final Table:
 
- 1.LASK Linz                    30  24  4  2  80-19  76  ‹Promotion Playoff›
+ 1.LASK Linz                    30  24  4  2  80-19  76  ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  2.FC Pasching                  30  21  6  3  79-20  69
  3.SV Lafnitz                   30  17  4  9  68-55  55
  4.SV Wallern                   30  14  5 11  51-46  47
  5.SK Austria Klagenfurt        30  13  5 12  56-68  44
- 6.FC Blau-Weiss Linz           30  13  3 14  40-52  42
+ 6.FC Blau-Weiß Linz            30  13  3 14  40-52  42
  7.Union St. Florian            30  11  8 11  36-36  41
  8.Sturm Graz Amateure          30  11  8 11  54-55  41
  9.SC Kalsdorf                  30  11  6 13  53-55  39
@@ -572,11 +574,11 @@ Final Table:
 
 Promoted: ATSV Wolfsberg (Kärnten), Union Gurten (Oberösterreich), SC Weiz (Steiermark)
 
-**Regionalliga Ost**
+**Regionalliga Ost  ‹§regost›**
 
 Final Table:
 
- 1.FAC Team für Wien            30  20  4  6  55-24  64   ‹Promotion Playoff›
+ 1.FAC Team für Wien            30  20  4  6  55-24  64   ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  2.FK Austria Wien Amateure     30  17  6  7  55-34  57
  3.SKU Amstetten                30  17  5  8  63-29  56
@@ -599,22 +601,86 @@ Promoted: SC Neusiedl/See (Burgenland), SKN St. Pölten Juniors (Niederösterrei
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2012/13›.
+#### SFV (Salzburg) Cup 2013/14  ‹§salzcup›
 
-‹2014/15›.
 
-‹list of final tables›.
+1/8 Finals
+[Aug 27]
+1. Oberndorfer SK             3-2 FC Puch
+USC Piesendorf                0-3 SV Seekirchen
+SK Lenzing Saalfelden         1-4 SV Kuchl
+SV Wals-Grünau                3-0 TSV Neumarkt
+ASV Salzburg                  1-3 TSV St. Johann
+USV Köstendorf                1-5 FC Pinzgau Saalfelden
+[Aug 28]
+SC Tamsweg                    0-1 SV Austria Salzburg
+ÖTSU Hallein                  0-0 UFC SV Hallwang               [aet, 5-3 pen]
 
-‹list of champions›.
+Quarterfinals
+[Apr 15]
+SV Kuchl                      4-4 TSV St. Johann                [aet, 2-4 pen]
+[Aug 16]
+1. Oberndorfer SK             0-0 SV Wals-Grünau                [aet, 4-2 pen]
+ÖTSU Hallein                  2-4 SV Austria Salzburg
+FC Pinzgau Saalfelden         3-3 SV Seekirchen                 [aet, 3-4 pen]
 
-‹list of cup finals›.
+Semifinals
+[May 7]
+1. Oberndorfer SK             0-1 SV Austria Salzburg
+[May 13]
+TSV St. Johann                2-1 SV Seekirchen
 
-‹list of super cup finals›.
+Final [May 20]
+TSV St. Johann                2-6 SV Austria Salzburg
 
-‹list of foundation dates›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+#### Woche Murauer Cup 2013/14  ‹§steicup›
+
+
+1/8 Finals
+[Apr 4]
+AC Leibnitz                   6-3 TUS Krieglach
+[Apr 21]
+ESV St. Michael               1-2 FC Piberstein Lankowitz
+SV Lebring                    3-1 FC Gleisdorf 09
+SV Frohnleiten                4-1 SC Liezen
+TUS St. Stefan/Rosental       1-3 SC Kalsdorf
+TSV Pöllau                    3-0 SV Allerheiligen
+TUS Bad Gleichenberg          1-2 SV Andritz Graz
+FC Zeltweg                    5-0 FC Trofaiach
+
+Quarterfinals [Apr 30]
+TSV Pöllau                    1-2 SV Frohnleiten
+FC Zeltweg                    3-2 SC Kalsdorf
+SV Andritz Graz               1-1 SV Lebring                    [aet, 5-4 pen]
+AC Leibnitz                   0-3 FC Piberstein Lankowitz
+
+Semifinals [May 28]
+SV Andritz Graz               0-2 FC Zeltweg
+FC Piberstein Lankowitz       3-1 SV Frohnleiten
+
+Final [Jun 9]
+FC Zeltweg                    1-4 FC Piberstein Lankowitz
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2012/13, see page oost2013›.
+
+‹2014/15, see page oost2015›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
 
 Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -622,10 +688,10 @@ Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 
 Authors: Hans Schöggl and Karel Stokkermans
 
-Last updated: 11 Jun 2015
+Last updated: 7 Mar 2023
 
 
 **(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2013/15**
+and RSSSF 2013/23**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

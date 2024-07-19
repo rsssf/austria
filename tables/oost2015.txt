@@ -1,5 +1,5 @@
 <!--
-   source: http://rsssf.com/tableso/oost2015.html
+   source: https://rsssf.org/tableso/oost2015.html
   -->
 
 
@@ -7,13 +7,15 @@
 ## Austria 2014/15
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Bundesliga›
-‹ÖFB Cup›
-‹1. Liga›
-‹Regionalliga›
+‹Bundesliga, see §bund›
+‹ÖFB Cup, see §cup›
+‹1. Liga, see §1liga›
+‹Regionalliga, see §regliga›
+‹SFV (Salzburg) Cup, see §salzcup›
+‹Steirer Cup, see §steicup›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Bundesliga
+#### Bundesliga  ‹§bund›
 
 
 Final Table:
@@ -375,7 +377,7 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### ÖFB Cup
+#### ÖFB Cup  ‹§cup›
 
 
 Round 1
@@ -391,7 +393,7 @@ SV Schwechat                1-4 Floridsdorfer AC
 ASK Kottingbrunn            0-7 Kapfenberger SV
 FC Lendorf                  0-7 FC Admira Wacker Mödling
 SC Kalsdorf                 2-2 TSV Hartberg                [aet, 5-6 pen]
-SWG Swarovski Wattens       2-4 SC Rheindorf Altach         [aet]
+WSG Wattens                 2-4 SC Rheindorf Altach         [aet]
 First Vienna FC             0-6 FK Austria Wien
 SKU Amstetten               0-1 SK Rapid Wien               [aet]
 SV Wallern                  1-1 Union St. Florian           [aet, 6-4 pen]
@@ -410,8 +412,8 @@ SAK Klagenfurt              1-4 SV Lafnitz
 FC Kitzbühel                5-1 SC Retz
 SV Grün-Weiß Micheldorf     2-1 SV Allerheiligen
 [Jul 13]
-SC Leobendorf               1-7 SV Grödig
-FC Gleisdorf                1-2 SK Kufstein
+SV Leobendorf               1-7 SV Grödig
+FC Gleisdorf                1-2 FC Kufstein
 Admira Landhaus Wien        0-8 SKN St. Pölten
 [Jul 16]
 SV Austria Salzburg         2-0 FC Blau-Weiß Linz           [played in Vöcklabruck]
@@ -470,7 +472,7 @@ FC Red Bull Salzburg        2-0 FK Austria Wien             [aet]
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### 1. Liga (Second Level)
+#### 1. Liga (Second Level)  ‹§1liga›
 
 
 Final Table:
@@ -490,7 +492,7 @@ Final Table:
 
 [*] FC Liefering (farm team RB Salzburg) are not eligible for promotion
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§2prorel›**
 
 Promoted: SV Austria Salzburg (winners Regionalliga West) (directly);
           winners playoff between SK Austria Klagenfurt (winners Regionalliga Mitte)
@@ -508,12 +510,12 @@ NB: SK Austria Klagenfurt promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Regionalliga
+#### Regionalliga  ‹§regliga›
 
 
-‹Regionalliga West› | ‹Regionalliga Mitte› | ‹Regionalliga Ost›
+‹Regionalliga West, see §regwest› | ‹Regionalliga Mitte, see §regmitte› | ‹Regionalliga Ost, see §regost›
 
-**Regionalliga West**
+**Regionalliga West  ‹§regwest›**
 
 Final Table:
 
@@ -540,14 +542,14 @@ Promoted: USK Anif (Salzburg)
           SVG Reichenau (Tirol)
           SW Bregenz (Vorarlberg)
 
-**Regionalliga Mitte**
+**Regionalliga Mitte  ‹§regmitte›**
 
 Final Table:
 
- 1.SK Austria Klagenfurt        30  20  5  5  68-26  65  ‹Promotion Playoff›
+ 1.SK Austria Klagenfurt        30  20  5  5  68-26  65  ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  2.SK Vorwärts Steyr            30  18  5  7  46-30  59
- 3.FC Blau-Weiss Linz           30  16  6  8  53-34  54
+ 3.FC Blau-Weiß Linz            30  16  6  8  53-34  54
  4.SC Weiz                      30  16  6  8  57-41  54
  5.SV Lafnitz                   30  16  4 10  54-28  52
  6.SV Allerheiligen             30  15  4 11  54-44  49
@@ -567,21 +569,21 @@ Promoted: Annabichler SV (Kärnten)
           ATSV Stadl-Paura (Oberösterreich)
           Deutschlandsberger SC (Steiermark)
 
-**Regionalliga Ost**
+**Regionalliga Ost  ‹§regost›**
 
 Final Table:
 
  1.SC Ritzing                   30  17 10  3  60-34  61  Refused 2nd Level License
- 2.SC/ESV Parndorf              30  17  4  9  64-36  55  ‹Promotion Playoff›
+ 2.SC/ESV Parndorf              30  17  4  9  64-36  55  ‹Promotion Playoff, see §2prorel›
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  3.SK Union Amstetten           30  12 12  6  60-38  48
  4.First Vienna FC              30  12 12  6  46-32  48
  5.SC Neusiedl/See              30  13  6 11  43-46  45
  6.SV Schwechat                 30  12  8 10  44-32  44
  7.Admira Juniors Mödling       30  10 12  8  48-44  42
- 8.1.SC Sollenau                30  11  6 10  50-49  39
+ 8.1.SC Sollenau                30  11  9 10  50-49  42
  9.SK Rapid II Wien             30  10  9 11  50-42  39
-10.FK Austria Wien Amateure     30  10  6 11  52-46  39
+10.FK Austria Wien Amateure     30  10  9 11  52-46  39
 11.SKN St. Pölten Juniors       30  10  8 12  46-51  38
 12.Wiener Sportklub             30  10  7 13  53-55  37
 -------------------------------------------------------
@@ -597,22 +599,94 @@ Promoted: SV Oberwart (Burgenland)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013/14›.
+#### SFV (Salzburg) Cup 2014/15  ‹§salzcup›
 
-‹2015/16›.
 
-‹list of final tables›.
+1/8 Finals
+[Aug 26]
+UFC Siezenheim                2-1 SV Austrria Salzburg
+ÖTSU Hallein                  1-1 SAK 1914                      [aet, 3-4 pen]
+USV Zederhaus                 0-1 SC Tamsweg
+[Aug 27]
+SC Mittersill                 0-1 ASV Salzburg
+1. Oberndorfer SK             2-2 SV Straßwalchen               [aet, 1-3 pen]
+USK St. Koloman               1-4 SC Golling
+SV Kuchl                      1-4 USC Eugendorf
+UFC Altenmarkt                0-1 TSV St. Johann
 
-‹list of champions›.
+Quarterfinals
+[Apr 14]
+SC Tamsweg                    2-1 SAK 1914
+[Apr 15]
+UFC Siezenheim                0-1 USC Eugendorf
+ASV Salzburg                  4-0 SV Straßwalchen
+[Apr 21]
+SC Golling                    2-1 TSV St. Johann
 
-‹list of cup finals›.
+Semifinals [Jun 6]
+SC Golling                    4-1 SC Tamsweg
+ASV Salzburg                  1-3 USC Eugendorf
 
-‹list of super cup finals›.
+Final [Jun 26]
+SC Golling                    1-7 USC Eugendorf
 
-‹list of foundation dates›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+#### Woche Murauer Cup 2014/15  ‹§steicup›
+
+
+1/8 Cup
+[Apr 6]
+SV Strass                     1-2 FC Trofaiach
+SV Pachern                    2-1 DSV Leoben
+Dietersdorfer USV Loipersdorf 2-2 FC Gleisdorf 09               [aet, 2-4 pen]
+SV Gnas                       2-2 SV Lafnitz                    [aet, 3-2 pen]
+FC Piberstein Lankowitz       1-0 FC Zeltweg
+[Apr 7]
+FC Großklein                  7-3 SV Andritz Graz
+[Apr 14]
+TUS Bad Waltersdorf           1-5 SV Allerheiligen
+SC Bruck/Mur                  3-3 ATV Irdning                   [aet, 3-2 pen]
+
+Quarterfinals
+{Apr 28]
+SC Bruck/Mur                  1-3 FC Gleisdorf 09
+[Apr 29]
+FC Trofaiach                  0-2 SV Gnas
+[May 4]
+FC Piberstein Lankowitz       2-1 SV Allerheiligen
+[May 5]
+FC Großklein                  2-1 SV Pachern
+
+Semifinals
+[May 12]
+FC Piberstein Lankowitz       1-0 FC Gleisdorf 09
+[May 13]
+FC Großklein                  1-1 SV Gnas                       [aet, 1-4 pen]
+
+Final [Jun 3]
+FC Piberstein Lankowitz       3-0 SV Gnas
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2013/14, see page oost2014›.
+
+‹2015/16, see page oost2016›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
+
+Thanks to Martin Arenlind
 
 Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -620,10 +694,10 @@ Prepared and maintained by Hans Schöggl and Karel Stokkermans for the
 
 Authors: Hans Schöggl and Karel Stokkermans
 
-Last updated: 23 Jul 2015
+Last updated: 7 Mar 2023
 
 
 **(C) Copyright Hans Schöggl, Karel Stokkermans
-and RSSSF 2014/15**
+and RSSSF 2014/23**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

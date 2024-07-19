@@ -1,32 +1,90 @@
-## ÖFB Cup
+= Austria ÖFB Cup 2012/13
+
+Round 1
+[Jul 12]
+FAC Team für Wien        0-1 SCR Altach
+[Jul 13]
+FC Hard                  1-0 FC Schwaz
+SC/ESV Parndorf          0-3 FC Admira Wacker Wien
+WSG Wattens              0-1 SK Sturm Graz
+Union Vöcklamarkt        3-4 FC Lustenau
+FC Gratkorn              0-0 FC Wacker Innsbruck      [aet, 4-5 pen]
+Villacher SV             4-2 FC Rohrendorf/Gedersdorf
+FC Pasching              2-1 SV Austria Salzburg
+SC Kalsdorf              3-1 SV Wallern
+Deutschlandsberger SC    1-2 TSV Hartberg
+FC Pinzgau Saalfelden    0-4 SV Grödig
+Union St. Florian        2-1 FC Blau-Weiß Linz
+SK Austria Klagenfurt    3-2 SV Horn
+Salzburger AK            0-5 USV Allerheiligen
+SKU Amstetten            0-1 SV Schwechat
+Grazer AK                3-2 First Vienna FC          [aet]
+Wiener SK                0-2 FC Red Bull Salzburg
+[Jul 14]
+SV Stegersbach           3-2 SV Reutte                [aet]
+SV Grün-Weiß Micheldorf  0-1 SC Wiener Viktoria
+SAK Klagenfurt           1-2 TSV St. Johann/Pongau
+SV Oberwart              1-3 FK Austria Wien
+DSV Leoben               1-3 SV Mattersburg
+SC Retz                  1-7 SC Austria Lustenau
+LASK Linz                7-0 SV Spittal/Drau
+SV Gaflenz               1-2 1. SC Sollenau
+SC Ostbahn XI Wien       1-8 Wolfsberger AC
+SC Bregenz               1-2 Kapfenberger SV
+FC Kufstein              1-4 SV Ried
+SCU Ardagger             2-3 FC Dornbirn              [aet]
+[Jul 15]
+FC Wolfurt               2-4 SC Wiener-Neustadt       [aet]
+SV Heiligenkreuz         0-5 SK Rapid Wien
+
+Round 2
+[Sep 24]
+SC Kalsdorf              3-0 TSV Hartberg
+[Sep 25]
+FC Hard                  0-3 SCR Altach
+SV Stegersbach           1-3 FC Red Bull Salzburg
+SK Austria Klagenfurt    2-0 FC Admira Wacker Mödling [aet]
+Villacher SV             3-1 SC Wiener-Neustadt
+FC Pasching              3-2 SC Austria Lustenau      [aet]
+SV Schwechat             0-5 SK Sturm Graz
+1. SC Sollenau           1-5 FC Wacker Innsbruck      [aet]
+TSV St. Johann/Pongau    0-3 FC Lustenau
+LASK Linz                2-0 SV Grödig
+FC Dornbirn              2-3 FK Austria Wien
+[Sep 26]
+SC Wiener Viktoria       3-3 Kapfenberger SV          [aet, 4-1 pen]
+ASK Bad Vöslau           2-3 SV Mattersburg
+Union St. Florian        1-1 SV Ried                  [aet, 4-5 pen]
+USV Allerheiligen        1-4 SK Rapid Wien
+Grazer AK                0-6 Wolfsberger AC
 
 1/8 Finals
 [Oct 30]
-Linzer ASK       2-2 SV Mattersburg   [aet, 9-8 pen]
-Wiener Viktoria  0-1 SV Ried
-Sturm Graz       1-2 Wacker Innsbruck
-FC Pasching      2-1 Austria Klagenfurt
-FC Lustenau      1-2 Wolfsberger AC
+Linzer ASK               2-2 SV Mattersburg           [aet, 9-8 pen]
+Wiener Viktoria          0-1 SV Ried
+Sturm Graz               1-2 FC Wacker Innsbruck
+FC Pasching              2-1 Austria Klagenfurt
+FC Lustenau              1-2 Wolfsberger AC
 [Oct 31]
-SC Kalsdorf      1-3 RB Salzburg
-Rapid Wien       4-2 SCR Altach       [aet]
-Villacher SV     0-4 Austria Wien
+SC Kalsdorf              1-3 FC Red Bull Salzburg
+SK Rapid Wien            4-2 SCR Altach               [aet]
+Villacher SV             0-4 FK Austria Wien
 
 Quarterfinals
 [Apr 16]
-Rapid Wien       0-1 FC Pasching
-Wacker Innsbruck 0-3 RB Salzburg
+SK Rapid Wien            0-1 FC Pasching
+FC Wacker Innsbruck      0-3 FC Red Bull Salzburg
 [Apr 17]
-Wolfsberger AC   1-2 Austria Wien
-SV Ried          2-1 Linzer ASK       [aet]
+Wolfsberger AC           1-2 FK Austria Wien
+SV Ried                  2-1 Linzer ASK               [aet]
 
 Semifinals
 [May 7]
-RB Salzburg      1-2 FC Pasching
+FC Red Bull Salzburg     1-2 FC Pasching
 [May 8]
-SV Ried          1-3 Austria Wien
+SV Ried                  1-3 FK Austria Wien
 
 Final [May 30, Ernst Happel Stadion, Wien]
-FC Pasching      1-0 Austria Wien
+FC Pasching              1-0 FK Austria Wien
   [Sobkova 47]
 

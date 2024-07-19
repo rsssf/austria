@@ -1,4 +1,4 @@
-## ÖFB Cup
+= Austria ÖFB Cup 2014/15
 
 Round 1
 [Jul 11]
@@ -13,7 +13,7 @@ SV Schwechat                1-4 Floridsdorfer AC
 ASK Kottingbrunn            0-7 Kapfenberger SV
 FC Lendorf                  0-7 FC Admira Wacker Mödling
 SC Kalsdorf                 2-2 TSV Hartberg                [aet, 5-6 pen]
-SWG Swarovski Wattens       2-4 SC Rheindorf Altach         [aet]
+WSG Wattens                 2-4 SC Rheindorf Altach         [aet]
 First Vienna FC             0-6 FK Austria Wien
 SKU Amstetten               0-1 SK Rapid Wien               [aet]
 SV Wallern                  1-1 Union St. Florian           [aet, 6-4 pen]
@@ -32,8 +32,8 @@ SAK Klagenfurt              1-4 SV Lafnitz
 FC Kitzbühel                5-1 SC Retz
 SV Grün-Weiß Micheldorf     2-1 SV Allerheiligen
 [Jul 13]
-SC Leobendorf               1-7 SV Grödig
-FC Gleisdorf                1-2 SK Kufstein
+SV Leobendorf               1-7 SV Grödig
+FC Gleisdorf                1-2 FC Kufstein
 Admira Landhaus Wien        0-8 SKN St. Pölten
 [Jul 16]
 SV Austria Salzburg         2-0 FC Blau-Weiß Linz           [played in Vöcklabruck]
