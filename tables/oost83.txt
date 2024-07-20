@@ -1,0 +1,490 @@
+  <!--
+     source: https://rsssf.org/tableso/oost83.html
+    -->
+  
+
+
+## Austria 1982/83
+
+
+1.Division
+----------
+
+Table:
+
+ 1.SK Rapid                  30  20  8  2  72-18   48
+ 2.FK Austria                30  22  4  4  76-27   48
+ 3.Wacker Innsbruck          30  13 12  5  55-36   38
+ 4.SK Sturm Graz             30  16  5  9  50-33   37
+ 5.SV Austria Salzburg       30  14  6 10  45-34   34
+ 6.Austria Klagenfurt        30  13  6 11  52-49   32
+ 7.Grazer AK                 30  12  8 10  40-40   32
+ 8.VOEST Linz                30  12  8 10  41-42   32
+ 9.SC Eisenstadt             30   8 13  9  41-48   29
+10.FC Admira/Wacker          30   9  9 12  42-47   27
+11.Wiener Sport-Club         30  10  7 13  44-60   27
+12.Linzer ASK                30   9  7 14  42-49   25
+13.SC Neusiedl               30   7  7 16  29-49   21
+14.Union Wels                30   6  8 16  27-46   20
+-----------------------------------------------------
+15.First Vienna FC           30   7  5 18  25-61   19
+16.1.Simmeringer SC          30   2  7 21  20-62   11
+
+Round 1
+[Aug 20]
+GAK      0-0 Simmering
+Eisenstadt    3-1 LASK
+VOEST      0-0 Neusiedl
+[Aug 21]
+Admira/Wacker    4-0 Sturm
+Klagenfurt    1-3 Rapid
+Wels      3-1 Vienna
+Sportclub    1-1 Austria Salzburg
+Austria Wien    6-1 Innsbruck
+
+Round 2
+[Aug 27]
+LASK      1-1 Klagenfurt
+Rapid      0-0 Austria Wien
+Austria Salzburg 3-0 Admira/Wacker
+[Aug 28]
+Simmering    0-2 Sturm
+GAK      1-0 Wels
+Neusiedl    2-1 Sportclub
+Vienna      0-0 Eisenstadt
+Innsbruck    3-1 VOEST
+
+Round 3
+[Sep 3]
+Admira/Wacker    1-0 Neusiedl
+Klagenfurt    2-1 Vienna
+Eisenstadt    1-0 GAK
+[Sep 4]
+Sturm      4-1 Austria Salzburg
+Wels      1-1 Simmering
+VOEST      0-3 Rapid
+Sportclub    2-1 Innsbruck
+[Sep 5]
+Austria Wien    1-0 LASK
+
+Round 4
+[Sep 10]
+LASK      4-0 VOEST
+Rapid      5-1 Sportclub
+[Sep 11]
+Simmering    1-0 Austria Salzburg
+GAK      2-4 Klagenfurt
+Neusiedl    0-4 Sturm
+Wels      0-0 Eisenstadt
+Vienna      1-3 Austria Wien
+Innsbruck    0-0 Admira/Wacker
+
+Round 5
+[Sep 17]
+Klagenfurt    2-0 Wels
+Eisenstadt    3-1 Simmering
+Austria Salzburg 3-0 Neusiedl
+VOEST      3-1 Vienna
+[Sep 18]
+Admira/Wacker    0-0 Rapid
+Sturm      1-1 Innsbruck
+Sportclub    2-1 LASK
+[Sep 19]
+Austria Wien    1-0 GAK
+
+Round 6
+[Sep 24]
+GAK      1-0 VOEST
+LASK      3-0 Admira/Wacker
+Vienna      2-1 Sportclub
+[Sep 25]
+Simmering    1-0 Neusiedl
+Rapid      2-1 Sturm
+Eisenstadt    2-3 Klagenfurt
+Wels      1-2 Austria Wien
+Innsbruck    3-1 Austria Salzburg
+
+Round 7
+[Oct 1]
+Admira/Wacker    3-0 Vienna
+Austria Salzburg 0-0 Rapid
+VOEST      3-0 Wels
+[Oct 2]
+Klagenfurt    4-0 Simmering
+Austria Wien    2-2 Eisenstadt
+Neusiedl    1-1 Innsbruck
+Sturm      1-0 LASK
+[Oct 3]
+Sportclub    7-1 GAK
+
+Round 8
+[Oct 8]
+GAK      3-2 Admira/Wacker
+Eisenstadt    0-0 VOEST
+Vienna      1-4 Sturm
+[Oct 9]
+Klagenfurt    1-2 Austria Wien
+LASK      1-0 Austria Salzburg
+Rapid      4-0 Neusiedl
+Wels      2-0 Sportclub
+[Oct 10]
+Simmering    1-2 Innsbruck
+
+Round 9
+[Oct 15]
+Admira/Wacker    4-2 Wels
+Austria Salzburg 1-0 Vienna
+[Oct 16]
+Neusiedl    2-2 LASK
+Sturm      1-0 GAK
+VOEST      3-1 Klagenfurt
+Innsbruck    2-2 Rapid
+Sportclub    2-5 Eisenstadt
+[Oct 17]
+Austria Wien    2-2 Simmering
+
+Round 10
+[Oct 22]
+GAK      2-0 Austria Salzburg
+Eisenstadt    1-1 Admira/Wacker
+[Oct 23]
+Simmering    1-4 Rapid
+Klagenfurt    5-0 Sportclub
+LASK      1-2 Innsbruck
+Wels      0-1 Sturm
+Vienna       2-1 Neusiedl
+[Oct 24]
+Austria Wien    5-1 VOEST
+
+Round 11
+[Oct 29]
+Rapid      0-0 LASK
+[Oct 30]
+Admira/Wacker    1-1 Klagenfurt
+Neusiedl    1-2 GAK
+Sturm      4-0 Eisenstadt
+Austria Salzburg 0-0 Wels
+VOEST      4-1 Simmering
+Innsbruck    3-0 Vienna
+[Oct 31]
+Sportclub    2-1 Austria Wien
+
+Round 12 [Nov 6]
+Simmering    1-1 LASK
+Klagenfurt    3-2 Sturm
+Austria Wien    4-1 Admira/Wacker
+GAK      0-0 Innsbruck
+Eisenstadt    0-0 Austria Salzburg
+Wels      1-0 Neusiedl
+Vienna      0-3 Rapid
+VOEST      1-1 Sportclub
+
+Round 13
+[Nov 13]
+Admira/Wacker    1-1 VOEST
+LASK       2-0 Vienna
+Rapid      2-0 GAK
+Neusiedl    1-3 Eisenstadt
+Sturm      0-1 Austria Wien
+Austria Salzburg 2-1 Klagenfurt
+Innsbruck    4-0 Wels
+[Nov 14]
+Sportclub    4-1 Simmering
+
+Round 14
+[Nov 19]
+VOEST      2-1 Sturm
+[Nov 20]
+Simmering    1-1 Vienna
+Klagenfurt    0-0 Neusiedl
+GAK      5-2 LASK
+Eisenstadt    3-3 Innsbruck
+Wels      0-3 Rapid
+Sportclub    3-2 Admira/Wacker
+[Nov 21]
+Austria Wien    0-1 Austria Salzburg
+
+Round 15 [Nov 27]
+Admira/Wacker    3-1 Simmering
+LASK      2-0 Wels
+Rapid      5-1 Eisenstadt
+Neusiedl    0-1 Austria Wien
+Sturm      0-0 Sportclub
+Austria Salzburg 1-1 VOEST
+Vienna      0-1 GAK
+Innsbruck    4-1 Klagenfurt
+
+Round 16
+[Mar 19]
+Simmering    0-1 GAK
+LASK      2-3 Eisenstadt
+Rapid      2-2 Klagenfurt
+Neusiedl    3-1 VOEST
+Sturm      4-1 Admira/Wacker
+Austria Salzburg 5-0 Sportclub
+Innsbruck    1-1 Austria Wien
+[Mar 20]
+Vienna      2-1 Wels
+
+Round 17
+[Mar 25]
+Admira/Wacker    1-0 Austria Salzburg
+Eisenstadt    0-0 Vienna
+VOEST      2-0 Innsbruck
+[Mar 26]
+Klagenfurt    3-1 LASK
+Sturm      1-0 Simmering
+Wels      1-1 GAK
+[Mar 27]
+Sportclub    0-0 Neusiedl
+[May 12]
+Austria Wien    0-3 Rapid     [original match (Mar 26, 0-1) replayed;
+                                         Rapid used ineligible player Weinhofer]
+Round 18
+[Apr 1]
+Austria Salzburg 2-0 Sturm
+[Apr 2]
+Simmering    0-0 Wels
+GAK       0-2 Eisenstadt
+LASK      1-5 Austria Wien
+Rapid      4-0 VOEST
+Neusiedl    1-1 Admira/Wacker
+Vienna      3-0 Klagenfurt
+Innsbruck    3-0 Sportclub
+
+Round 19
+[Apr 8]
+Klagenfurt    2-0 GAK
+Eisenstadt    2-2 Wels
+Sturm       1-0 Neusiedl
+VOEST      2-0 LASK
+[Apr 9]
+Admira/Wacker    2-2 Innsbruck
+Austria Salzburg 3-0 Simmering
+Sportclub    0-4 Rapid
+[Apr 10]
+Austria Wien    5-1 Vienna
+
+Round 20
+[Apr 15]
+LASK      2-1 Sportclub
+[Apr 16]
+Simmering    2-3 Eisenstadt
+GAK      3-0 Austria Wien
+Rapid      2-0 Admira/Wacker
+Neusiedl    0-2 Austria Salzburg
+Wels      3-0 Klagenfurt
+Vienna      1-0 VOEST
+Innsbruck    3-1 Sturm
+
+Round 21
+[Apr 22]
+VOEST      1-1 GAK
+[Apr 23]
+Admira/Wacker    3-0 LASK
+Klagenfurt    0-0 Eisenstadt
+Neusiedl    4-1 Simmering
+Sturm      0-0 Rapid
+Austria Salzburg 1-0 Innsbruck
+Sportclub    4-3 Vienna
+[Apr 24]
+Austria Wien    4-0 Wels
+
+Round 22
+[Apr 29]
+GAK      0-0 Sportclub
+LASK      0-0 Sturm
+[Apr 30]
+Simmering    0-1 Klagenfurt
+Rapid      5-2 Austria Salzburg
+Eisenstadt    0-1 Austria Wien
+Wels      1-1 VOEST
+Vienna      1-0 Admira/Wacker
+Innsbruck    3-0 Neusiedl
+
+Round 23
+[May 6]
+Austria Wien    1-0 Klagenfurt
+Austria Salzburg 4-1 LASK
+[May 7]
+Admira/Wacker    0-0 GAK
+Neusiedl    2-1 Rapid
+Sturm       2-1 Vienna
+VOEST      1-1 Eisenstadt
+Innsbruck    1-0 Simmering
+Sportclub    3-0 Wels
+
+Round 24
+[May 13]
+Klagenfurt    1-3 VOEST
+LASK      2-0 Neusiedl
+[May 14]
+GAK      2-1 Sturm
+Eisenstadt    1-2 Sportclub
+Wels      3-0 Admira/Wacker
+Vienna      1-1 Austria Salzburg
+[May 15]
+Simmering    0-4 Austria Wien
+Rapid      1-1 Innsbruck
+
+Round 25
+[May 20]
+Rapid      3-0 Simmering
+Sturm      3-1 Wels
+Austria Salzburg 2-0 GAK
+[May 21]
+Admira/Wacker    1-1 Eisenstadt
+Neusiedl    4-0 Vienna
+VOEST      1-3 Austria Wien
+Innsbruck    1-1 LASK
+Sportclub    2-2 Klagenfurt
+
+Round 26
+[May 27]
+Austria Wien    3-1 Sportclub
+Wels      0-1 Austria Salzburg
+[May 28]
+Simmering    0-1 VOEST
+Klagenfurt    2-1 Admira/Wacker
+GAK      2-1 Neusiedl
+LASK      3-0 Rapid
+Eisenstadt    1-2 Sturm
+Vienna      0-4 Innsbruck
+
+Round 27
+[Jun 3]
+LASK      4-2 Simmering
+Rapid      2-1 Vienna
+Austria Salzburg 6-2 Eisenstadt
+[Jun 4]
+Admira/Wacker    1-4 Austria Wien
+Neusiedl    1-0 Wels
+Sturm      3-1 Klagenfurt
+Innsbruck    2-2 GAK
+Sportclub    0-2 VOEST
+
+Round 28
+[Jun 10]
+Simmering    0-2 Sportclub
+VOEST      3-2 Admira/Wacker
+[Jun 11]
+Klagenfurt    5-2 Austria Salzburg
+Austria Wien    4-2 Sturm
+GAK      0-4 Rapid
+Eisenstadt    1-1 Neusiedl
+Wels      2-2 Innsbruck
+Vienna      1-0 LASK
+
+Round 29
+[Jun 17]
+Admira/Wacker    3-0 Sportclub
+LASK      3-3 GAK
+[Jun 18]
+Rapid      1-0 Wels
+Neusiedl    4-0 Klagenfurt
+Sturm      2-0 VOEST
+Austria Salzburg 0-2 Austria Wien
+Vienna      0-0 Simmering
+Innsbruck    1-0 Eisenstadt
+
+Round 30
+[Jun 24]
+Simmering    2-3 Admira/Wacker
+Klagenfurt    3-1 Innsbruck
+[Jun 25]
+Austria Wien    8-0 Neusiedl
+GAK      7-0 Vienna
+Eisenstadt    0-4 Rapid
+Wels      3-1 LASK
+VOEST      3-0 Austria Salzburg
+Sportclub    2-2 Sturm
+
+Table:
+
+ 1.SK Rapid                  30  20  8  2  72-18   48
+ 2.FK Austria                30  22  4  4  76-27   48
+ 3.Wacker Innsbruck          30  13 12  5  55-36   38
+ 4.SK Sturm Graz             30  16  5  9  50-33   37
+ 5.SV Austria Salzburg       30  14  6 10  45-34   34
+ 6.Austria Klagenfurt        30  13  6 11  52-49   32
+ 7.Grazer AK                 30  12  8 10  40-40   32
+ 8.VOEST Linz                30  12  8 10  41-42   32
+ 9.SC Eisenstadt             30   8 13  9  41-48   29
+10.FC Admira/Wacker          30   9  9 12  42-47   27
+11.Wiener Sport-Club         30  10  7 13  44-60   27
+12.Linzer ASK                30   9  7 14  42-49   25
+13.SC Neusiedl               30   7  7 16  29-49   21
+14.Union Wels                30   6  8 16  27-46   20
+-----------------------------------------------------
+15.First Vienna FC           30   7  5 18  25-61   19
+16.1.Simmeringer SC          30   2  7 21  20-62   11
+
+Topscorers:
+ 1.Johann Krankl (Rapid)    23
+ 2.Bozo Bakota (Sturm)      19
+ 3.Gerald Haider (VOEST)    18
+   Gerd Steinkogler (Austria)    18
+ 5.Peter Pacult (Sportclub)    16
+ 6.Richard Niederbacher (Sturm)        15
+   Antonin Panenka (Rapid)    15
+ 8.Felix Gasselich (Austria)    14
+   Alfred Roscher (Innsbruck)           14
+10.Erwin Schneider (Eisenstadt)    10
+
+2.Division
+
+ 1.SV Sankt Veit             30  16  8  6  49-35   40
+ 2.Favoritner AC             30  18  4  8  38-26   40
+-----------------------------------------------------
+ 3.Badener AC                30  16  6  8  51-31   38
+ 4.Bregenz/Dornbirn          30  14  9  7  41-24   37
+ 5.Flavia Solva Wagna        30  13  8  9  34-27   34
+ 6.Vorwärts Steyr            30  11 11  8  39-28   33
+ 7.SV Spittal/Drau           30  10 11  9  38-37   31
+ 8.Salzburger AK             30  10 11  9  33-33   31
+ 9.Donawitzer SV Alpine      30  12  6 12  40-31   30
+10.Kapfenberger SV           30  10  9 11  33-37   29
+11.Wolfsberger AC            30  10  7 13  38-39   27
+12.ASK Salzburg              30   8  9 13  30-36   25
+13.Wattens                   30   6 13 11  31-38   25
+-----------------------------------------------------
+14.Villacher SV              30   8  8 14  40-46   24
+15.SK Zell/See               30   6 11 13  27-52   23
+16.UFC Purbach               30   3  7 20  31-73   13
+
+Promoted to the 2.Division:
+ASK Voitsberg (Mitte)
+Kremser SC (Ost)
+SK Kufstein (West)
+
+‹1981/82, see page oost82›.
+
+‹1983/84, see page oost84›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
+
+Prepared and maintained by Ambrosius Kutschera
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Ambrosius Kutschera
+Last updated: 10 Oct 2004
+
+
+**(C) Copyright Ambrosius Kutschera and RSSSF 2003/04**
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.

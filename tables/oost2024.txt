@@ -1,7 +1,7 @@
-<!--
-   source: https://rsssf.org/tableso/oost2024.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tableso/oost2024.html
+    -->
+  
 
 
 ## Austria 2023/24
@@ -1214,7 +1214,7 @@ UFC St. Peter/Au              1-2 SK Korneuburg
 Union Eberstalzell            2-5 SC Schwanenstadt
 SV Lambrechten                0-2 UFC Rohrbach-Perg
 Viktoria Marchtrenk           0-3 ASKÖ Oedt
-SV Micheldorf  ´              0-1 SPG Friedburg/Pöndorf
+SV Micheldorf  '              0-1 SPG Friedburg/Pöndorf
 USV St. Ulrich                2-4 ASK St. Valentin
 SC Schalchen                  0-2 USC Ostermiething
 UFC Eferding                  1-4 SV Bad Schallerbach

@@ -1,7 +1,7 @@
-<!--
-   source: https://rsssf.org/tableso/oost2023.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tableso/oost2023.html
+    -->
+  
 
 
 ## Austria 2022/23
@@ -477,11 +477,11 @@ Topscorers:
 17 Tabakovic (Austria Wien)
 16 Baribo (Wolfsberger AC)
    Pink (Austria Klagenfurt)
-   &#352;e&#353;ko (Red Bull Salzburg)
+   Šeško (Red Bull Salzburg)
 14 Nakamura (LASK)
 13 Fridrikas (Austria Lustenau)
-12 Ljubi&#269;i&#263;, Marin (LASK)
-11 &#381;ulj, Robert (LASK)
+12 Ljubičić, Marin (LASK)
+11 Žulj, Robert (LASK)
 10 Nuhiu (Altach)
    Adamu (Red Bull Salzburg)
 

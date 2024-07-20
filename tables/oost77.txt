@@ -1,0 +1,426 @@
+  <!--
+     source: https://rsssf.org/tableso/oost77.html
+    -->
+  
+
+
+## Austria 1976/77
+
+
+1.Division
+
+Final Table:
+
+ 1.Wacker Innsbruck          36  21 11  4  51-22   53
+ 2.SK Rapid                  36  18 11  7  72-39   47
+ 3.FK Austria/WAC            36  19  7 10  72-44   45
+ 4.Linzer ASK                36  12 11 13  47-48   35
+ 5.VÖEST Linz                36  10 14 12  46-47   34
+ 6.FC Admira/Wacker          36  11 12 13  43-52   34
+ 7.First Vienna FC           36   9 13 14  34-40   31
+ 8.Grazer AK                 36   9 12 15  34-62   30
+ 9.SK Sturm Graz             36   9 10 17  40-55   28
+-----------------------------------------------------
+10.SV Austria Salzburg       36   9  5 22  34-64   23
+
+Spielgemeinschaft between FK Austria and WAC dissolved at end of te season
+
+Round 1
+[Aug 3]
+Admira/Wacker    0-1 Rapid
+Austria/WAC    0-2 Vienna
+[Aug 4]
+Austria Salzburg 1-0 VÖEST
+GAK      1-1 Innsbruck
+LASK      5-0 Sturm
+
+Round 2
+[Aug 10]
+Sturm      3-1 LASK
+Vienna      2-1 Austria/WAC
+VÖEST      1-2 Austria Salzburg
+[Aug 11]
+Rapid      2-0 Admira/Wacker
+Innsbruck    2-1 GAK
+
+Round 3
+[Aug 13]
+Austria Salzburg 1-1 Vienna
+LASK      2-2 Innsbruck
+[Aug 14]
+Austria/WAC    3-2 Rapid
+GAK      0-0 VÖEST
+[Aug 15]
+Admira/Wacker    3-0 Sturm
+
+Round 4
+[Aug 20]
+Rapid      0-1 Austria/WAC
+Sturm      1-1 Admira/Wacker
+VÖEST      5-0 GAK
+[Aug 21]
+Vienna      1-0 Austria Salzburg
+Innsbruck   3-0 LASK
+
+Round 5
+[Aug 27]
+Admira/Wacker    2-2 Innsbruck
+GAK      3-0 LASK
+VÖEST      1-1 Vienna
+[Aug 28]
+Austria Salzburg 4-2 Rapid
+Austria/WAC    2-0 Sturm
+
+Round 6
+[Aug 31]
+LASK      1-1 GAK
+Sturm      5-2 Austria/WAC
+Vienna      1-2 VÖEST
+Innsbruck    1-0 Admira/Wacker
+[Sep 1]
+Rapid      2-1 Austria Salzburg
+
+Round 7
+[Sep 3]
+Admira/Wacker    1-0 LASK
+VÖEST      2-2 Rapid
+[Sep 4]
+Austria Salzburg 4-1 Sturm
+Austria/WAC    1-1 Innsbruck
+GAK      1-1 Vienna
+
+Round 8
+[Sep 11]
+LASK      4-1 Admira/Wacker
+Rapid      0-0 VÖEST
+Sturm      1-0 Austria Salzburg
+Innsbruck    2-0 Austria/WAC
+[Sep 12]
+Vienna      0-1 GAK
+
+Round 9
+[Sep 18]
+Austria Salzburg 2-0 Innsbruck
+GAK      0-1 Admira/Wacker
+VÖEST      1-0 Sturm
+[Oct 5]
+Vienna      0-3 Rapid
+[Oct 6]
+Austria/WAC    3-1 LASK
+
+Round 10
+[Sep 24]
+LASK       0-1 Austria/WAC
+[Sep 25]
+Admira/Wacker    0-0 GAK
+Rapid      0-0 Vienna
+Sturm      3-1 VÖEST
+Innsbruck    0-0 Austria Salzburg
+
+Round 11
+[Oct 2]
+Admira/Wacker    4-6 Austria/WAC
+Rapid      4-2 LASK
+VÖEST      2-1 Innsbruck
+[Oct 3]
+GAK      3-1 Austria Salzburg
+Vienna      0-0 Sturm
+
+Round 12
+[Oct 8]
+Sturm      0-0 Vienna
+[Oct 9]
+Austria Salzburg 0-1 GAK
+Austria/WAC    1-1 Admira/Wacker
+LASK      2-2 Rapid
+Innsbruck    4-0 VÖEST
+
+Round 13 [Oct 16]
+Admira/Wacker    2-0 Austria Salzburg
+GAK      3-2 Austria/WAC
+Rapid      1-1 Sturm
+VÖEST      5-1 LASK
+Innsbruck    1-0 Vienna
+
+Round 14
+[Oct 23]
+Austria Salzburg 1-2 Admira/Wacker
+Austria/WAC    4-0 GAK
+LASK      1-0 VÖEST
+Sturm      1-2 Rapid
+[Oct 24]
+Vienna      0-1 Innsbruck
+
+Round 15
+[Oct 30]
+Austria Salzburg 0-5 LASK
+Rapid      0-1 Innsbruck
+VÖEST      0-2 Austria/WAC
+[Oct 31]
+Admira/Wacker    2-0 Vienna
+[Nov 3]
+GAK      0-3 Sturm
+
+Round 16 [Nov 6]
+Austria/WAC    1-1 VÖEST
+LASK      2-0 Austria Salzburg
+Sturm      2-1 GAK
+Vienna      2-2 Admira/Wacker
+Innsbruck    1-1 Rapid
+
+Round 17 [Nov 13]
+Admira/Wacker    1-1 VÖEST
+Austria Salzburg 1-2 Austria/WAC
+LASK      2-1 Vienna
+Rapid      5-3 GAK
+Sturm      0-4 Innsbruck
+
+Round 18 [Nov 20]
+Austria/WAC    2-0 Austria Salzburg
+GAK      0-1 Rapid
+Vienna      0-0 LASK
+VÖEST      3-1 Admira/Wacker
+Innsbruck    2-1 Sturm
+
+Round 19
+[Feb 26]
+Rapid      3-1 Admira/Wacker
+Sturm      2-2 LASK
+VÖEST      1-1 Austria Salzburg
+Innsbruck    4-1 GAK
+[Feb 27]
+Vienna      1-2 Austria/WAC
+
+Round 20
+[Mar 5]
+Austria Salzburg 1-0 Vienna
+Austria/WAC    1-1 Rapid
+GAK      1-1 VÖEST
+LASK      0-1 Innsbruck
+[Mar 6]
+Admira/Wacker    1-0 Sturm
+
+Round 21
+[Mar 12]
+LASK      1-0 GAK
+Rapid      5-0 Austria Salzburg
+Sturm      0-2 Austria/WAC
+Innsbruck    0-1 Admira/Wacker
+[Mar 13]
+Vienna      3-1 VÖEST
+
+Round 22
+[Mar 18]
+Admira/Wacker    1-1 LASK
+[Mar 19]
+Austria Salzburg 1-1 Sturm
+Austria/WAC    1-1 Innsbruck
+GAK      1-1 Vienna
+VÖEST      1-2 Rapid
+
+Round 23 [Mar 23]
+Admira/Wacker    2-0 GAK
+LASK      1-1 Austria/WAC
+Rapid      1-1 Vienna
+Sturm      3-1 VÖEST
+Innsbruck    1-0 Austria Salzburg
+
+Round 24
+[Mar 26]
+Admira/Wacker    1-3 Austria/WAC
+GAK      3-0 Austria Salzburg
+Rapid      3-0 LASK
+VÖEST      0-2 Innsbruck
+[Mar 27]
+Vienna      2-1 Sturm
+
+Round 25
+[Apr 1]
+Austria Salzburg 1-2 Admira/Wacker
+[Apr 2]
+Austria/WAC    3-1 GAK
+LASK      1-1 VÖEST
+Sturm      0-0 Rapid
+Innsbruck    2-0 Vienna
+
+Round 26
+[Apr 5]
+Admira/Wacker    0-0 Vienna
+Austria Salzburg 0-1 LASK
+Sturm      0-1 GAK
+[Apr 6]
+Rapid      1-1 Innsbruck
+[Apr 7]
+VÖEST      1-1 Austria/WAC
+
+Round 27
+[Apr 22]
+GAK      1-0 Rapid
+VÖEST      1-0 Admira/Wacker
+[Apr 23]
+Austria/WAC    5-1 Austria Salzburg
+Vienna      4-2 LASK
+Innsbruck    3-1 Sturm
+
+Round 28
+[May 6]
+Austria Salzburg 2-1 VÖEST
+Austria/WAC    3-4 Vienna
+GAK      1-1 Innsbruck
+LASK      0-0 Sturm
+[May 7]
+Admira/Wacker    2-2 Rapid
+
+Round 29 [May 10]
+Rapid      1-0 Austria/WAC
+Sturm      6-2 Admira/Wacker
+Vienna      2-1 Austria Salzburg
+VÖEST      1-1 GAK
+Innsbruck    1-0 LASK
+
+Round 30
+[May 13]
+Austria Salzburg 1-2 Rapid
+GAK      1-1 LASK
+VÖEST      0-0 Vienna
+[May 14]
+Admira/Wacker    0-1 Innsbruck
+Austria/WAC    3-0 Sturm
+
+Round 31
+[May 20]
+LASK      0-0 Admira/Wacker
+[May 21]
+Rapid      5-4 VÖEST
+Sturm      2-2 Austria Salzburg
+Vienna      0-1 GAK
+Innsbruck    1-0 Austria/WAC
+
+Round 32 [May 27]
+Austria Salzburg 2-0 Innsbruck
+Austria/WAC    0-1 LASK
+GAK      0-0 Admira/Wacker
+Vienna      0-1 Rapid
+VÖEST      1-0 Sturm
+
+Round 33
+[Jun 3]
+Austria Salzburg 2-1 GAK
+LASK      2-1 Rapid
+[Jun 4]
+Austria/WAC    4-1 Admira/Wacker
+Sturm      2-0 Vienna
+Innsbruck    0-0 VÖEST
+
+Round 34
+[Jun 8]
+VÖEST      2-1 LASK
+[Jun 10]
+Admira/Wacker    4-1 Austria Salzburg
+GAK      0-5 Austria/WAC
+Rapid      3-0 Sturm
+Vienna      1-1 Innsbruck
+
+Round 35
+[Jun 17]
+GAK      0-0 Sturm
+LASK      2-0 Austria Salzburg
+Vienna      3-0 Admira/Wacker
+[Jun 18]
+Austria/WAC    1-3 VÖEST
+Innsbruck    1-0 Rapid
+
+Round 36
+[Jun 21]
+Admira/Wacker    1-1 VÖEST
+Austria Salzburg 0-3 Austria/WAC
+[Jun 22]
+LASK      2-0 Vienna
+Rapid     11-1 GAK
+Sturm      0-1 Innsbruck
+
+Final Table:
+
+ 1.Wacker Innsbruck          36  21 11  4  51-22   53
+ 2.SK Rapid                  36  18 11  7  72-39   47
+ 3.FK Austria/WAC            36  19  7 10  72-44   45
+ 4.Linzer ASK                36  12 11 13  47-48   35
+ 5.VÖEST Linz                36  10 14 12  46-47   34
+ 6.FC Admira/Wacker          36  11 12 13  43-52   34
+ 7.First Vienna FC           36   9 13 14  34-40   31
+ 8.Grazer AK                 36   9 12 15  34-62   30
+ 9.SK Sturm Graz             36   9 10 17  40-55   28
+-----------------------------------------------------
+10.SV Austria Salzburg       36   9  5 22  34-64   23
+
+Spielgemeinschaft between FK Austria and WAC dissolved at end of te season
+
+Topscorers:
+ 1.Johann Krankl (Rapid)      32
+ 2.Helmut Köglberger (LASK)      17
+   Kurt Welzl (Innsbruck)      17
+ 4.Julio Cesar Morales (Austria Wien)    15
+ 5.Kurt Stendal (Sturm Graz)      12
+ 6.Helmut Kirisits (Rapid)      11
+   Johann Krejcirik (Rapid)      11
+   Hans Pirkner (Austria Wien)      11
+ 9.Friedrich Drazan (Austria Wien)    10
+10.Walter Roßkogler (VOEST Linz)    10
+
+2.Division
+
+ 1.Wiener Sport-Club/Post    30  18  9  3  53-23   45
+-----------------------------------------------------
+ 2.Donawitzer SV Alpine      30  20  4  6  68-31   44
+ 3.1. Wiener Neustädter SC   30  14 11  5  49-30   39
+ 4.Austria Klagenfurt        30  13 10  7  51-41   36
+ 5.FC Dornbirn               30  11 13  6  35-36   35
+ 6.1. Simmeringer SC         30  11 10  9  51-33   32
+ 7.SC Eisenstadt             30  10 10 10  40-43   30
+ 8.SV Sankt Veit             30   9 10 11  41-48   28
+ 9.Schwarz-Weiß Bregenz      30  11  6 13  32-43   28
+10.SCA Sankt Veit            30   9  9 12  31-38   27
+11.ASV Stockerau             30   9  8 13  38-41   26
+12.Villacher SV              30   6 13 11  34-44   25
+13.SC Tulln                  30   7 11 12  34-49   25
+-----------------------------------------------------
+14.Wolfsberger AC            30   9  6 15  40-51   24
+15.Kremser SC                30   6  7 17  30-45   19
+16.Salzburger AK             30   6  5 19  25-56   17
+
+Promoted to the 2.Division:
+Kapfenberger SV (Mitte)
+ASV Kittsee (Ost)
+ASK Salzburg (West)
+
+‹1975/76, see page oost76›.
+
+‹1977/78, see page oost78›.
+
+‹list of final tables, see page oosthist›.
+
+‹list of champions, see page oostchamp›.
+
+‹list of cup finals, see page oostcuphist›.
+
+‹list of super cup finals, see page oostsupcuphist›.
+
+‹list of foundation dates, see page oostfound›.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## About this document  ‹§about›
+
+Prepared and maintained by Ambrosius Kutschera
+for the ‹Rec.Sport.Soccer Statistics Foundation›
+
+
+Author: Ambrosius Kutschera
+Last updated: 10 Oct 2004
+
+
+**(C) Copyright Ambrosius Kutschera and RSSSF 2003/04**
+You are free to copy this document in whole or part provided that proper
+acknowledgement is given to the author. All rights reserved.
