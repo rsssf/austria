@@ -109,3 +109,14 @@ by (charset) encoding  (only incl. .html):
 
 
 report broken links - 404 page not found:
+
+
+
+
+
+
+
+## more
+
+for notes on using the `wget` command-line tool to mirror the rsssf.org website,
+see [/wget »](wget)
