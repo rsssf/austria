@@ -1,0 +1,495 @@
+path,links,title
+/tables/00a.html,7/4,African Nations Cup 2000
+/tables/00a-det.html,0/1,-
+/tables/00a-qdet.html,3/2,African Nations Cup 2000 - Qualifying Tournament Details
+/tables/00a-scor.html,0/2,-
+/tables/00allanch.html,9/9,African Nations Championship
+/tables/00as-scor.html,0/2,-
+/tables/00asch.html,6/3,Asian Nations Cup 2000
+/tables/00asch-ext.html,0/1,-
+/tables/00e.html,6/3,European Championship 2000
+/tables/00e-ext.html,0/1,-
+/tables/00e-final.html,0/1,-
+/tables/00e-scor.html,0/1,-
+/tables/00gc.html,0/3,-
+/tables/00gc-details.html,2/1,"CONCACAF Championship, Gold Cup 2000 - Full Details"
+/tables/00gc-scor.html,0/1,-
+/tables/00oc.html,0/2,-
+/tables/00oc-scor.html,0/1,-
+/tables/02a.html,6/3,African Nations Cup 2002
+/tables/02a-det.html,0/1,-
+/tables/02a-scor.html,0/2,-
+/tables/02gc.html,0/2,-
+/tables/02gc-scor.html,0/1,-
+/tables/02oc.html,0/1,-
+/tables/02oc-scor.html,0/1,-
+/tables/03gc.html,0/2,-
+/tables/03gc-scor.html,0/1,-
+/tables/04a.html,6/3,African Nations Cup 2004
+/tables/04a-det.html,0/1,-
+/tables/04a-scor.html,0/2,-
+/tables/04as-scor.html,0/1,-
+/tables/04asch.html,5/3,Asian Nations Cup 2004
+/tables/04asch-ext.html,0/1,-
+/tables/04e.html,6/3,European Championship 2004
+/tables/04e-ext.html,0/1,-
+/tables/04e-scor.html,0/2,-
+/tables/04oc.html,0/2,-
+/tables/04oc-scor.html,0/1,-
+/tables/05gc.html,0/2,-
+/tables/05gc-scor.html,0/1,-
+/tables/06a.html,8/5,African Nations Cup 2006
+/tables/06a-det.html,0/1,-
+/tables/06a-qdet.html,4/2,African Nations Cup 2006 - Qualifying Tournament Details
+/tables/06a-scor.html,0/1,-
+/tables/07as-scor.html,0/1,-
+/tables/07asch.html,5/3,Asian Nations Cup 2007
+/tables/07asch-det.html,0/1,-
+/tables/07gc.html,0/2,-
+/tables/07gc-scor.html,0/1,-
+/tables/08a.html,6/3,African Nations Cup 2008
+/tables/08a-det.html,0/1,-
+/tables/08a-scor.html,0/2,-
+/tables/08e.html,5/3,European Championship 2008
+/tables/08e-det.html,0/1,-
+/tables/08oc.html,0/2,-
+/tables/08oc-scor.html,0/1,-
+/tables/09anch.html,4/2,African Nations Championship 2009
+/tables/09anch-det.html,0/1,-
+/tables/09gc.html,0/2,-
+/tables/09gc-scor.html,0/1,-
+/tables/11asch.html,6/4,Asian Nations Cup 2011
+/tables/16sa-scor.html,0/1,-
+/tables/16safull.html,2/2,South American Championship 1916
+/tables/17sa-scor.html,0/1,-
+/tables/17safull.html,2/2,Southamerican Championship 1917
+/tables/1933chile-perutour.html,0/1,-
+/tables/19sa-scor.html,0/1,-
+/tables/19safull.html,2/3,Southamerican Championship 1919
+/tables/2001sa-scor.html,0/1,-
+/tables/2001safull.html,2/2,Copa América 2001
+/tables/2002f.html,7/6,World Cup 2002
+/tables/2002f-countries.html,0/1,-
+/tables/2002full.html,2/3,World Cup 2002 - Match Details
+/tables/2002q.html,5/5,World Cup 2002 Qualifying
+/tables/2002q-scor.html,4/2,World Cup 2002 (Final Tournament and Qualifiers) - Goal Scorers
+/tables/2002wcq-afr.html,2/2,World Cup 2002 Qualifying - Africa
+/tables/2002wcq-sam.html,0/1,-
+/tables/2004sa-scor.html,0/1,-
+/tables/2004safull.html,2/2,Copa América 2004
+/tables/2006f.html,6/6,World Cup 2006
+/tables/2006full.html,2/3,World Cup 2006 - Match Details
+/tables/2006q.html,8/5,World Cup 2006 Qualifying
+/tables/2006q-det.html,0/2,-
+/tables/2006q-scor.html,4/3,World Cup 2006 (Qualifiers) - Goal Scorers
+/tables/2007sa-scor.html,0/1,-
+/tables/2007safull.html,2/2,Copa América 2007
+/tables/2010a.html,10/4,African Nations Cup 2010
+/tables/2010a-det.html,0/1,-
+/tables/2010a-qdet.html,4/3,African Nations Cup 2010 - Qualifying Tournament Details
+/tables/2010a-scor.html,0/2,-
+/tables/2010f.html,6/5,World Cup 2010
+/tables/2010full.html,2/3,World Cup 2010 - Match Details
+/tables/2010q.html,7/4,World Cup 2010 Qualifying
+/tables/2010q-det.html,0/1,-
+/tables/2011anch.html,5/3,African Nations Championship 2011
+/tables/2011anch-det.html,0/1,-
+/tables/2011as-scor.html,0/1,-
+/tables/2011gc.html,0/2,-
+/tables/2011gc-scor.html,0/1,-
+/tables/2011sa.html,0/1,-
+/tables/2011sa-scor.html,0/1,-
+/tables/2011safull.html,2/1,Copa América 2011
+/tables/2012a.html,6/4,African Nations Cup 2012
+/tables/2012a-det.html,0/1,-
+/tables/2012a-qdet.html,3/2,African Nations Cup 2012 - Qualifying Tournament Details
+/tables/2012a-scor.html,0/1,-
+/tables/2012e.html,5/3,European Championship 2012
+/tables/2012e-det.html,0/1,-
+/tables/2012oc.html,0/3,-
+/tables/2012oc-scor.html,0/1,-
+/tables/2013a.html,5/4,African Nations Cup 2013
+/tables/2013a-qdet.html,3/2,African Nations Cup 2013 - Qualifying Tournament Details
+/tables/2013a-scor.html,0/1,-
+/tables/2013gc.html,0/3,-
+/tables/2013gc-scor.html,0/1,-
+/tables/2014anch.html,5/3,African Nations Championship 2014
+/tables/2014anch-det.html,0/1,-
+/tables/2014f.html,6/5,World Cup 2014
+/tables/2014full.html,2/3,World Cup 2014 - Match Details
+/tables/2014q.html,4/2,World Cup 2014 Qualifying
+/tables/2015a.html,6/5,African Nations Cup 2015
+/tables/2015a-det.html,3/2,African Nations Cup 2015 - Final Tournament Details
+/tables/2015a-qdet.html,3/2,African Nations Cup 2015 - Qualifying Tournament Details
+/tables/2015a-scor.html,0/1,-
+/tables/2015as-scor.html,0/1,-
+/tables/2015asch.html,7/3,Asian Nations Cup 2015
+/tables/2015asch-det.html,0/1,-
+/tables/2015conc.html,4/2,CONCACAF Cup 2015
+/tables/2015gc.html,0/3,-
+/tables/2015gc-scor.html,0/1,-
+/tables/2015sa.html,4/2,Copa América 2015
+/tables/2015sa-scor.html,0/1,-
+/tables/2016anch.html,5/3,African Nations Championship 2016
+/tables/2016anch-det.html,0/1,-
+/tables/2016concpo.html,0/1,-
+/tables/2016e.html,5/3,European Championship 2016
+/tables/2016e-det.html,0/1,-
+/tables/2016oc.html,4/3,Oceanian Nations Cup 2016
+/tables/2016oc-scor.html,0/1,-
+/tables/2016sa.html,5/3,Copa América (Centenario) 2016
+/tables/2016sa-scor.html,0/1,-
+/tables/2016soli.html,5/4,2016 AFC Solidarity Cup (Malaysia)
+/tables/2017a.html,6/4,African Nations Cup 2017
+/tables/2017a-det.html,0/1,-
+/tables/2017a-qdet.html,3/2,African Nations Cup 2017 - Qualifying Tournament Details
+/tables/2017a-scor.html,0/1,-
+/tables/2017gc.html,0/2,-
+/tables/2017gc-scor.html,0/1,-
+/tables/2018anch.html,5/3,African Nations Championship 2018
+/tables/2018anch-det.html,0/1,-
+/tables/2018f.html,6/5,World Cup 2018
+/tables/2018full.html,2/3,World Cup 2018 - Match Details
+/tables/2018q.html,5/5,World Cup 2018 Qualifying
+/tables/2019a.html,6/3,African Nations Cup 2019
+/tables/2019a-det.html,0/1,-
+/tables/2019a-qdet.html,0/1,-
+/tables/2019a-scor.html,0/1,-
+/tables/2019as-scor.html,0/1,-
+/tables/2019asch.html,6/5,Asian Nations Cup 2019
+/tables/2019gc.html,0/3,-
+/tables/2019gc-scor.html,0/1,-
+/tables/2019sa.html,4/3,Copa América 2019
+/tables/2019sa-scor.html,0/1,-
+/tables/2019uefanl.html,4/3,UEFA Nations League 2018/19
+/tables/2020anch.html,5/3,African Nations Championship 2020/21
+/tables/2020anch-det.html,0/1,-
+/tables/2020concanl.html,5/4,CONCACAF Nations League 2018-21
+/tables/2020e.html,7/5,European Championship 2021
+/tables/2021a.html,6/5,African Nations Cup 2021/22
+/tables/2021a-det.html,3/2,African Nations Cup 2021 - Final Tournament Details
+/tables/2021a-qdet.html,3/2,African Nations Cup 2021 - Qualifying Tournament Details
+/tables/2021a-scor.html,0/1,-
+/tables/2021e-det.html,0/1,-
+/tables/2021gc.html,0/5,-
+/tables/2021gc-scor.html,0/1,-
+/tables/2021sa.html,4/3,Copa América 2021
+/tables/2021sa-scor.html,0/1,-
+/tables/2021uefanl.html,4/3,UEFA Nations League 2020/21
+/tables/2022anch.html,4/3,African Nations Championship 2022/23
+/tables/2022f.html,4/5,World Cup 2022
+/tables/2022q.html,4/5,World Cup 2022 Qualifying
+/tables/2023a.html,6/5,African Nations Cup 2023/24
+/tables/2023a-det.html,3/2,African Nations Cup 2023 - Final Tournament Details
+/tables/2023a-qdet.html,3/2,African Nations Cup 2023 - Qualifying Tournament Details
+/tables/2023a-scor.html,0/1,-
+/tables/2023as-scor.html,0/1,-
+/tables/2023asch.html,4/5,Asian Nations Cup 2024
+/tables/2023concanl.html,5/4,CONCACAF Nations League 2022-23
+/tables/2023gc.html,5/5,"CONCACAF Championship, Gold Cup 2023"
+/tables/2023gc-scor.html,0/1,-
+/tables/2023uefanl.html,4/4,UEFA Nations League 2022/23
+/tables/2024anch.html,3/4,African Nations Championship 2024/25
+/tables/2024concanl.html,5/4,CONCACAF Nations League 2023-24
+/tables/2024e.html,4/4,European Championship 2024
+/tables/2024oc.html,3/4,Oceanian Nations Cup 2024
+/tables/2024oc-scor.html,0/1,-
+/tables/2024sa.html,4/5,Copa América 2024
+/tables/2024sa-scor.html,0/1,-
+/tables/2024wuefanl.html,4/4,UEFA Women's Nations League 2023/24
+/tables/2025a.html,5/6,African Nations Cup 2025/26
+/tables/2025a-det.html,3/2,African Nations Cup 2025 - Final Tournament Details
+/tables/2025a-qdet.html,3/2,African Nations Cup 2025 - Qualifying Tournament Details
+/tables/2025concanl.html,2/4,CONCACAF Nations League 2024-25
+/tables/2025gc.html,4/5,"CONCACAF Championship, Gold Cup 2025"
+/tables/2025gc-scor.html,0/1,-
+/tables/2025uefanl.html,3/4,UEFA Nations League 2024/25
+/tables/2025wuefanl.html,3/3,UEFA Women's Nations League 2025
+/tables/2026a-scor.html,0/1,-
+/tables/20sa-scor.html,0/1,-
+/tables/20safull.html,2/2,Southamerican Championship 1920
+/tables/21sa-scor.html,0/1,-
+/tables/21safull.html,2/2,Southamerican Championship 1921
+/tables/22sa-scor.html,0/1,-
+/tables/22safull.html,2/2,Southamerican Championship 1922
+/tables/23sa-scor.html,0/1,-
+/tables/23safull.html,2/3,Southamerican Championship 1923
+/tables/24sa-scor.html,0/1,-
+/tables/24safull.html,2/2,Southamerican Championship 1924
+/tables/25sa-scor.html,0/1,-
+/tables/25safull.html,2/2,Southamerican Championship 1925
+/tables/26sa-scor.html,0/1,-
+/tables/26safull.html,2/2,Southamerican Championship 1926
+/tables/27sa-scor.html,0/1,-
+/tables/27safull.html,2/2,Southamerican Championship 1927
+/tables/29sa-scor.html,0/1,-
+/tables/29safull.html,2/2,Southamerican Championship 1929
+/tables/3002f.html,1/2,World Cup Final Tournaments 1930-2022 - Total Rankings
+/tables/30all-scor.html,2/2,World Cup 1930-2026 - Final Tournaments - Top-100 Goal Scorers
+/tables/30f.html,8/4,World Cup 1930
+/tables/30f-hattrick.html,1/3,The first World Cup hat trick
+/tables/30f-scor.html,4/2,World Cup 1930 - Goal Scorers
+/tables/30full.html,8/4,World Cup 1930 finals
+/tables/30q.html,0/1,-
+/tables/34cubacampaign.html,2/3,Cuba in the 1934 World Cup versus Haiti and Mexico
+/tables/34f.html,6/5,World Cup 1934
+/tables/34full.html,0/4,World Cup 1934 finals
+/tables/34q.html,5/6,World Cup 1934 Qualifying
+/tables/34qf-scor.html,6/2,World Cup 1934 - Goal Scorers
+/tables/34qual.html,3/4,WORLD CUP 1934 - QUALIFYING
+/tables/35sa-scor.html,0/1,-
+/tables/35safull.html,2/2,Southamerican Championship 1935
+/tables/37sa-scor.html,0/1,-
+/tables/37safull.html,2/2,Southamerican Championship 1937
+/tables/38f.html,6/5,World Cup 1938
+/tables/38full.html,0/5,World Cup 1938 finals
+/tables/38q.html,4/3,World Cup 1938 Qualifying
+/tables/38qf-scor.html,6/2,World Cup 1938 - Goal Scorers
+/tables/38qual.html,1/4,WORLD CUP 1938 - QUALIFYING
+/tables/39sa-scor.html,0/1,-
+/tables/39safull.html,2/2,Southamerican Championship 1939
+/tables/3rdlanark-satrip23.html,0/1,-
+/tables/41sa-scor.html,0/1,-
+/tables/41safull.html,2/2,Southamerican Championship 1941
+/tables/42sa-scor.html,0/1,-
+/tables/42safull.html,2/2,Southamerican Championship 1942
+/tables/45sa-scor.html,0/1,-
+/tables/45safull.html,2/2,Southamerican Championship 1945
+/tables/46sa-scor.html,0/1,-
+/tables/46safull.html,2/2,Southamerican Championship 1946
+/tables/47sa-scor.html,0/1,-
+/tables/47safull.html,2/2,Southamerican Championship 1947
+/tables/49sa-scor.html,0/1,-
+/tables/49safull.html,2/2,Southamerican Championship 1949
+/tables/50f.html,6/6,World Cup 1950
+/tables/50full.html,0/4,World Cup 1950 finals
+/tables/50q.html,5/7,World Cup 1950 Qualifying
+/tables/50q-det.html,2/2,World Cup 1950 - Qualifying
+/tables/50qf-scor.html,6/2,World Cup 1950 - Goal Scorers
+/tables/50qual.html,0/3,-
+/tables/53sa-scor.html,0/1,-
+/tables/53safull.html,2/2,Southamerican Championship 1953
+/tables/54f.html,6/5,World Cup 1954
+/tables/54full.html,0/4,World Cup 1954 finals
+/tables/54q.html,5/6,World Cup 1954 Qualifying
+/tables/54q-det.html,2/2,World Cup 1954 - Qualifying
+/tables/54qf-scor.html,6/2,World Cup 1954 - Goal Scorers
+/tables/54qual.html,0/3,-
+/tables/55sa-scor.html,0/1,-
+/tables/55safull.html,2/2,Southamerican Championship 1955
+/tables/56as-scor.html,0/1,-
+/tables/56asch.html,4/2,Asian Nations Cup 1956
+/tables/56sa-scor.html,0/1,-
+/tables/56safull.html,2/2,Southamerican Championship 1956
+/tables/5700a.html,1/2,African Cup of Nations - All-Time Table
+/tables/57a.html,3/2,African Nations Cup 1957
+/tables/57a-det.html,0/1,-
+/tables/57sa-scor.html,0/1,-
+/tables/57safull.html,2/2,Southamerican Championship 1957
+/tables/58f.html,6/5,World Cup 1958
+/tables/58full.html,0/4,World Cup 1958 finals
+/tables/58q.html,5/4,World Cup 1958 Qualifying
+/tables/58qf-scor.html,6/2,World Cup 1958 - Goal Scorers
+/tables/58qual.html,0/3,-
+/tables/59-1sa-scor.html,0/1,-
+/tables/59-1safull.html,2/2,Southamerican Championship 1959 (1st Tournament)
+/tables/59-2sa-scor.html,0/1,-
+/tables/59-2safull.html,2/2,Southamerican Championship 1959 (2nd Tournament)
+/tables/59a.html,4/3,African Nations Cup 1959
+/tables/59a-det.html,0/1,-
+/tables/60as-scor.html,0/1,-
+/tables/60asch.html,6/3,Asian Nations Cup 1960
+/tables/60asch-det.html,0/1,-
+/tables/60e.html,6/3,European Championship 1960
+/tables/60e-det.html,0/1,-
+/tables/60e-full.html,0/1,-
+/tables/60e-scor.html,0/2,-
+/tables/62a.html,6/3,African Nations Cup 1962
+/tables/62a-qdet.html,0/1,-
+/tables/62a-scor.html,0/2,-
+/tables/62f.html,6/5,World Cup 1962
+/tables/62full.html,0/4,World Cup 1962 finals
+/tables/62q.html,7/3,World Cup 1962 Qualifying
+/tables/62qf-scor.html,6/2,World Cup 1962 - Goal Scorers
+/tables/62quafr.html,0/1,-
+/tables/62qual.html,0/3,-
+/tables/63a.html,5/3,African Nations Cup 1963
+/tables/63a-scor.html,0/2,-
+/tables/63sa-scor.html,0/1,-
+/tables/63safull.html,2/2,Southamerican Championship 1963
+/tables/64as-scor.html,0/1,-
+/tables/64asch.html,4/3,Asian Nations Cup 1964
+/tables/64e.html,7/3,European Championship 1964
+/tables/64e-det.html,0/1,-
+/tables/64e-full.html,0/1,-
+/tables/64e-scor.html,0/2,-
+/tables/65a.html,5/3,African Nations Cup 1965
+/tables/65a-scor.html,0/2,-
+/tables/66f.html,6/4,World Cup 1966
+/tables/66full.html,0/3,World Cup 1966 finals
+/tables/66q.html,4/2,World Cup 1966 Qualifying
+/tables/66qf-scor.html,0/1,-
+/tables/66qual.html,0/2,-
+/tables/67sa-scor.html,0/1,-
+/tables/67safull.html,2/2,Southamerican Championship 1967
+/tables/68a.html,6/3,African Nations Cup 1968
+/tables/68a-det.html,0/1,-
+/tables/68a-scor.html,0/2,-
+/tables/68as-scor.html,0/2,-
+/tables/68asch.html,5/3,Asian Nations Cup 1968
+/tables/68e.html,6/4,European Championship 1968
+/tables/68e-det.html,0/1,-
+/tables/68e-full.html,0/1,-
+/tables/70a.html,6/3,African Nations Cup 1970
+/tables/70a-det.html,0/1,-
+/tables/70a-scor.html,0/2,-
+/tables/70f.html,6/4,World Cup 1970
+/tables/70full.html,0/3,World Cup 1970 finals
+/tables/70q.html,5/2,World Cup 1970 Qualifying
+/tables/70qual.html,0/2,-
+/tables/72a.html,6/3,African Nations Cup 1972
+/tables/72a-det.html,0/1,-
+/tables/72a-scor.html,0/2,-
+/tables/72as-scor.html,0/1,-
+/tables/72asch.html,4/3,Asian Nations Cup 1972
+/tables/72e.html,6/3,European Championship 1972
+/tables/72e-full.html,0/1,-
+/tables/72e-fulldet.html,0/1,-
+/tables/73oc.html,0/1,-
+/tables/73oc-scor.html,0/1,-
+/tables/74a.html,5/3,African Nations Cup 1974
+/tables/74a-det.html,0/1,-
+/tables/74a-scor.html,0/1,-
+/tables/74f.html,6/4,World Cup 1974
+/tables/74full.html,0/3,World Cup 1974 finals
+/tables/74q.html,4/2,World Cup 1974 Qualifying
+/tables/74qual.html,0/2,-
+/tables/75sa-scor.html,0/1,-
+/tables/75safull.html,2/2,Copa América 1975
+/tables/76a.html,5/3,African Nations Cup 1976
+/tables/76a-det.html,0/1,-
+/tables/76a-scor.html,0/1,-
+/tables/76as-scor.html,0/2,-
+/tables/76asch.html,5/3,Asian Nations Cup 1976
+/tables/76e.html,6/3,European Championship 1976
+/tables/76e-full.html,0/1,-
+/tables/76e-fulldet.html,0/1,-
+/tables/78a.html,5/3,African Nations Cup 1978
+/tables/78a-det.html,0/1,-
+/tables/78a-scor.html,0/1,-
+/tables/78f.html,6/4,World Cup 1978
+/tables/78full.html,0/3,World Cup 1978 finals
+/tables/78q.html,4/2,World Cup 1978 Qualifying
+/tables/78qual.html,0/2,-
+/tables/79sa-scor.html,0/1,-
+/tables/79safull.html,2/2,Copa América 1979
+/tables/80a.html,5/3,African Nations Cup 1980
+/tables/80a-det.html,0/1,-
+/tables/80a-scor.html,0/1,-
+/tables/80as-scor.html,0/2,-
+/tables/80asch.html,5/3,Asian Nations Cup 1980
+/tables/80e.html,6/3,European Championship 1980
+/tables/80e-full.html,0/1,-
+/tables/80e-fulldet.html,0/1,-
+/tables/80oc.html,0/1,-
+/tables/80oc-scor.html,0/1,-
+/tables/82a.html,5/3,African Nations Cup 1982
+/tables/82a-det.html,0/1,-
+/tables/82a-scor.html,0/1,-
+/tables/82f.html,6/5,World Cup 1982
+/tables/82full.html,0/3,World Cup 1982 finals
+/tables/82q.html,4/2,World Cup 1982 Qualifying
+/tables/82qual.html,0/2,-
+/tables/83sa-scor.html,0/1,-
+/tables/83safull.html,2/2,Copa América 1983
+/tables/84a.html,6/3,African Nations Cup 1984
+/tables/84a-det.html,0/1,-
+/tables/84a-scor.html,0/2,-
+/tables/84as-scor.html,0/1,-
+/tables/84asch.html,5/3,Asian Nations Cup 1984
+/tables/84asch-det.html,0/1,-
+/tables/84e.html,6/3,European Championship 1984
+/tables/84e-full.html,0/1,-
+/tables/84e-qual.html,0/1,-
+/tables/86a.html,6/3,African Nations Cup 1986
+/tables/86a-det.html,0/1,-
+/tables/86a-scor.html,0/2,-
+/tables/86f.html,6/4,World Cup 1986
+/tables/86full.html,0/3,World Cup 1986 finals
+/tables/86q.html,4/2,World Cup 1986 Qualifying
+/tables/86qual.html,0/2,-
+/tables/87sa-scor.html,0/1,-
+/tables/87safull.html,2/2,Copa América 1987
+/tables/88a.html,7/4,African Nations Cup 1988
+/tables/88a-det.html,0/1,-
+/tables/88a-scor.html,0/2,-
+/tables/88as-scor.html,0/2,-
+/tables/88asch.html,6/3,Asian Nations Cup 1988
+/tables/88asch-det.html,0/1,-
+/tables/88e.html,6/3,European Championship 1988
+/tables/88e-full.html,0/1,-
+/tables/88e-qual.html,0/1,-
+/tables/89sa-scor.html,0/1,-
+/tables/89safull.html,2/2,Copa América 1989
+/tables/90a.html,6/3,African Nations Cup 1990
+/tables/90a-det.html,0/1,-
+/tables/90a-scor.html,0/2,-
+/tables/90f.html,6/4,World Cup 1990
+/tables/90full.html,0/3,World Cup 1990 finals
+/tables/90q.html,5/4,World Cup 1990 Qualifying
+/tables/90qual.html,0/2,-
+/tables/91gc.html,0/2,-
+/tables/91gc-scor.html,0/1,-
+/tables/91sa-scor.html,0/1,-
+/tables/91safull.html,2/2,Copa América 1991
+/tables/92a.html,5/3,African Nations Cup 1992
+/tables/92a-scor.html,0/2,-
+/tables/92as-scor.html,0/2,-
+/tables/92asch.html,7/3,Asian Nations Cup 1992
+/tables/92asch-det.html,0/1,-
+/tables/92e.html,5/3,European Championship 1992
+/tables/92e-full.html,0/1,-
+/tables/93gc.html,0/2,-
+/tables/93gc-scor.html,0/1,-
+/tables/93sa-scor.html,0/1,-
+/tables/93safull.html,2/2,Copa América 1993
+/tables/94a.html,6/3,African Nations Cup 1994
+/tables/94a-det.html,0/1,-
+/tables/94a-scor.html,0/2,-
+/tables/94f.html,6/4,World Cup 1994
+/tables/94full.html,0/3,World Cup 1994 finals
+/tables/94q.html,4/2,World Cup 1994 Qualifying
+/tables/94qual.html,0/2,-
+/tables/95sa-scor.html,0/1,-
+/tables/95safull.html,2/2,Copa América 1995
+/tables/96a.html,6/3,African Nations Cup 1996
+/tables/96a-det.html,0/1,-
+/tables/96a-scor.html,0/2,-
+/tables/96as-scor.html,0/2,-
+/tables/96asch.html,6/3,Asian Nations Cup 1996
+/tables/96asch-ext.html,0/1,-
+/tables/96e.html,8/3,European Championship 1996
+/tables/96e-f.html,0/1,-
+/tables/96e-fullstats.html,0/1,-
+/tables/96e-q.html,0/1,-
+/tables/96e-scor.html,0/1,-
+/tables/96gc.html,0/2,-
+/tables/96gc-scor.html,0/1,-
+/tables/96oc.html,0/3,-
+/tables/96oc-scor.html,0/1,-
+/tables/97sa-scor.html,0/1,-
+/tables/97safull.html,2/2,Copa América 1997
+/tables/98-qual-det.html,0/1,-
+/tables/98a.html,6/3,African Nations Cup 1998
+/tables/98a-det.html,0/1,-
+/tables/98a-scor.html,0/2,-
+/tables/98f.html,6/4,World Cup 1998
+/tables/98full.html,0/3,World Cup 1998 finals
+/tables/98gc.html,0/2,-
+/tables/98gc-scor.html,0/1,-
+/tables/98oc.html,0/3,-
+/tables/98oc-scor.html,0/1,-
+/tables/98q.html,5/3,World Cup 1998 Qualifying
+/tables/98qual.html,0/2,-
+/tables/99sa-scor.html,0/1,-
+/tables/99safull.html,2/2,Copa América 1999
